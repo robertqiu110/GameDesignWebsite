@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+	<link href="https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Quicksand|Saira+Condensed" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.green-blue.min.css">
+	<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<title></title>
+</head>
+<body>
+	<!-- Always shows a header, even in smaller screens. -->
+	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+	  <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+          <!-- Title -->
+          <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" id="navfont" href="index.html"><img src="images/favicon.png" style="width:50px;height:50px;"></a>
+            </nav>
+          <span class="mdl-layout-title" id="titlefont">&ensp; Club</span>
+
+          <div class="mdl-layout-spacer"></div>
+          <nav class="mdl-navigation mdl-layout--large-screen-only">
+            <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
+            <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
+            <a class="mdl-navigation__link" id="navfont" href="events.html">Events</a>
+            <a class="mdl-navigation__link" id="navfont" href="projects.html">Projects</a>
+          </nav>
+        </div>
+      </header>
+	  <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+	    <span class="mdl-layout-title" id="titlefont">Club</span>
+	    <nav class="mdl-navigation">
+	      <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
+        <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
+        <a class="mdl-navigation__link" id="navfont" href="events.html">Events</a>
+        <a class="mdl-navigation__link" id="navfont" href="projects.html">Projects</a>
+	    </nav>
+	  </div>
+	  <div class="background club"></div>
+	  <main class="mdl-layout__content">
+	    <div class="page-content"">
+        <br/><br/><br/>
+	    	<h1 class="section-title" id="course-description" style="text-align: center;">Coming Soon!</h1>
+	    	<div class="mdl-grid">
+  				<div class="mdl-cell mdl-cell--4-col" id="cell-spacer" style="height: 75vh"></div>
+ 				<div class="mdl-cell mdl-cell--4-col" id="cell-spacer" style="height: 75vh"></div>
+  				<div class="mdl-cell mdl-cell--4-col" id="cell-spacer" style="height: 75vh"></div>
+  				<div class="mdl-cell mdl-cell--4-col mdl-layout--small-screen-only" id="cell-spacer" style="height: 15vh"></div>
+			</div>
+	    	
+	    </div>
+
+      <button id="apply-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-button__container">
+        apply
+      </button>
+      <div class="mdl-button__container">
+        <button id="hover-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">
+            apply
+        </button>
+        <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" for="hover-menu-lower-right">
+            <a class="mdl-menu__item" target="_blank" href="https://goo.gl/forms/CVEcDYw5JESkvQaf2">Decal</a>
+            <a class="mdl-menu__item" target="_blank" href="https://discord.gg/AnbuQba">Club</a>
+        </ul>
+      </div>
+	    
+	    <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer__left-section">
+    	        <div class="mdl-logo">Game Design and Development at Berkeley
+    	        </div>
+            </div>
+   		        <div class="mdl-mini-footer__right-section">
+    	            <ul class="mdl-mini-footer__link-list">
+      	              <div style="padding-right: 20px;">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</div>       
+                        <li><a href="https://www.ocf.berkeley.edu">
+    					<img src="images/ocf-hosted-penguin.svg"
+        				alt="Hosted by the OCF" style="border: 0; padding-right: 80px;" />
+						</a></li>
+                    </ul>
+                </div>
+        </footer>
+	  </main>
+	  
+	  
+	  
+	</div>
+
+</body>
+</html>

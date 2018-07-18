@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+	<link href="https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Quicksand|Saira+Condensed" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+	<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="calendar.css">
+	<link rel="stylesheet" href="style.css">
+	<title></title>
+</head>
+<body>
+	<!-- Always shows a header, even in smaller screens. -->
+	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+	  <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+          <!-- Title -->
+          <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" id="navfont" href="index.html"><img src="images/favicon.png" style="width:50px;height:50px;"></a>
+            </nav>
+          <span class="mdl-layout-title" id="titlefont">&ensp; CS198-??: Game Design and Development, Fall 2018</span>
+
+          <div class="mdl-layout-spacer"></div>
+          <nav class="mdl-navigation mdl-layout--large-screen-only">
+            <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
+            <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
+            <a class="mdl-navigation__link" id="navfont" href="events.html">Events</a>
+            <a class="mdl-navigation__link" id="navfont" href="projects.html">Projects</a>
+          </nav>
+        </div>
+      </header>
+	  <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+	    <span class="mdl-layout-title" id="titlefont">GDD: Fall 2018</span>
+	    <nav class="mdl-navigation">
+	      <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
+        <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
+        <a class="mdl-navigation__link" id="navfont" href="events.html">Events</a>
+        <a class="mdl-navigation__link" id="navfont" href="projects.html">Projects</a>
+	    </nav>
+	  </div>
+	  <div class="background decal"></div>
+	  <main class="mdl-layout__content">
+	    <div class="page-content">
+	    	<!-- Your content goes here -->
+	    	<div class="mdl-grid">
+  				<div class="mdl-cell mdl-cell--4-col" id="cell-spacer" style="height: 2vh"></div>
+          </div>
+ <h1 class="section-title" id="course-description">COURSE DESCRIPTION</h1> 
+<p>
+  This course is a deep dive into the creation of games, from beginning to end. Over the course of the semester, students will pitch a game, form small teams, and build out a project from start to finish with help from the instructors. Students are not required to have any prior game development experience but it is strongly recommended that a student taking the course either has basic art abilities or basic programming abilities. They will also learn about the different roles that exist within the industry, how to apply their skills to them, and form an understanding about how to best prepare themselves to find their way into these roles. This will be a rigorous class, one that will require a lot of time and dedication. Students will be selected via application prior to the first week of classes, to ensure that the class&#8217;s composition reflects a diverse range of skills, backgrounds, and proficiency levels. 
+</p>
+
+
+<ul class="toc">
+    <h4>Contents</h4>
+    <a href="#course-info">Course Info</a>
+    <a href="#course-description">Course Description</a>
+    <a href="#prerequisites">Prerequisites</a>
+    <a href="#course-structure">Course Structure</a>
+    <a href="#projects">Projects</a>
+    <a href="#written-responses">Written Responses</a>
+    <a href="#required-materials">Required Materials</a>
+    <a href="#grading">Grading</a>
+    <a href="#general-policy">General Policy</a>
+    
+
+
+    <a href="#schedule">Schedule</a>
+</ul>
+
+<h1 class="section-title" id="course-info">COURSE INFO</h1>
+<div>
+<p>
+<strong>Time:</strong> TBD
+</p><p>
+<strong>Facilitators:</strong> Sabrina Wong
+</p><p>
+<strong>Faculty of Record:</strong> Ren Ng
+</p><p>
+<strong>Course Email:</strong> berkeley.gamedev@gmail.com
+</p>
+</div>
+  
+
+<h1 class="section-title" id ="prerequisites">PREREQUISITES</h1> 
+<p>
+This class is open to both programmers and artists. You are not required to have any prior game development experience.
+</p>
+<h6>Programmers</h6> 
+<p> 
+Have completed CS61A and CS61B (concurrently is ok)
+</p>
+<h6>Artists</h6> 
+<p>
+Some artistic background, familiarity with some digital art tools
+</p>
+
+<h1 class="section-title" id="course-structure">COURSE STRUCTURE</h1>
+<p>
+The class meets twice a week, for an hour and a half each meeting and attendance matters. 
+For the first 4 weeks, both meetings will be tutorial lectures, designed to give students knowledge of how the Unity engine works, best practices for implementing game mechanics, and an introduction to graphics in Unity3D. Many of these classes will be in the form of hands-on lab assignments.
+</p>
+<p>
+After project teams are formed around Week 5, the course will assume this structure: 
+</p>
+<p>
+The first meeting of the week will be a project work meeting, and the second a lecture.
+</p>
+<p> 
+During the project work meetings:
+</p>
+<p>
+Teams will meet and log their work in a development blog and plan their work schedule for the next week. 
+Teams will work on their projects and get help from facilitators.
+The lectures from Week 5 onward will be determined during the semester based on what the students need. The lectures will come from a variety of sources: instructors, industry contacts, alumni, and possibly the students themselves. 
+</p>
+
+<h1 class="section-title" id="projects">THE PROJECTS</h1>
+
+<h6>Project 1</h6>
+<p>
+A game based on official Unity tutorials, built by the instructors. Students will start from scratch and follow along a multi-part tutorial over several weeks. This project will reinforce key concepts introduced in the tutorial lectures given in the first 4 weeks of the class. There will also be some open-ended requirements in addition to implementing the tutorial each week into the project.
+</p>
+<p>
+<strong>Team size:</strong> 1 person
+</p>
+
+<h6>Project 2</h6>
+<p>
+A one week &#34;game jam&#34; type project where the goal is to try and build a game in a week. The main purpose of this project is to teach students about scope and what can be done in a week. It will also serve as a good opportunity to see what kind of a group dynamic works best for you.
+</p>
+<p>
+<strong>Team size:</strong> 2-3 people
+</p>
+
+<h6>Project 3</h6>
+<p>
+The flagship project for the course is a game designed and built by the students themselves. Students will begin preparing their pitches in Week 5 with guidance from the instructors, and will give their pitches to the entire class in Week 6.  Students will then select which projects they are interested in, and the instructors will match people to teams based on their interests and skills. From there on out, the teams will work with the instructors and their team leads to create a schedule and stick to it. The instructors will also assign labs related to each project to help prepare the team with Unity topics that will be useful to know. While working on the project, the teams will work with and receive feedback from mentors and other students. All projects will be graded based on how well they achieve 4 milestones. 
+</p>
+<p>
+<strong>Team size:</strong> 3-5 people
+</p>
+<p>
+At each milestone, all projects are shared with the rest of the class. These milestones are as follows:
+</p>
+
+<p>
+<strong>Milestone 0:</strong> Game design document explaining the vision for the game, as well as a week by week breakdown of tasks.
+</p>
+<p>
+<strong>Milestone 1:</strong> Playable prototype of the original pitch. The core mechanics of your game should be implemented, though no art needs to in place yet. Effectively this milestone exists to ensure that your game will be fun, and to get feedback on how it can be improved if it’s not shaping up to be fun.
+</p>
+<p>
+<strong>Milestone 2:</strong> Alpha Build. All of the main mechanics should be in place. General art style should be decided on and main assets (character, environment) should be in place. A first pass should be done on the rest of the art assets. You should have a basic but well completed level. Can be very buggy.
+</p>
+<p>
+<strong>Milestone 3 (showcase):</strong> Finished Project. The game should be complete, and in line with the original pitch. It should be polished, playable from start to finish, and mostly bug free.
+</p>
+
+<p>
+  At each milestone, team members will fill out team evaluations that will be factored into your grade.
+</p>
+ 
+<h1 class="section-title" id="written-responses">WRITTEN RESPONSES</h1>
+<p>
+Students will be responsible for several written assignments. One is a weekly development blog that documents the progress your group is making on your game. One is a game design document that details the design of your game as well as a week by week breakdown of tasks. Lastly students will be required to submit a short writeup detailing their thoughts on their project and the course as a whole.
+</p>
+
+<h1 class="section-title" id="required-materials">REQUIRED MATERIALS</h1>
+<p>
+  Every student will need a laptop capable of running Photoshop, Illustrator, Unity3D, or another game engine. No textbooks are required. Two recommended resources are articles from www.gamasutra.com and videos from www.gdcvault.com. 
+</p>
+
+<h1 class="section-title" id="grading">GRADING</h1>
+<table class="mdl-data-table mdl-js-data-table mdl-data-table mdl-shadow--2dp">
+  <tbody>
+    <tr>
+      <td style="font-weight:bold; text-align: left; ">Labs</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; text-align: left; ">Project 1</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; text-align: left; ">Project 2</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; text-align: left; ">Project 3</td>
+      <td>60%</td>
+    </tr>
+    <tr>
+      <td style="font-weight:bold; text-align: left; ">Written Responses</td>
+      <td>10%</td>
+    </tr>
+  </tbody> 
+  </table>
+
+<h6>Project 1 and 2:</h6>
+<p>
+Graded on completion of project specifications
+</p><p>
+Grading will consist of a P/NP and some feedback on your project
+</p>
+<h6>Project 3 (Per milestone):</h6>  
+<p>
+Mentor evaluation: 40%
+</p><p>
+Peer evaluations: 40%
+</p><p>
+Project score: 20%
+</p><p>
+Project score is based off of progress made not percentage of pitch completed
+</p>
+<br/>
+<p style="font-weight:bold ">
+A minimum of 70% is required to pass the course.
+</p>
+
+<h1 class="section-title" id="general-policy">GENERAL POLICY</h1>
+<p>
+Attendance matters! If you cannot be at class, you must let an instructor and your team lead know. Only two unexcused absences will be allowed, and any further absences will result in your grade dropping 10% per absence. If you are in danger of not passing come the end of the semester, the instructors will let people know what can be done to remedy that. 
+The instructors recommend you use Unity3D for your projects, as that will be the only &#34;supported&#34; engine by the instructors. You are welcome to use other engines, but the instructors will likely be unable to help you as well as a result.
+</p>
+
+          <h1 class="section-title" id="schedule">SCHEDULE</h1>
+
+      <table class="mdl-shadow--3dp" id="calendar" style="font-family: 'Roboto-Regular'; text-decoration: none; text-align: left; font-size: 1.1rem; padding-left: 24px">
+        <tbody>
+          <tr>
+            <th>&nbsp;Week&nbsp;</th>
+            <th>&nbsp;Day</th>
+            <th>&nbsp;#</th>
+            <th>&nbsp;Lecture</th>
+            <th>&nbsp;Lab Links</th>
+            <th>&nbsp;Project</th>
+            <th>&nbsp;Office Hours: TBD</th>
+          </tr>
+
+          <!-- Week one -->
+          <tr>
+            <td class="weeknum" rowspan="1">0</td>
+            <td>Th 08/23</td>
+            <td>1</td>
+            <td class="td-left"><a href="https://drive.google.com/open?id=1e_TaRoSERIfGETg2QStwp_Pb28A3F1eJTz3xzMk8BT4">Course Overview and Info Session</a>, Past semester game showcase</td>
+            <td></td>
+            <td></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week two -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">1</td>
+            <td>Tu 08/28</td>
+            <td>2</td>
+            <td class="td-left"><a href="https://docs.google.com/presentation/d/14iMJMmruNJxt2O6G0VSFKDWtm-ZikDhLnIBxoeRlYGs/edit?usp=sharing">Lecture/Lab: Intro to Unity- Basics (and Github)</a></td>
+            <td><a href="https://github.berkeley.edu/berkeley-gamedev/UnityBasics">Unity Basics</a></td>
+            <td class="proj1">Project 1</td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 08/30</td>
+            <td>3</td>
+            <td class="td-left"><a href="https://docs.google.com/presentation/d/1FHlxMiT0u6a9W-Q1QjGgxRiNsGCy_04BdNt_ShURFzE/edit?usp=sharing">Lecture/Lab: Intro to Unity- Programming</a></td>
+            <td><a href="https://github.berkeley.edu/berkeley-gamedev/BasicScriptingLab">Basic Scripting</a></td>
+            <td class="proj1"></td>
+            <td>Location: TBD</td>
+          </tr>
+
+          <!-- Week three -->
+          <tr>
+            <td class="weeknum" rowspan="2">2</td>
+            <td>Tu 09/04</td>
+            <td>4</td>
+            <td class="td-left"><a href="https://docs.google.com/presentation/d/1LXl_XzNiDUJbAr3JB01jIn1cdslhJFn3BxglJzErSeI/edit?usp=sharing">Lecture/Lab: Intro to Unity - The art pipeline</a></td>
+            <td></td>
+            <td class="proj1">Part 1 Due</td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 09/06</td>
+            <td>5</td>
+            <td class="td-left">Lab: Intro to Unity - Physics and RigidBody</td>
+            <td>Physics and RigidBody</td>
+            <td class="proj1"></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week four -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">3</td>
+            <td>Tu 09/11</td>
+            <td>6</td>
+            <td class="td-left">Lecture/Lab: Intro to Unity - Best Practices, Coroutines</td>
+            <td>Coroutines and best practices</td>
+            <td class="proj1">Part 2 Due</td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 09/13</td>
+            <td>7</td>
+            <td class="td-left">Lecture: <a href="https://docs.google.com/presentation/d/1aV6RzhdxEUM80zWLv2atPogFbejJjAYSaxvrO4Fb_VI/edit?usp=sharing">Basics of Game Design</a> &amp; Game Jam Introduction</td>
+            <td></td>
+            <td class="proj1"></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week five -->
+          <tr>
+            <td class="weeknum" rowspan="2">4</td>
+            <td>Tu 09/18</td>
+            <td>8</td>
+            <td class="td-left">Lecture/Lab: Unity and git, extra topics</td>
+            <td></td>
+            <td class="proj1">
+              <strong>By 11:59pm:</strong><br>
+              Part 3 Due
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 09/20</td>
+            <td>9</td>
+            <td class="td-left">Lecture/Lab: TBA, pitch day explanation</td>
+            <td></td>
+            <td class="proj2">Project 2<br><a href="https://docs.google.com/document/d/1NgZ8Ufx9p3DnEdWrX6ZhXnZ6c9lzgohTVdXPUNGEPnM/edit?usp=sharing">Game Jam Spec</a></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week six -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">5</td>
+            <td>Tu 09/25</td>
+            <td>10</td>
+            <td class="td-left">Showcase game jams + Group dynamics, Unity and git, extra topics</td>
+            <td></td>
+            <td  class="proj2">
+              Project due before class time<br>
+            </td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 09/27</td>
+            <td>11</td>
+            <td class="td-left">
+              <strong>Pitch day</strong> + Explanation of Project 3 + project work meetings + design doc</td>
+            <td></td>
+            <td class="proj3">Project 3<br><a href="https://docs.google.com/document/d/1riFUKZxrJ4E_0xRcdKjnG5JsfxSHix3zXiHIludwDD4/edit?usp=sharing">Project Spec</a></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week seven -->
+          <tr>
+            <td class="weeknum" rowspan="2">6</td>
+            <td>Tu 10/02</td>
+            <td>12</td>
+            <td class="td-left">Team assembly + Brainstorming session</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 10/04</td>
+            <td>13</td>
+            <td class="td-left">Lecture: TBA</td>
+            <td></td>
+            <td class="proj3">Game Design Doc due (Milestone 0)</td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week eight -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">7</td>
+            <td>Tu 10/09</td>
+            <td>14</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 10/11</td>
+            <td>15</td>
+            <td class="td-left"><strong>Milestone 1 Delivery: Demo and Feedback</strong></td>
+            <td></td>
+            <td class="proj3">Milestone 1</td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week nine -->
+          <tr>
+            <td class="weeknum" rowspan="2">8</td>
+            <td>Tu 10/16</td>
+            <td>16</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 10/18</td>
+            <td>17</td>
+            <td class="td-left">Lecture: Guest Lecture (TBA)</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week ten -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">9</td>
+            <td>Tu 10/23</td>
+            <td>18</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 10/25</td>
+            <td>19</td>
+            <td class="td-left">Lecture: Guest Lecture (TBA)</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: Cory 258</td>
+          </tr>
+          
+          <!-- Week eleven -->
+          <tr>
+            <td class="weeknum" rowspan="2">10</td>
+            <td>Tu 10/30</td>
+            <td>20</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 11/01</td>
+            <td>21</td>
+            <td class="td-left"><strong>Milestone 2 Delivery: Demo and Feedback</strong></td>
+            <td></td>
+            <td class="proj3">Milestone 2</td>
+            <td>Location: TBD</td>
+          </tr>
+
+          <!-- Week twelve -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">11</td>
+            <td>Tu 11/06</td>
+            <td>22</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 11/08</td>
+            <td>23</td>
+            <td class="td-left">Lecture: Guest lecture (TBA)</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          
+          <!-- Week thirteen -->
+          <tr>
+            <td class="weeknum" rowspan="2">12</td>
+            <td>Tu 11/13</td>
+            <td>24</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 11/15</td>
+            <td>25</td>
+            <td class="td-left">Lecture: Guest lecture (TBA)</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+
+          <!-- Week fourteen -->
+          <tr class="gray-bg">
+            <td class="weeknum" rowspan="2">13</td>
+            <td>Tu 11/20</td>
+            <td>26</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr class="gray-bg">
+            <td>Th 11/22</td>
+            <td></td>
+            <td class="td-left"><i>Thanksgiving Break</i></td>
+            <td></td>
+            <td class="proj3"></td>
+            <td></td>
+          </tr>
+          
+          <!-- Week fifteen -->
+          <tr>
+            <td class="weeknum" rowspan="2">14</td>
+            <td>Tu 11/27</td>
+            <td>27</td>
+            <td class="td-left">Project work meeting</td>
+            <td></td>
+            <td class="proj3"></td>
+            <td>Location: TBD</td>
+          </tr>
+          <tr>
+            <td>Th 11/29</td>
+            <td>28</td>
+            <td class="td-left">Milestone 3 Delivery: Demo and Feedback</td>
+            <td></td>
+            <td class="proj3">Milestone 3 + Game/course postmortem writeup due</td>
+            <td>Location: TBD</td>
+          </tr>
+
+          <!-- Week sixteen -->
+          <tr>
+            <td class="weeknum" rowspan="2">15</td>
+            <td>Tu 12/04</td>
+            <td></td>
+            <td class="td-left"><strong>Tentative Showcase Date</strong></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <br/>
+      <a href="sp18decal.html">Spring 2018 Schedule</a>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+	    	
+	    </div>
+
+      <button id="apply-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-button__container">
+        apply
+      </button>
+      <div class="mdl-button__container">
+        <button id="hover-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">
+            apply
+        </button>
+        <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect" for="hover-menu-lower-right">
+            <a class="mdl-menu__item" target="_blank" href="https://goo.gl/forms/CVEcDYw5JESkvQaf2">Decal</a>
+            <a class="mdl-menu__item" target="_blank" href="https://discord.gg/AnbuQba">Club</a>
+        </ul>
+      </div>
+	    
+	    <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer__left-section">
+    	        <div class="mdl-logo">Game Design and Development at Berkeley
+    	        </div>
+            </div>
+   		        <div class="mdl-mini-footer__right-section">
+    	            <ul class="mdl-mini-footer__link-list">
+      	              <div style="padding-right: 20px;">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</div>       
+                        <li><a href="https://www.ocf.berkeley.edu">
+    					<img src="images/ocf-hosted-penguin.svg"
+        				alt="Hosted by the OCF" style="border: 0; padding-right: 80px;" />
+						</a></li>
+                    </ul>
+                </div>
+        </footer>
+	  </main>
+	  
+	  
+	  
+	</div>
+
+</body>
+</html>

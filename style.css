@@ -1,0 +1,277 @@
+@font-face {
+  font-family: Gamer;
+  src: url(fonts/gamer.ttf);
+}
+
+@font-face {
+  font-family: Green Screen;
+  src: url(fonts/greenscr.ttf);
+}
+
+@font-face {
+  font-family: SFPixelate;
+  src: url(fonts/sfpixelate.ttf);
+}
+
+@font-face {
+  font-family: DisposableDroid;
+  src: url(fonts/DisposableDroidBB.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(fonts/Roboto-Regular.ttf);
+}
+
+html, body {
+  font-family: Roboto-Regular;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+:root {
+  --main-color: #5dd7d9;
+  --events-color: #ff77d1;
+  --projects-color: #edea63;
+  --decal-color: #4757ed;
+  --members-color: #58d885;
+  --contact-color: #f7ba4a;
+}
+
+#title {
+  font-family: DisposableDroid, sans-serif;
+  font-weight: 700;
+  font-size: 7rem;
+  font-variant: small-caps;
+  letter-spacing: 0.5rem;
+  line-height: 5rem;
+  color: #232323;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.mdl-layout__drawer {
+  background: #232323 !important;
+  border-color: #232323 !important;
+  color: white !important;
+  font-family:"saira condensed" !important;
+}
+
+.mdl-layout__drawer .mdl-navigation__link {
+  transition-property: background, color;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
+}
+
+.mdl-layout__drawer .mdl-navigation__link:hover {
+  background-color: #5dd7d9 !important;
+  color: black !important;
+}
+
+.mdl-layout__title {
+  color: white !important;
+  font-family:"saira condensed" !important;
+}
+
+.page-content{
+  padding-left: 10%; 
+  padding-right: 10%
+}
+
+#sub-title {
+  font-size: 4rem;
+  font-weight: 900;
+  font-family: DisposableDroid, sans-serif;
+  color: #232323;
+  text-align: center;
+}
+
+#desc {
+  font-size: 2rem;
+  font-family: "saira condensed", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.125rem;
+  padding-top: 2rem;
+  color: #6d6d6d;
+  text-align: center;
+}
+
+#titlefont {
+  font-family: "saira condensed";
+  letter-spacing: 1.6px;
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 1);
+}
+
+#navfont{
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, .8);
+  font-family: "saira condensed";
+  letter-spacing: 1.4px;
+}
+
+#apply-menu-lower-right {
+  border-radius: 8px; 
+  font-family: "saira condensed"; 
+  font-size: 22px; 
+  letter-spacing: 1.6px;
+  color: rgba(0, 0, 0, 0);
+  transition-property: background color;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
+}
+
+#apply-menu-lower-right:active{
+  background-color: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0);
+}
+
+#hover-menu-lower-right:active{
+  background-color: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0);
+}
+
+#hover-menu-lower-right{
+  border-radius: 8px; 
+  font-family: "saira condensed"; 
+  transition-property: background, color;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
+  font-size: 22px; 
+  letter-spacing: 1.6px;
+  z-index: 1000;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(0, 0, 0, .1);
+}
+
+#hover-menu-lower-right:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.toc {
+    border-left: 4px solid #C1EEF4;
+    margin: 24px;
+    padding: 0;
+    padding-left: 8px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+h4 {
+    margin-bottom: 16px;
+    font-size: 1.1rem;
+    margin-top: 0;
+}
+
+.toc a {
+    color: #4DD0E1;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 28px;
+    display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+strong {
+  font-weight: 600 !important;
+  color: #515151;
+}
+
+h6 {
+  font-family: "saira condensed";
+  color: #494949;
+  font-weight: bold;
+font-size: 1.6rem !important;
+}
+
+.mdl-menu__item:hover{
+  text-decoration: none;
+}
+
+.section-title {
+  color: #616161 !important; 
+  font-family: 'saira condensed' !important;
+  font-size: 2.5rem;
+  font-weight: 100;
+
+}
+
+#navfont {
+  transition-property: color, background;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
+  text-decoration: none;
+}
+
+
+#navfont:hover {
+  color: rgba(255, 255, 255, 1) !important;
+  background-color: rgba(0, 0, 0, .13); 
+  text-decoration: none;
+}
+
+.background {
+  position: absolute;
+  width: 100%;
+  opacity:.3;
+  height: 100%;
+  background-color: #F5F5F5;
+  background-image: url(images/bluepixels3.png);
+  background-size: auto 15rem;
+  background-repeat: repeat-x; 
+  background-attachment: fixed;
+  z-index: -1;
+  background-position-y: 44px;
+}
+
+.background.home {
+  filter: hue-rotate(-25deg);
+}
+
+.background.events {
+  filter: hue-rotate(120deg);
+}
+
+.background.unused {
+  filter: hue-rotate(-135deg);
+}
+
+.background.decal {
+  filter: hue-rotate(30deg);
+}
+
+.background.club {
+  filter: hue-rotate(-60deg);
+}
+
+.background.projects {
+  filter: hue-rotate(190deg);
+}
+
+.highlight {
+  color: var(--main-color);
+}
+
+.mdl-button__container {
+  position: fixed !important;
+  right: 32px !important;
+  bottom: 32px !important;
+}
