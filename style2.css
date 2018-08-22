@@ -44,6 +44,67 @@ p {
   --contact-color: #f7ba4a;
 }
 
+
+.demo-card-square.mdl-card {
+  width: 285px;
+  height: 320px;
+
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff; 
+  
+}
+
+.mdl-card__title-text{
+  color:#f7f7f7 !important;
+}
+
+#sabrina {
+  background: url('images/sabrina.jpg') bottom left 20% no-repeat #46B6AC;
+  background-size: 430px
+
+}
+#gabby {
+  background: url('images/gabby.jpg') bottom left 30% no-repeat #46B6AC;
+  background-size: 310px
+}
+#tom {
+  background: url('images/tom.jpg') bottom 60% left 50% no-repeat #46B6AC;
+  background-size: 285px
+}
+#ryan {
+  background: url('images/ryan.jpg') top 10% left 50% no-repeat #46B6AC;
+  background-size: 290px
+}
+#jennifer {
+  background: url('images/jennifer.jpg') bottom left 40% no-repeat #46B6AC;
+  background-size: 430px
+}
+#eric {
+  background: url('images/eric.jpg') bottom left 80% no-repeat #46B6AC;
+  background-size: 300px
+}
+#wes {
+  background: url('images/wes.jpg') top 20% left 1% no-repeat #46B6AC;
+  background-size: 420px
+}
+#adam {
+  background: url('images/adam.jpg') bottom 90% left 50% no-repeat #46B6AC;
+  background-size: 320px
+}
+#darren {
+  background: url('images/darren.jpg') bottom 50% left 50% no-repeat #46B6AC;
+  background-size: 420px
+}
+#weylan {
+  background: url('images/weylan.jpg') bottom 70% left 40% no-repeat #46B6AC;
+  background-size: 290px;
+}
+#christopher {
+  background: url('images/christopher.jpg') bottom 50% left 30% no-repeat #46B6AC;
+  background-size: 420px
+}
+
 #title {
   font-family: DisposableDroid, sans-serif;
   font-weight: 700;
