@@ -141,8 +141,23 @@ p {
 }
 
 .page-content{
-  padding-left: 10%; 
+  padding-left: 10%;
   padding-right: 10%
+}
+
+#lab-list {
+  text-decoration: none;
+  color: #54bdf9;
+  transition-property: background-color;
+  transition-duration: .03s;
+  transition-timing-function: ease-in-out;
+
+}
+
+#lab-list:hover{
+  background-color: #ededed;
+  cursor: pointer;
+  
 }
 
 #sub-title {
@@ -338,6 +353,10 @@ font-size: 1.6rem !important;
 
 .background.club {
   filter: hue-rotate(-60deg);
+}
+
+.background.labs {
+  filter: hue-rotate(-80deg);
 }
 
 .background.projects {
