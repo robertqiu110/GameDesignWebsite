@@ -155,7 +155,7 @@ p {
 }
 
 #lab-list:hover{
-  background-color: #ededed;
+  background-color: rgba(153,153,153,0.2);
   cursor: pointer;
   
 }
@@ -337,6 +337,7 @@ font-size: 1.6rem !important;
 
 .background.home {
   filter: hue-rotate(-25deg);
+  opacity: .2;
 }
 
 .background.events {
@@ -349,18 +350,22 @@ font-size: 1.6rem !important;
 
 .background.decal {
   filter: hue-rotate(30deg);
+  opacity: .2;
 }
 
 .background.club {
   filter: hue-rotate(-60deg);
+  opacity: .2;
 }
 
 .background.labs {
   filter: hue-rotate(-80deg);
+  opacity: .2;
 }
 
 .background.projects {
   filter: hue-rotate(190deg);
+  opacity: .2;
 }
 
 .highlight {
