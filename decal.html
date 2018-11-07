@@ -20,7 +20,7 @@
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <link rel="stylesheet" type="text/css" href="calendar3.css">
   <link rel="stylesheet" href="style4.css">
-  <title></title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 </head>
 <body>
   <!-- Always shows a header, even in smaller screens. -->
@@ -35,10 +35,27 @@
 
           <div class="mdl-layout-spacer"></div>
           <nav class="mdl-navigation mdl-layout--large-screen-only">
-            <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
-            <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a>
-            <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
-            <a class="mdl-navigation__link" id="navfont" href="gamejams.html">Game Jams</a>
+          
+          <div class="dropdown">
+          <a class="mdl-navigation__link dropbtn" id="navfont" href="decal.html">&ensp;Decal &ensp;<i class="fas fa-caret-down"></i></a>
+            <div class="dropdown-content">
+              <a href="https://goo.gl/forms/CVEcDYw5JESkvQaf2">Apply</a>
+              <a href="decal.html">Syllabus</a>
+              <a href="labs.html">Labs</a>
+            </div>
+          </div>
+            <!-- <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a> -->
+            <div class="dropdown">
+            <a class="mdl-navigation__link dropbtn" id="navfont" href="club.html"> &ensp;Club &ensp; <i class="fas fa-caret-down"></i></a>
+            <div class="dropdown-content">
+            
+            <a target="_blank" href="https://discord.gg/AnbuQba">Discord &ensp;<i class="fas fa-external-link-alt"></i></a>
+            <a href="gamejams.html">Game Jams</a>
+            <a href="club.html">About</a>
+            </div>
+            </div>
+       <!--      <a class="mdl-navigation__link" id="navfont" href="gamejams.html">Game Jams</a> -->
+
           </nav>
         </div>
       </header>
@@ -87,7 +104,7 @@
 
       <h1 class="section-title" id="schedule">SCHEDULE</h1>
 
-      <table class="mdl-shadow--3dp" id="calendar" style="font-family: 'Roboto-Regular'; text-decoration: none; text-align: left; font-size: 1.1rem; padding-left: 24px">
+      <table class="mdl-shadow--3dp" id="calendar" style="font-family: 'Roboto-Regular'; text-decoration: none; text-align: left; font-size: 1.1rem; background-color:rgba(0,0,0,0); padding-left: 24px">
         <tbody>
           <tr>
             <th>&nbsp;Week&nbsp;</th>
@@ -100,7 +117,7 @@
           </tr>
 
           <!-- Week one -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="1">0</td>
             <td>Th 08/23</td>
             <td>1</td>
@@ -134,7 +151,7 @@
           </tr>
 
           <!-- Week three -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">2</td>
             <td>Tu 09/04</td>
             <td>4</td>
@@ -148,7 +165,7 @@
             </td>
             <td>Location: TBD</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 09/06</td>
             <td>5</td>
             <td class="td-left">Lecture: Intro to Unity - <a href="https://docs.google.com/presentation/d/1mIADbR1e0EpYrQ_PvfjmdrGEcwMvZKBgfQCrX0qbS8A/edit?usp=sharing">Advanced Art</a>, <a href="https://docs.google.com/presentation/d/12TAcUX4AFf-bfmvw2VpWcdS77vmkLq-uNeaFeuWYBpo/edit?usp=sharing">Advanced Scripting</a></td>
@@ -186,7 +203,7 @@
           </tr>
           
           <!-- Week five -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">4</td>
             <td>Tu 09/18</td>
             <td>8</td>
@@ -201,7 +218,7 @@
               <a href="https://goo.gl/forms/hfyKNZFGkx6QoNvL2">Artist Part 3 Submission</a>
             <td>Location: Cory 367</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 09/20</td>
             <td>9</td>
             <td class="td-left">Guest Lecture: TBA</td>
@@ -233,7 +250,7 @@
           </tr>
           
           <!-- Week seven -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">6</td>
             <td>Tu 10/02</td>
             <td>12</td>
@@ -242,7 +259,7 @@
             <td class="proj3"><a href="https://tinyurl.com/GDDFeedbackFa2018">Feedback Form</a> due at midnight</td>
             <td>Location: Cory 212</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 10/04</td>
             <td>13</td>
             <td class="td-left"><a href="https://docs.google.com/presentation/d/1gJN4fz9pjXLp2z_LZCIaxyTFXUrJ0af2rAidEUfn6zc/edit?usp=sharing">MVP, Animation, and Playtests</a></td>
@@ -267,18 +284,18 @@
             <td class="td-left"><strong>Milestone 1 Delivery: Demo and Feedback</strong></td>
             <td></td>
             <td class="proj3">Milestone 1</td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           
           <!-- Week nine -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">8</td>
             <td>Tu 10/16</td>
             <td>16</td>
             <td class="td-left">Project work meeting</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           <tr>
             <td>Th 10/18</td>
@@ -286,7 +303,7 @@
             <td class="td-left"><a href="https://docs.google.com/presentation/d/10xuWd26uQNrp0PABz9_Kg0_ERqRgRrgwRk6l3PNz2EU/edit?usp=sharing">Music, SFX and Designing Characters</a></td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           
           <!-- Week ten -->
@@ -297,7 +314,7 @@
             <td class="td-left"><a href="https://docs.google.com/presentation/d/1MHuHhXe_nTTzegoiUUyYzxv8Z7MFGLehIjzwemmoqaY/edit?usp=sharing">Project work meeting</a></td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           <tr class="gray-bg">
             <td>Th 10/25</td>
@@ -305,26 +322,26 @@
             <td class="td-left"><a href="https://docs.google.com/presentation/d/1gW2ZwHKFQl-zJ1-JR-_pB4gJlc2QuDan5Ju7zzo3JIE/edit?usp=sharing">AI Design, Tutorials, and Level Design</a></td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           
           <!-- Week eleven -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">10</td>
             <td>Tu 10/30</td>
             <td>20</td>
             <td class="td-left"><a href="https://docs.google.com/presentation/d/1NKhsspOnpjNgJrCZaW4-sd8VRvwvDDWNmNGiYtEjE8Q/edit?usp=sharing">Project work session</a></td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 11/01</td>
             <td>21</td>
             <td class="td-left"><a href="https://docs.google.com/presentation/d/1f7_26vy6_mHiiFZ64-qY8IEOTnntOo6QpNnIJ3llpJY/edit?usp=sharing">Milestone 2 Delivery: Demo and Feedback </a></td>
             <td></td>
             <td class="proj3">Milestone 2</td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
 
           <!-- Week twelve -->
@@ -335,7 +352,7 @@
             <td class="td-left">Project work meeting</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           <tr class="gray-bg">
             <td>Th 11/08</td>
@@ -343,26 +360,26 @@
             <td class="td-left">Lecture: Guest lecture (TBA)</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           
           <!-- Week thirteen -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">12</td>
             <td>Tu 11/13</td>
             <td>24</td>
             <td class="td-left">Project work meeting</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 11/15</td>
             <td>25</td>
             <td class="td-left"><strong>Demo and Feedback</strong></td>
             <td></td>
             <td class="proj3">Game/course postmortem writeup due</td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
 
           <!-- Week fourteen -->
@@ -373,7 +390,7 @@
             <td class="td-left">Project work meeting</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
           <tr class="gray-bg">
             <td>Th 11/22</td>
@@ -385,30 +402,30 @@
           </tr>
           
           <!-- Week fifteen -->
-          <tr>
+          <tr class="white-bg">
             <td class="weeknum" rowspan="2">14</td>
             <td>Tu 11/27</td>
             <td>27</td>
             <td class="td-left">Project work meeting</td>
             <td></td>
             <td class="proj3"></td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
-          <tr>
+          <tr class="white-bg">
             <td>Th 11/29</td>
             <td>28</td>
             <td class="td-left">Milestone 3</td>
             <td></td>
             <td class="proj3">Milestone 3 Due</td>
-            <td>Location: TBD</td>
+            <td>Location: Cory 212</td>
           </tr>
 
           <!-- Week sixteen -->
-          <tr>
+          <tr class="gray-bg">
             <td class="weeknum" rowspan="2">15</td>
             <td>Tu 12/04</td>
             <td></td>
-            <td class="td-left"><strong>Tentative Showcase Date</strong></td>
+            <td class="td-left"><strong>Showcase: Moffitt 150D from 5-7</strong></td>
             <td></td>
             <td></td>
             <td></td>
@@ -702,7 +719,7 @@ The instructors recommend you use Unity3D for your projects, as that will be the
         
       </div>
 
-      <button id="apply-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-button__container">
+      <!-- <button id="apply-menu-lower-right" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-button__container">
         apply
       </button>
       <div class="mdl-button__container">
@@ -713,7 +730,7 @@ The instructors recommend you use Unity3D for your projects, as that will be the
             <a class="mdl-menu__item" target="_blank" href="https://goo.gl/forms/CVEcDYw5JESkvQaf2">Decal</a>
             <a class="mdl-menu__item" target="_blank" href="https://discord.gg/AnbuQba">Club</a>
         </ul>
-      </div>
+      </div> -->
       
       <footer class="mdl-mini-footer">
             <div class="mdl-mini-footer__left-section">
