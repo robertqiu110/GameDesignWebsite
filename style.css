@@ -104,6 +104,10 @@ p {
   background: url('images/christopher.jpg') bottom 50% left 30% no-repeat #46B6AC;
   background-size: 420px
 }
+#george {
+  background: url('images/george.jpg') no-repeat #46B6AC;
+  background-size: 285px;
+}
 
 #title {
   font-family: DisposableDroid, sans-serif;
