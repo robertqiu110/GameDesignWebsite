@@ -180,7 +180,7 @@ img.lab-image{
 }
 
 #lab-list:hover{
-  background-color: rgba(153,153,153,0.2);
+  background-color: #dae8ed;
   text-decoration: none !important;
   cursor: pointer;
   
