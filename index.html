@@ -12,6 +12,7 @@
 
   gtag('config', 'UA-127221484-1');
 </script>
+    <!-- <script src="main.js"></script> -->
     <title>Game Design and Development</title>
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon1.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon1.png">
@@ -25,6 +26,12 @@
 </head>
 
 <body>
+    <!-- Load animation
+    <svg id="fader"></svg>
+    <script>
+        fadeInPage();
+    </script>
+    -->
     <!-- Always shows a header, even in smaller screens. -->
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <header class="mdl-layout__header">
@@ -71,45 +78,33 @@
                 <img src="images/banner1.png" style=" width: 100%; height: 20%;"></img>
                 <div class="mdl-shadow--3dp" style="background-color:white; height: 100% width: 100%; opacity: .5;"></div>
             </div>
-            <div class="page-content"">
-        
-
-        <div class=" mdl-grid">
-                <div class="mdl-cell mdl-cell--4-col" style="height: 2vh"></div>
-                <div class="mdl-cell mdl-cell--4-col" style="height: 2vh"></div>
-                <div class="mdl-cell mdl-cell--4-col" style="height: 2vh"></div>
-                <div class="mdl-cell mdl-cell--4-col mdl-layout--small-screen-only" style="height: 35vh"></div>
+            <div class="page-content">
+                <h1 class="section-title">CONNECT TO OUR DISCORD!</h1>
+                <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+                <h1 class="section-title">BEAR JAMS FALL 2018: WINNER</h1>
+                <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/308180" height="167" width="552" frameborder="0"></iframe>
+                <br><br>
+                <iframe class="mdl-shadow--3dp" id="calendar" src="https://calendar.google.com/calendar/embed?title=Events&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=18vjssr490asq21uuap6430r80%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border-width:500" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             </div>
-            <h1 class="section-title">BEAR JAMS FALL 2018: WINNER</h1>
-            <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/308180" height="167" width="552" frameborder="0"></iframe>
-            <br><br>
-            <iframe class="mdl-shadow--3dp" src="https://calendar.google.com/calendar/embed?title=Events&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=18vjssr490asq21uuap6430r80%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-            <div class="mdl-grid">
-                <div class="mdl-cell mdl-cell--4-col" style="height: 35vh"></div>
-                <div class="mdl-cell mdl-cell--4-col" style="height: 35vh"></div>
-                <div class="mdl-cell mdl-cell--4-col" style="height: 35vh"></div>
-                <div class="mdl-cell mdl-cell--4-col mdl-layout--small-screen-only" style="height: 35vh"></div>
+            <!-- fixes a bug for some reason -->
+            <div class="mdl-button__container">
             </div>
-    </div>
-    <!-- fixes a bug for some reason -->
-    <div class="mdl-button__container">
-    </div>
-    <footer class="mdl-mini-footer">
-        <div class="mdl-mini-footer__left-section">
-            <div class="mdl-logo">Game Design and Development at Berkeley
-            </div>
-        </div>
-        <div class="mdl-mini-footer__right-section">
-            <ul class="mdl-mini-footer__link-list">
-                <div style="padding-right: 30px;">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</div>
-                <li><a href="https://www.ocf.berkeley.edu">
-              <img src="images/ocf-hosted-penguin.svg"
-                alt="Hosted by the OCF" style="border: 0; padding-right: 80px;" />
-            </a></li>
-            </ul>
-        </div>
-    </footer>
-    </main>
+            <footer class="mdl-mini-footer">
+                <div class="mdl-mini-footer__left-section">
+                    <div class="mdl-logo">Game Design and Development at Berkeley
+                    </div>
+                </div>
+                <div class="mdl-mini-footer__right-section">
+                    <ul class="mdl-mini-footer__link-list">
+                        <div style="padding-right: 30px;">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</div>
+                        <li><a href="https://www.ocf.berkeley.edu">
+                      <img src="images/ocf-hosted-penguin.svg"
+                        alt="Hosted by the OCF" style="border: 0; padding-right: 80px;" />
+                    </a></li>
+                    </ul>
+                </div>
+            </footer>
+        </main>
     </div>
 </body>
 
