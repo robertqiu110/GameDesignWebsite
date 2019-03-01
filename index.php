@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127221484-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127221484-1');
+</script>
+    <!-- <script src="main.js"></script> -->
+    <title>Game Design and Development</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon1.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon1.png">
+    <link href="https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Quicksand|Saira+Condensed" rel="stylesheet">
+    <!-- Material Design Lite (getmdl.io) files -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-amber.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+        crossorigin="anonymous">
+</head>
+
+<body>
+    <!-- Load animation
+    <svg id="fader"></svg>
+    <script>
+        fadeInPage();
+    </script>
+    -->
+    <!-- Always shows a header, even in smaller screens. -->
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <?php 
+            $title="Game Design and Development at Berkeley";
+            include 'header.php';
+        ?>
+        <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+            <span class="mdl-layout-title" id="titlefont">GDD at Berkeley</span>
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
+                <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a>
+                <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
+                <a class="mdl-navigation__link" id="highlightfont" href="gamejams.html">Game Jam 9/21/18</a>
+            </nav>
+        </div>
+        <div class="background home"></div>
+        <main class="mdl-layout__content">
+            <div class="page-title" style="margin-top: 3%; margin-right: 0%; margin-left: 0%;">
+                <br />
+                <img src="images/banner1.png" style=" width: 100%; height: auto"></img>
+                <div class="mdl-shadow--3dp" style="background-color:white; height: 100% width: 100%; opacity: .5;"></div>
+            </div>
+            <div class="page-content">
+                <h1 class="section-title">CONNECT TO OUR DISCORD!</h1>
+                <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500"
+                    allowtransparency="true" frameborder="0"></iframe>
+                <h1 class="section-title">BEAR JAMS FALL 2018: WINNER</h1>
+                <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/308180" height="167" width="552"
+                    frameborder="0"></iframe>
+                <br><br>
+                <iframe src="https://calendar.google.com/calendar/embed?src=6kfb8nisut8k5u07e6d5591kjs%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+                    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                </br>
+                </br>
+            </div>
+            <!-- fixes a bug for some reason -->
+            <div class="mdl-button__container">
+            </div>
+            <?php include 'footer.php'; ?>
+        </main>
+    </div>
+</body>
+
+</html>
