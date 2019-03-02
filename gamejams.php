@@ -32,16 +32,6 @@
           $title="Bear Jams";
           include 'header.php';
         ?>
-        <div class="mdl-layout__drawer mdl-layout--small-screen-only">
-            <span class="mdl-layout-title" id="titlefont">Club</span>
-            <nav class="mdl-navigation">
-                <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
-                <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a>
-                <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
-                <a class="mdl-navigation__link" id="navfont" href="gamejams.html">Game Jams</a>
-            </nav>
-        </div>
-
         <main class="mdl-layout__content">
             <a href="https://tinyurl.com/bearjams2018"><img src="images/bearjams.png" style=" width: 100%; height: auto"></img></a>
             <div class="page-content">

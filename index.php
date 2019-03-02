@@ -39,15 +39,6 @@
             $title="Game Design and Development at Berkeley";
             include 'header.php';
         ?>
-        <div class="mdl-layout__drawer mdl-layout--small-screen-only">
-            <span class="mdl-layout-title" id="titlefont">GDD at Berkeley</span>
-            <nav class="mdl-navigation">
-                <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
-                <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a>
-                <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
-                <a class="mdl-navigation__link" id="highlightfont" href="gamejams.html">Game Jam 9/21/18</a>
-            </nav>
-        </div>
         <div class="background home"></div>
         <main class="mdl-layout__content">
             <div class="page-title" style="margin-top: 3%; margin-right: 0%; margin-left: 0%;">
