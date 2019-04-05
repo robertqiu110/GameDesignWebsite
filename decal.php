@@ -228,7 +228,7 @@
                             <td class="weeknum" rowspan="2">5</td>
                             <td>Tu 02/26</td>
                             <td>10</td>
-                            <td class="td-left"><strong>Pitch Day</strong></td>
+                            <td class="td-left"><strong><a href="https://docs.google.com/presentation/d/1mD4C2NUAnlf99F_vJX0dBzKM3wowCSy40QY1ftudMOM/edit?usp=sharing">Pitch Day</a></strong></td>
                             <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How
                                     (and Why) to Write a Great Game Design Document</a></td>
                             <td></td>
@@ -238,7 +238,7 @@
                         <tr class="gray-bg">
                             <td>Th 02/28</td>
                             <td>11</td>
-                            <td class="td-left">MVP, Teams are assembled + brainstorming session</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1HxD0_T3mJawyBQ9kQJgoyXWjxBDfrGl0aXbfksTh_HM/edit?usp=sharing">MVP, Teams are assembled + brainstorming session</a></td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: Cory 258</td>
@@ -258,7 +258,7 @@
                         <tr class="white-bg">
                             <td>Th 03/07</td>
                             <td>13</td>
-                            <td class="td-left">TBA (based on class needs)</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1WqXPZh0WDd9lC3W2GBU671obZcli3i-fHmtGdKzDfjE/edit?usp=sharing">Feedback Loops, Animation, and Minecraft</a></td>
                             <td></td>
                             <td class="proj3">Milestone 0: Game Design Doc Due</td>
                             <td>Location: Cory 258</td>
@@ -268,7 +268,7 @@
                             <td class="weeknum" rowspan="2">7</td>
                             <td>Tu 03/12</td>
                             <td>14</td>
-                            <td class="td-left">Project work meeting</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1ABkDIvZX4hhLNRrUU7QVufYMvkoJdKDhhIw8KCAGEJA/edit?usp=sharing">Project work meeting</a></td>
                             <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team
                                     & Corporate Structure: Is The Standard Way, The Best Way?</a></td>
                             <td></td>
@@ -278,7 +278,7 @@
                         <tr class="gray-bg">
                             <td>Th 03/14</td>
                             <td>15</td>
-                            <td class="td-left"><strong>Milestone 1 Delivery: Demo and Feedback</strong></td>
+                            <td class="td-left"><strong><a href="https://docs.google.com/presentation/d/1d9BOofUFwKQ6VOccn2kdwXsYG-05C0b5bHVEKGNYWjI/edit?usp=sharing">Milestone 1 Delivery: Demo and Feedback</a></strong></td>
                             <td></td>
                             <td class="proj3">Milestone 1</td>
                             <td>Location: Cory 258</td>
@@ -288,7 +288,7 @@
                             <td class="weeknum" rowspan="2">8</td>
                             <td>Tu 03/19</td>
                             <td>16</td>
-                            <td class="td-left">Project work meeting</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1IkQUdnP2ZtlrFdRBZZ-fjqayveGTx7qQ3NaWexrIWT4/edit?usp=sharing">Project work meeting</a></td>
                             <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php">10
                                     Insightful Playtest Questions</a></td>
                             <td></td>
@@ -298,7 +298,7 @@
                         <tr>
                             <td>Th 03/21</td>
                             <td>17</td>
-                            <td class="td-left">Guest lecture (TBA)/(based on class needs)</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1MpMYgchQCr8mxwrWf_Rb80ALxtf3c7YDfRGesqVED34/edit?usp=sharing">Accessibility, AI, and Level Design</a></td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: Cory 258</td>
@@ -311,7 +311,7 @@
                             <td class="weeknum" rowspan="2">9</td>
                             <td>Tu 04/02</td>
                             <td>18</td>
-                            <td class="td-left">Project work meeting</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/12fyPkB4WnC0sS73Btoie7R4q3s1RgFRGLjso3nMtotI/edit?usp=sharing">Project work meeting</a></td>
                             <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/ThomasGrip/20140429/216467/4Layers_A_Narrative_Design_Approach.php">4-Layers,
                                     A Narrative Design Approach</a></td>
                             <td></td>
@@ -602,89 +602,6 @@
                     &#34;supported&#34; engine by the instructors. You are welcome to use other engines, but the
                     instructors will likely be unable to help you as well as a result.
                 </p>
-                <h1 class="section-title" id="facilitators">FACILITATORS</h1>
-                <div class="mdl-grid">
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="jennifer">
-                            <h2 class="mdl-card__title-text">Jennifer Kim</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Lead Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="weylan">
-                            <h2 class="mdl-card__title-text">Weylan Wang</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Lead Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="sabrina">
-                            <h2 class="mdl-card__title-text">Sabrina Wong</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Lead Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="tom">
-                            <h2 class="mdl-card__title-text">Tom Barezer Ayalon</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="lucas">
-                            <h2 class="mdl-card__title-text">Lucas Liu</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="wes">
-                            <h2 class="mdl-card__title-text">Wes Pickering</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="george">
-                            <h2 class="mdl-card__title-text">George Tao</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="darren">
-                            <h2 class="mdl-card__title-text">Darren Wang</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="austin">
-                            <h2 class="mdl-card__title-text">Austin Wangyu</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                    <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                        <div class="mdl-card__title mdl-card--expand" id="christopher">
-                            <h2 class="mdl-card__title-text">Christopher Yun</h2>
-                        </div>
-                        <div class="mdl-card__actions mdl-card--border">
-                            Facilitator
-                        </div>
-                    </div>
-                </div>
                 <br />
                 <br />
                 <br />
