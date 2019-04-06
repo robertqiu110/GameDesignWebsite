@@ -321,7 +321,7 @@
                         <tr class="white-bg">
                             <td>Th 04/04</td>
                             <td>19</td>
-                            <td class="td-left"><strong>Milestone 2 Delivery: Demo and Feedback</strong></td>
+                            <td class="td-left"><strong><a href="https://docs.google.com/presentation/d/1FO61jgAtX9WT932IP7hvneFLN_9UnvjtNFwWtCmLb4U/edit?usp=sharing">Milestone 2 Delivery: Demo and Feedback</a></strong></td>
                             <td></td>
                             <td class="proj3">Milestone 2</td>
                             <td>Location: Cory 258</td>
