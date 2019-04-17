@@ -58,12 +58,41 @@ img.lab-image{
 }
 .demo-card-square > .mdl-card__title {
   color: #fff; 
+  transition: all .3s linear 0s;
   
 }
 
-.mdl-card__title-text{
-  color:#f7f7f7 !important;
+.demo-card-square > .mdl-card__title.show-info {
+  filter: brightness(50%);
 }
+
+.mdl-card__title-text{
+  position: absolute;
+  bottom: 17%;
+  left: 5%;
+  right: 1%;
+  color:#f7f7f7;
+}
+.mdl-card__title-text.description, .mdl-card__title-text.name{
+  display: block;
+  overflow: hidden;
+  transition: height,width,opacity 500ms ease-in-out;
+}
+.mdl-card__title-text.name{height:auto; width:auto; opacity:1; }
+
+.mdl-card__title-text.name.show-info{ height:0; width: 0; opacity:0; }
+
+.mdl-card__title-text.description{height:0; width: 0; opacity:0; }
+
+.mdl-card__title-text.description.show-info{
+  color:rgb(255, 255, 255);
+  height:auto; 
+  width:auto; 
+  font-size:14px; 
+  opacity:1;
+ }
+
+
 
 #sabrina {
   background: url('images/sabrina.jpg') bottom left 20% no-repeat #46B6AC;
@@ -120,6 +149,34 @@ img.lab-image{
 }
 #austin{
   background: url('images/austin.jpg') top left 20% no-repeat #46B6AC;
+  background-size: 300px;
+}
+#imon {
+  background: url('images/imon.jpg') no-repeat #46B6AC;
+  background-size: 275px;
+}
+#soohyun {
+  background: url('images/soohyun.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#rahul {
+  background: url('images/rahul.jpg') no-repeat #46B6AC;
+  background-size: 275px;
+}
+#mert {
+  background: url('images/mert.jpg') top left 25% no-repeat #46B6AC;
+  background-size: 340px;
+}
+#sean {
+  background: url('images/sean.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#jireh {
+  background: url('images/jireh.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#jared {
+  background: url('images/jared.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
 
@@ -399,6 +456,11 @@ font-size: 1.6rem !important;
   opacity: .2;
 }
 
+.background.staff {
+  filter: hue-rotate(140deg);
+  opacity: .2;
+}
+
 .highlight {
   color: var(--main-color);
 }
@@ -451,6 +513,33 @@ font-size: 1.6rem !important;
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: rgba(0, 0, 0, .2);}
+
+.info-button {
+  height: 110%;
+  font-family: sfPixelate;
+  color: white;
+  font-size: 90%;
+  text-align:center;
+  background-image:url('images/button.png');
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  border: none;
+  background-color:transparent;
+  float: right;
+  margin-right: 10%;
+}
+
+.info-button:focus {
+  outline:none;
+}
+
+.info-button:hover {
+  filter: contrast(120%);
+}
+
+.info-button:active {
+  filter: brightness(70%);
+}
 
 /* https://christopheraue.net/design/fading-pages-on-load-and-unload */
 /*

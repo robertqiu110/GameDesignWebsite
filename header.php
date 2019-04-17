@@ -18,12 +18,10 @@
                 <div class="dropdown-content">
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf_MxxVvcaQQYLrnCQFQOTmNTmg3Sf7n-C_kL_OigRXW6iOAQ/viewform">Apply
                         &ensp;<i class="fas fa-external-link-alt"></i></a>
-
                     <a href="decal.php">Syllabus</a>
                     <a href="labs.php">Labs</a>
                 </div>
             </div>
-            <!-- <a class="mdl-navigation__link" id="navfont" href="labs.php">Labs</a> -->
             <div class="dropdown">
                 <a class="mdl-navigation__link dropbtn" id="navfont" href="club.php"> &ensp;Club &ensp; <i class="fas fa-caret-down"></i></a>
                 <div class="dropdown-content">
@@ -32,16 +30,16 @@
                     <a href="club.php">About</a>
                 </div>
             </div>
-            <!--      <a class="mdl-navigation__link" id="navfont" href="gamejams.php">Game Jams</a> -->
+            <a class="mdl-navigation__link" id="navfont" href="staff.php">Staff</a>
         </nav>
     </div>
 </header>
 <div class="mdl-layout__drawer mdl-layout--small-screen-only">
     <span class="mdl-layout-title" id="titlefont">GDD: Spring 2019</span>
     <nav class="mdl-navigation">
-        <a class="mdl-navigation__link" id="navfont" href="decal.html">Decal</a>
-        <a class="mdl-navigation__link" id="navfont" href="labs.html">Labs</a>
-        <a class="mdl-navigation__link" id="navfont" href="club.html">Club</a>
-        <a class="mdl-navigation__link" id="navfont" href="gamejams.html">Game Jams</a>
+        <a class="mdl-navigation__link" id="navfont" href="decal.php">Decal</a>
+        <a class="mdl-navigation__link" id="navfont" href="labs.php">Labs</a>
+        <a class="mdl-navigation__link" id="navfont" href="club.php">Club</a>
+        <a class="mdl-navigation__link" id="navfont" href="gamejams.php">Game Jams</a>
     </nav>
 </div>
