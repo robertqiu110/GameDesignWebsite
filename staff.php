@@ -167,15 +167,6 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="jared"></div>
-                            <h2 class="mdl-card__title-text name">Jared Zhao</h2>
-                            <h2 class="mdl-card__title-text description">"Game ideas are a dime a dozen. Following through is the hardest part. I know first hand."</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Mentor
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="jireh"></div>
                             <h2 class="mdl-card__title-text name">Jireh Chew</h2>
                             <h2 class="mdl-card__title-text description">“Count to three. Congratulations, you can count better than Valve!”</h2>
