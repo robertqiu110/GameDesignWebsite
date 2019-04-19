@@ -184,8 +184,16 @@
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
+                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
+                            <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
+                            <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
+                            <div class="mdl-card__actions mdl-card--border">
+                                Facilitator
+                                <button class="info-button" onclick="info(this)">INFO</button>
+                            </div>
+                        </div>
                     </div>
-
                     <h1 class="section-title" id="facilitators">DECAL</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
