@@ -47,13 +47,20 @@
                 <div class="mdl-shadow--3dp" style="background-color:white; height: 100% width: 100%; opacity: .5;"></div>
             </div>
             <div class="page-content">
-                <h1 class="section-title">CONNECT TO OUR DISCORD!</h1>
+                <h1 class="section-title" style="text-align: center; text-decoration: underline">UPCOMING EVENTS<h1>
+                    <p class="event event-main">4/27: Boss Design Competition @ Cory 293 [12PM - 8PM]</p>
+                    <p class="event event-sub">4/27: Playtest Session @ Cory 258 [1PM - 2PM]</p>
+                    <p class="event event-sub">4/27: Board Games @ Cory 258 [2PM - 5PM]</p>
+                    <p class="event event-main">5/7: GDD Showcase @ Jacobs 310 [6PM - 8PM]</p>
+                <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
                 <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500"
                     allowtransparency="true" frameborder="0"></iframe>
-                <h1 class="section-title">BEAR JAMS FALL 2018: WINNER</h1>
+                <br><br>
+                <h2 class="section-title">BEAR JAMS FALL 2018: WINNER</h2>
                 <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/308180" height="167" width="552"
                     frameborder="0"></iframe>
                 <br><br>
+                <h2 class="section-title">EVENT CALENDAR</h2>
                 <iframe src="https://calendar.google.com/calendar/embed?src=6kfb8nisut8k5u07e6d5591kjs%40group.calendar.google.com&ctz=America%2FLos_Angeles"
                     style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
                 </br>

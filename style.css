@@ -369,10 +369,40 @@ font-size: 1.6rem !important;
 .section-title {
   color: #616161 !important; 
   font-family: 'saira condensed' !important;
-  font-size: 2.5rem;
   font-weight: 100;
 
 }
+
+h1.section-title{
+  font-size: 3rem;
+}
+
+h2.section-title{
+  font-size: 2rem;
+}
+
+.event{
+  color: #806677;
+  background-color: #ffdff4;
+  text-align: center;
+  font-family: 'saira condensed';
+  font-weight: 75;
+  border: 1px solid #ff77d1;
+  border-radius: 5px;
+
+}
+
+.event-main{
+  font-size: 2rem;
+}
+
+.event-sub{
+  background-color: #fdeff8;
+  font-size: 1.25rem;
+
+}
+
+
 
 #calendar {
   margin-bottom: 20px;
