@@ -29,16 +29,46 @@
     <!-- Always shows a header, even in smaller screens. -->
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <?php 
-          $title="Bear Jams";
+          $title="Events";
           include 'header.php';
         ?>
         <main class="mdl-layout__content">
-            <a href="https://tinyurl.com/bearjams2018"><img src="images/bearjams.png" style=" width: 100%; height: auto"></img></a>
+            <img src="images/bossdes.png" style="width: 100%; height: auto"></img>
             <div class="page-content">
-                <h1 class="section-title" id="schedule">BEAR JAMS FALL 2018</h1>
-                <p>Bear Jams Fall 2018 has concluded. Thanks to all who participated.<br>
-                    You can find all of the entries <a href="https://itch.io/jam/bear-jams/entries">here</a>.</p>
+              <h1 class="section-title" id="schedule">BOSS DESIGN COMPETITION 2019</h1>
+              <p>If you're ready to create gaming's next big-baddie, then you're in the right place!</p>
+              <h2 class="section-title" id="schedule">RULES AND GUIDELINES</h2>
 
+                <p>
+                    1. No NSFW, offensive or inappropriate projects. All projects should follow the <a href="https://tinyurl.com/y8ec2s83">Code
+                        of Conduct</a>.<br>
+                    2. The maximum group size is 5.<br>
+                    3. Follow the honor code. We will not ask to see your project files but we expect you to not copy
+                    or steal
+                    assets. Assets from the Unity Asset Store are acceptable as long as they are credited on your
+                    submission. Art
+                    and sound assets from online also fall into this category: they may be used, but must be credited.<br>
+                    4. You MUST follow the Code of Conduct. A quick tl;dr: Do NOT be destructive and do NOT be mean to
+                    your
+                    fellow participants.
+                    Respect all other participants and your team members. <br>
+                    If you have any problems or want to report anything, please reach out to a staff member at the
+                    staff table or
+                    to any of the admins or mods on Discord. <br>
+                    5. The winners get featured on the front page of our website.<br>
+                    6. Have fun designing a boss and meeting new people!
+
+
+                </p>
+            </div>
+            <div class="page-content">
+              <h1 class="section-title">PAST EVENTS:</h1>
+              <a href="https://tinyurl.com/bearjams2018"><img src="images/bearjams.png" style=" width: 100%; height: auto"></img></a>
+            
+              <h1 class="section-title" id="schedule">BEAR JAMS FALL 2018</h1>
+              <p>Bear Jams Fall 2018 has concluded. Thanks to all who participated.<br>
+                  You can find all of the entries <a href="https://itch.io/jam/bear-jams/entries">here</a>.</p>
+          
                 <!-- <h1 class="section-title" id="schedule">SCHEDULE</h1>
 
       <table class="mdl-shadow--3dp" id="gamejam" style="font-family: 'Roboto-Regular'; text-decoration: none; text-align: left; font-size: 1.1rem; padding-left: 24px">
@@ -132,7 +162,7 @@
       <br> -->
 
 
-                <h1 class="section-title" id="schedule">RULES AND GUIDELINES</h1>
+                <h2 class="section-title" id="schedule">RULES AND GUIDELINES</h2>
 
                 <p>
                     1. No NSFW, offensive or inappropriate projects. All projects should follow the <a href="https://tinyurl.com/y8ec2s83">Code

@@ -26,7 +26,7 @@
                 <a class="mdl-navigation__link dropbtn" id="navfont" href="club.php"> &ensp;Club &ensp; <i class="fas fa-caret-down"></i></a>
                 <div class="dropdown-content">
                     <a target="_blank" href="https://discord.gg/AnbuQba">Discord &ensp;<i class="fas fa-external-link-alt"></i></a>
-                    <a href="gamejams.php">Game Jams</a>
+                    <a href="gamejams.php">Events</a>
                     <a href="club.php">About</a>
                 </div>
             </div>
