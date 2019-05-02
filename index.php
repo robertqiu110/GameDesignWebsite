@@ -48,10 +48,13 @@
             </div>
             <div class="page-content">
                 <h1 class="section-title" style="text-align: center; text-decoration: underline">UPCOMING EVENTS<h1>
-                    <a href="gamejams.php" class="no-hover"><p class="event event-main">4/27: Boss Design Competition @ Cory 293 [12PM - 8PM]</p></a>
-                    <p class="event event-sub">4/27: Playtest Session @ Cory 258 [1PM - 2PM]</p>
-                    <p class="event event-sub">4/27: Board Games @ Cory 258 [2PM - 5PM]</p>
-                    <p class="event event-main">5/7: GDD Showcase @ Jacobs 310 [6PM - 8PM]</p>
+                    <a href="gamejams.php"><img src="images/showcase.png" style="width:100%; height: auto"></img></a>
+                    </br>
+                    </br>
+                    <p class="event event-sub">5/4: Playtest Session @ Cory 258 [1PM - 2PM]</p>
+                    <p class="event event-sub">5/4: Board Games @ Cory 258 [2PM - 5PM]</p>
+                    <a href="gamejams.php" class="no-hover"><p class="event event-main">5/7: GDD Showcase @ Jacobs 310 [6PM - 8PM]</p></a>
+                    </br>
                 <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
                 <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500"
                     allowtransparency="true" frameborder="0"></iframe>

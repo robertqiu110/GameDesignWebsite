@@ -33,8 +33,15 @@
           include 'header.php';
         ?>
         <main class="mdl-layout__content">
-            <img src="images/bossdes.png" style="width: 100%; height: auto"></img>
+            <img src="images/showcase.png" style="width: 100%; height: auto"></img>
             <div class="page-content">
+              <h1 class="section-title" id="schedule">VIDEO GAME SHOWCASE SPRING 2019</h1>
+              <p>If you've been working on a game, now's your time to shine! Everyone's welcome to come and play the games made by both the club and DeCal!</p>
+              
+            </div>
+            <div class="page-content">
+              <h1 class="section-title">PAST EVENTS:</h1>
+              <img src="images/bossdes.png" style="width: 100%; height: auto"></img>
               <h1 class="section-title" id="schedule">BOSS DESIGN COMPETITION 2019</h1>
               <p>If you're ready to create gaming's next big-baddie, then you're in the right place!</p>
               <h2 class="section-title" id="schedule">RULES AND GUIDELINES</h2>
@@ -60,9 +67,7 @@
 
 
                 </p>
-            </div>
-            <div class="page-content">
-              <h1 class="section-title">PAST EVENTS:</h1>
+
               <a href="https://tinyurl.com/bearjams2018"><img src="images/bearjams.png" style=" width: 100%; height: auto"></img></a>
             
               <h1 class="section-title" id="schedule">BEAR JAMS FALL 2018</h1>
