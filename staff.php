@@ -66,7 +66,7 @@
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="rahul"></div>
                             <h2 class="mdl-card__title-text name">Rahul Kumar</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
+                            <h2 class="mdl-card__title-text description">"I'll challenge anyone to a programmer art contest. Except artists."</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Industry Outreach
                                 <button class="info-button" onclick="info(this)">INFO</button>
