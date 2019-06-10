@@ -27,12 +27,6 @@
 </head>
 
 <body>
-    <!-- Load animation
-    <svg id="fader"></svg>
-    <script>
-        fadeInPage();
-    </script>
-    -->
     <!-- Always shows a header, even in smaller screens. -->
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <?php 
