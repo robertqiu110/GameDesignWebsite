@@ -35,7 +35,6 @@
         <main class="mdl-layout__content">
             <div class="page-content">
                 <!-- Your content goes here -->
-                <br /><br /><br /><br /><br /><br />
                 <h1 class="section-title" id="course-description">How it Works</h1>
                 <p>
                     The Game Design and Development Club is a great way to become a part of Cal's game development
