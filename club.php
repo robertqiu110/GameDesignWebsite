@@ -45,19 +45,22 @@
                     the club is a somewhere to discuss and play all things game related. We'd love to have you! To get
                     involved, simply join our Discord server and it will walk you through the rest of the process.
                 </p>
-                <h1 class="section-title" id="course-description">Projects: Spring 2019</h1>
+                <h1 class="section-title" id="course-description">Projects: Spring 2019 Club</h1>
+                <div class="mdl-grid">
+                    <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/382608" height="167" 
+                        width="552" frameborder="0"></iframe>
+                    <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/373871" height="167" 
+                        width="552" frameborder="0"></iframe>
+                </div>
+                <h1 class="section-title" id="course-description">Projects: Spring 2019 Decal</h1>
                 <div class="mdl-grid">
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/418976" height="167" 
-                        width="552" frameborder="0"></iframe>
-                    <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/382608" height="167" 
                         width="552" frameborder="0"></iframe>
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/418978" height="167" 
                         width="552" frameborder="0"></iframe>
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/419008" height="167" 
                         width="552" frameborder="0"></iframe>
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/418969" height="167" 
-                        width="552" frameborder="0"></iframe>
-                    <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/373871" height="167" 
                         width="552" frameborder="0"></iframe>
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/419004" height="167" 
                         width="552" frameborder="0"></iframe>
