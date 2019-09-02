@@ -83,7 +83,7 @@
                 <h1 class="section-title" id="course-description">Contact</h1>
                 <p>Email: calgamedesign@gmail.com
                 </p>
-                <div class="mdl-cell mdl-cell--4-col" style="height: 25vh"></div>
+                <div class="mdl-cell mdl-cell--4-col" style="height: 50vh"></div>
             </div>
             <!-- fixes a bug for some reason -->
             <div class="mdl-button__container">
