@@ -127,7 +127,7 @@
                             <td>2</td>
                             <td class="td-left">Labour Day</td>
                             <td class="weeknum" rowspan="2"><a href="https://www.gamedesigning.org/learn/game-design-principles/
-                            ">Game Design Principles</a></td>
+                            ">Game Design Principles</a><br>Read by 09/04</td>
                             <td></td>
                             <td class="proj1">
                             </td>
@@ -147,7 +147,7 @@
                             <td>M 09/09</td>
                             <td>4</td>
                             <td class="td-left">Intro to Unity- Programming</td>
-                            <td class="weeknum" rowspan="2"><a href="https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe">Good Graphics vs Aesthetics in Video Games</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe">Good Graphics vs Aesthetics in Video Games</a><br>Read by 09/11</td>
                             <td></td>
                             <td class="proj1">
                             </td>
@@ -168,7 +168,7 @@
                             <td>M 09/16</td>
                             <td>6</td>
                             <td class="td-left">Intro to Unity- Advanced Topics</td>
-                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2">Basic Principles of Game Design</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2">Basic Principles of Game Design</a><br>Read by 09/18</td>
                             <td></td>
                             <td class="proj1"></td>
                             <td>Location: TBD</td>
@@ -178,7 +178,7 @@
                             <td>7</td>
                             <td class="td-left">Basics of Game design</td>
                             <td>Lab: Colliders/Spriting</td>
-                            <td class="proj2">Project 1 Part 2 due/<br>Project 2 Assigned</td>
+                            <td class="proj2"></td>
                             </td>
                             <td>Location: TBD</td>
                         </tr>
@@ -188,7 +188,7 @@
                             <td>M 09/23</td>
                             <td>8</td>
                             <td class="td-left">Game Loops/Design Docs</td>
-                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
+                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a><br>Read by 09/25</td>
                             <td>Lab: Rigidbodies/Animations</td>
                             <td class="proj2">Project 1 Part 2 due/<br>Project 2 Assigned</td>
                             <td>Location: TBD</td>
@@ -209,7 +209,7 @@
                             <td>10</td>
                             <td class="td-left">Showcase game jam projects, project 3 explained, project work meetings, small group pitch discussions
                             </td>
-                            <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a><br>Read by 10/02</td>
                             <td></td>
                             <td class="proj3">Game Jam due</td>
                             <td>Location: TBD</td>
@@ -228,7 +228,7 @@
                             <td>M 10/07</td>
                             <td>12</td>
                             <td class="td-left">MVP, Teams are assembled + brainstorming session</td>
-                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a><br>Read by 10/09</td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
@@ -247,7 +247,7 @@
                             <td>M 10/14</td>
                             <td>14</td>
                             <td class="td-left">Lecture TBD</td>
-                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a><br>Read by 10/16</td>
                             <td></td>
                             <td class="proj3">Milestone 0: Game Design Doc Due</td>
                             <td>Location: TBD</td>
@@ -266,7 +266,7 @@
                             <td>M 10/21</td>
                             <td>16</td>
                             <td class="td-left">Milestone 1 Delivery: Demo and Feedback</td>
-                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php">Insightful Playtest Questions</a></td>
+                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php">Insightful Playtest Questions</a><br>Read by 10/23</td>
                             <td></td>
                             <td class="proj3">Milestone 1</td>
                             <td>Location: TBD</td>
@@ -285,7 +285,7 @@
                             <td>M 10/28</td>
                             <td>18</td>
                             <td class="td-left">Potential Guest Lecture TBD</td>
-                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/ThomasGrip/20140429/216467/4Layers_A_Narrative_Design_Approach.php">4 Layers, A Narrative Design Approach</a></td>
+                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/ThomasGrip/20140429/216467/4Layers_A_Narrative_Design_Approach.php">4 Layers, A Narrative Design Approach</a><br>Read by 10/30</td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
@@ -304,7 +304,7 @@
                             <td>M 11/4</td>
                             <td>20</td>
                             <td class="td-left"><strong>Milestone 2 Delivery: Demo and Feedback</strong></td>
-                            <td class="weeknum" rowspan="2"><a href="https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/">Xbox Adaptive Controller</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/">Xbox Adaptive Controller</a><br>Read by 11/16</td>
                             <td></td>
                             <td class="proj3">Milestone 2</td>
                             <td>Location: TBD</td>
@@ -323,7 +323,7 @@
                             <td>M 11/11</td>
                             <td>22</td>
                             <td class="td-left">Veteran's Day</td>
-                            <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a></td>
+                            <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a><br>Read by 11/13</td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
@@ -341,8 +341,8 @@
                             <td class="weeknum" rowspan="2">12</td>
                             <td>M 11/18</td>
                             <td>24</td>
-                            <td class="td-left"><strong>Milestone 3 Delivery: Demo and Feedback></strong></td>
-                            <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400">The Many Ways to Show the Player how it's Done with In-Game Tutorials</a></td>
+                            <td class="td-left"><strong>Milestone 3 Delivery: Demo and Feedback</strong></td>
+                            <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400">The Many Ways to Show the Player how it's Done with In-Game Tutorials</a><br>Read by 11/20</td>
                             <td></td>
                             <td class="proj3">Milestone 3</td>
                             <td>Location: TBD</td>
@@ -361,7 +361,7 @@
                             <td>M 11/25</td>
                             <td>26</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
-                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php">Game Design in Real Life: Gamification</a></td>
+                            <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php">Game Design in Real Life: Gamification</a><br>Read by 11/27</td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
@@ -388,13 +388,14 @@
                         <tr class="gray-bg">
                             <td>W 12/4</td>
                             <td>29</td>
-                            <td class="td-left">Game/course postmortem writeup due</td>
+                            <td class="td-left"><strong>Game/course postmortem writeup due</strong></td>
                             <td></td>
-                            <td class="proj3"></td>
+                            <td></td>
+                            <td class="proj3">Postmortem Writeup Due</td>
                             <td>Location: TBD</td>
                         </tr>
                         <!-- Week 15 -->
-                        <tr class="gray-bg">
+                        <tr class="white-bg">
                             <td class="weeknum" rowspan="2">15</td>
                             <td>M 12/9</td>
                             <td>30</td>
@@ -427,7 +428,7 @@
                 </p>
                 <h6>Artists</h6>
                 <p>
-                    Some artistic background, familiarity with some digital art tools. A portfolio of example works
+                    Some artistic background, familiarity with some digital art tools. A portfolio works
                 </p>
                 <h1 class="section-title" id="course-structure">COURSE STRUCTURE</h1>
                 <p>
