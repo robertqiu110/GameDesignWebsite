@@ -35,17 +35,6 @@
         <main class="mdl-layout__content">
             <div class="page-content">
                 <!-- Your content goes here -->
-                <h1 class="section-title" id="course-description">How it Works</h1>
-                <p>
-                    The Game Design and Development Club is a great way to become a part of Cal's game development
-                    community. Regardless of if you have taken the decal or if you are student or alumni, you can join
-                    the club and apply for an approprite role based on your skills, and if you'd like, form a game
-                    development team and be mentored by (or mentor!) fellow students as you work toward making your
-                    game. In the real world, we plan to host events including hackathons and guest speakers. Otherwise,
-                    the club is a somewhere to discuss and play all things game related. We'd love to have you! To get
-                    involved, simply join our Discord server and it will walk you through the rest of the process.
-                </p>
-                <!--
                 <h1 class="section-title" id="course-description">Projects: Spring 2019 Club</h1>
                 <div class="mdl-grid">
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/382608" height="167" 
@@ -79,10 +68,6 @@
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/261877" height="167"
                         width="552" frameborder="0"></iframe>
                 </div>
-            -->
-                <h1 class="section-title" id="course-description">Contact</h1>
-                <p>Email: calgamedesign@gmail.com
-                </p>
                 <div class="mdl-cell mdl-cell--4-col" style="height: 25vh"></div>
             </div>
             <!-- fixes a bug for some reason -->

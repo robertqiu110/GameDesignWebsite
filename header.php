@@ -30,6 +30,7 @@
                     <a href="club.php">About</a>
                 </div>
             </div>
+            <a class="mdl-navigation__link" id="navfont" href="games.php">Games</a>
             <a class="mdl-navigation__link" id="navfont" href="staff.php">Staff</a>
         </nav>
     </div>
