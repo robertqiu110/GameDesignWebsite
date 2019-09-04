@@ -17,7 +17,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon1.png">
     <link href="https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Quicksand|Saira+Condensed" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.orange-purple.min.css">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.green-light_green.min.css">
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
@@ -28,7 +28,7 @@
     <!-- Always shows a header, even in smaller screens. -->
     <div class="mdl-layout mdl-js-layout mdl-layout__header--scroll">
         <?php 
-            $title="Club";
+            $title="Games";
             include 'header.php';
         ?>
         <div class="background projects"></div>
