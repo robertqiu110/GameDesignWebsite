@@ -31,7 +31,7 @@
             $title="Games";
             include 'header.php';
         ?>
-        <div class="background projects"></div>
+        <div class="background games"></div>
         <main class="mdl-layout__content">
             <div class="page-content">
                 <!-- Your content goes here -->
@@ -40,6 +40,8 @@
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/382608" height="167" 
                         width="552" frameborder="0"></iframe>
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/373871" height="167" 
+                        width="552" frameborder="0"></iframe>
+                    <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/479162" height="167" 
                         width="552" frameborder="0"></iframe>
                 </div>
                 <h1 class="section-title" id="course-description">Projects: Spring 2019 Decal</h1>

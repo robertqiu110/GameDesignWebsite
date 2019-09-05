@@ -114,7 +114,8 @@
                             <td class="weeknum" rowspan="1">0</td>
                             <td>W 08/28</td>
                             <td>1</td>
-                            <td class="td-left">Course Overview and Info Session</a><br> Past semester game showcase</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1I866uQHaL0vBliy_igkWeap-wC68pgq23wUpjnJ50jc/edit#slide=id.g610d872829_0_27">
+                                Course Overview and Info Session</a><br> Past semester game showcase</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -136,9 +137,11 @@
                         <tr class="gray-bg">
                             <td>W 09/04</td>
                             <td>3</td>
-                            <td class="td-left">Intro to Unity- Basics</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1wsEt-IGlbJ9_25YskrOpu-U6jw_MFqFo9j1Txz5Frig/edit#slide=id.g4dee30998c_0_0">
+                                Intro to Unity- Basics</a></td>
                             <td></td>
-                            <td class="proj1">Assign Project 1</td>
+                            <td class="proj1"><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
+                                <a href="https://tinyurl.com/MusicFa19">Music/Programmer Hybrid</a><br><a href="https://tinyurl.com/ProgrammerFa19">Programmers</a></td>
                             <td>Location: TBD</td>
                         </tr>
                         <!-- Week 2 -->
