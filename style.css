@@ -463,7 +463,7 @@ a > .event:hover{
 }
 
 .background.games {
-  filter: hue-rotate(-70deg);
+  filter: hue-rotate(-85deg);
   opacity: .2;
 }
 
