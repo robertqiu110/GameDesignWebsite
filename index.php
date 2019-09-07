@@ -42,12 +42,12 @@
             </div>
             <div class="page-content">
                 <h1 class="section-title" style="text-align: center; text-decoration: underline">UPCOMING EVENTS<h1>
-                    <a href="gamejams.php"><img src="images/showcase.png" style="width:100%; height: auto"></img></a>
+                    <a href="https://www.facebook.com/events/605914039936996/"><img src="images/fa19firstmeeting.png" style="width:100%; height: auto"></img></a>
                     </br>
                     </br>
-                    <p class="event event-sub">5/4: Playtest Session @ Cory 258 [1PM - 2PM]</p>
-                    <p class="event event-sub">5/4: Board Games @ Cory 258 [2PM - 5PM]</p>
-                    <a href="gamejams.php" class="no-hover"><p class="event event-main">5/7: GDD Showcase @ Jacobs 310 [6PM - 8PM]</p></a>
+                    <p class="event event-sub">9/19: Second General Meeting @ Wheeler 108 [8PM - 9:30PM]</p>
+                    <p class="event event-main">9/27 - 9/29: Bear Jams (Rooms TBD)</p>
+                    <a href="https://www.facebook.com/events/605914039936996/" class="no-hover"><p class="event event-main">9/10: First General Meeting @ Hearst Field Annex, Room B5 [8PM - 9PM]</p></a>
                     </br>
                 <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
                 <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500"
