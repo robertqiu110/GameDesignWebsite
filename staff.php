@@ -37,7 +37,7 @@
                 <h1 class="section-title" id="facilitators">OFFICERS</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="tom"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
                             <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
                             <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="imon"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="imon"></div>
                             <h2 class="mdl-card__title-text name">Imon Husain</h2>
                             <h2 class="mdl-card__title-text description">"Don't screw with me! I have the power of god and anime on my side!"</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="weylan"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
                             <h2 class="mdl-card__title-text name">Weylan Wang</h2>
                             <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="eric"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="eric"></div>
                             <h2 class="mdl-card__title-text name">Eric McCormick</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -73,7 +73,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="matthew"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="matthew"></div>
                             <h2 class="mdl-card__title-text name">Matthew Guo</h2>
                             <h2 class="mdl-card__title-text description">"You know the sound that a fork makes in the garbage disposal? That's the sound my brain makes all the time."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="robert"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="robert"></div>
                             <h2 class="mdl-card__title-text name">Robert Qiu</h2>
                             <h2 class="mdl-card__title-text description">"Yeet"</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -91,7 +91,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="alexle"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="alexle"></div>
                             <h2 class="mdl-card__title-text name">Alex Le</h2>
                             <h2 class="mdl-card__title-text description">"Okay, that's all the time I've got. I gotta get back to playing Animal Crossing: New Leaf on my Nintendo 3DS."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -100,7 +100,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="mert"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="mert"></div>
                             <h2 class="mdl-card__title-text name">Mert Arslan</h2>
                             <h2 class="mdl-card__title-text description"><i>"This info panel is shrouded by a mysterious darkness..."</i></h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -109,7 +109,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="sean"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="sean"></div>
                             <h2 class="mdl-card__title-text name">Sean Luchen</h2>
                             <h2 class="mdl-card__title-text description">"Making games combines my two favourite things: recursion and making games."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -118,7 +118,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="zhihan"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="zhihan"></div>
                             <h2 class="mdl-card__title-text name">Zhihan Yu</h2>
                             <h2 class="mdl-card__title-text description">“You are pretty good.”</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="soohyun"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="soohyun"></div>
                             <h2 class="mdl-card__title-text name">Soohyun Cho</h2>
                             <h2 class="mdl-card__title-text description">"Final Fantasy X is best Final Fantasy."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -140,7 +140,7 @@
                     <h1 class="section-title" id="facilitators">CLUB</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="eric"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="eric"></div>
                             <h2 class="mdl-card__title-text name">Eric McCormick</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="mert"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="mert"></div>
                             <h2 class="mdl-card__title-text name">Mert Arslan</h2>
                             <h2 class="mdl-card__title-text description"><i>"This info panel is shrouded by a mysterious darkness..."</i></h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -158,7 +158,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="tom"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
                             <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
                             <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="weylan"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
                             <h2 class="mdl-card__title-text name">Weylan Wang</h2>
                             <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -176,7 +176,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="jennifer"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
                             <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -185,7 +185,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="brian"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="brian"></div>
                             <h2 class="mdl-card__title-text name">Brian Stone</h2>
                             <h2 class="mdl-card__title-text description">"If you put a waterfall in your video game and there's nothing behind it, you should go to jail."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -194,7 +194,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="alexchan"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="alexchan"></div>
                             <h2 class="mdl-card__title-text name">Alex Chan</h2>
                             <h2 class="mdl-card__title-text description">"Had to send this photo in to Tom by Friday."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -206,7 +206,7 @@
                     <h1 class="section-title" id="facilitators">DECAL</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="jennifer"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
                             <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -215,7 +215,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="weylan"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
                             <h2 class="mdl-card__title-text name">Weylan Wang</h2>
                             <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -224,7 +224,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="tom"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
                             <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
                             <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -233,7 +233,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="lucas"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="lucas"></div>
                             <h2 class="mdl-card__title-text name">Lucas Liu</h2>
                             <h2 class="mdl-card__title-text description">"Games are cool. Making games is cooler."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -242,7 +242,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="austin"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="austin"></div>
                             <h2 class="mdl-card__title-text name">Austin Wangyu</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -251,7 +251,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="vera"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="vera"></div>
                             <h2 class="mdl-card__title-text name">Vera Wang</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -260,7 +260,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="dalton"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="dalton"></div>
                             <h2 class="mdl-card__title-text name">Dalton Do</h2>
                             <h2 class="mdl-card__title-text description">"If there was ever an ideal model for a facilitator, it would be Dalton."</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -269,7 +269,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="eric"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="eric"></div>
                             <h2 class="mdl-card__title-text name">Eric McCormick</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">

@@ -92,79 +92,79 @@ img.lab-image{
   opacity:1;
  }
 
-.tom {
+#tom {
   background: url('images/tom2.jpg') bottom 20% left 50% no-repeat #46B6AC;
   background-size: 285px;
 }
-.jennifer {
+#jennifer {
   background: url('images/jennifer.jpg') bottom left 40% no-repeat #46B6AC;
   background-size: 430px;
 }
-.eric {
+#eric {
   background: url('images/eric2.jpg') bottom left 80% no-repeat #46B6AC;
   background-size: 300px;
 }
-.wes {
+#wes {
   background: url('images/wes.jpg') top 20% left 1% no-repeat #46B6AC;
   background-size: 420px;
 }
-.weylan {
+#weylan {
   background: url('images/weylan.jpg') bottom 70% left 40% no-repeat #46B6AC;
   background-size: 290px;
 }
-.lucas {
+#lucas {
   background: url('images/lucas.jpg') top 20% left 40% no-repeat #46B6AC;
   background-size: 350px;
 }
-.austin{
+#austin{
   background: url('images/austin.jpg') top left 20% no-repeat #46B6AC;
   background-size: 300px;
 }
-.imon {
+#imon {
   background: url('images/imon.jpg') no-repeat #46B6AC;
   background-size: 275px;
 }
-.soohyun {
+#soohyun {
   background: url('images/soohyun.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.mert {
+#mert {
   background: url('images/mert.jpg') top left 25% no-repeat #46B6AC;
   background-size: 340px;
 }
-.sean {
+#sean {
   background: url('images/sean.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.robert {
+#robert {
   background: url('images/robert.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.alexchan {
+#alexchan {
   background: url('images/alexchan.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.zhihan {
+#zhihan {
   background: url('images/zhihan.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.brian {
+#brian {
   background: url('images/brian.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.alex {
+#alexle {
   background: url('images/alex.jpeg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.vera {
+#vera {
   background: url('images/vera.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.dalton {
+#dalton {
   background: url('images/dalton.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-.matthew {
+#matthew {
   background: url('images/matthew.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
