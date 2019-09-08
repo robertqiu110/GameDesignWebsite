@@ -92,91 +92,80 @@ img.lab-image{
   opacity:1;
  }
 
-
-
-#sabrina {
-  background: url('images/sabrina.jpg') bottom left 20% no-repeat #46B6AC;
-  background-size: 430px
-
-}
-#gabby {
-  background: url('images/gabby.jpg') bottom left 30% no-repeat #46B6AC;
-  background-size: 310px
-}
-#tom {
+.tom {
   background: url('images/tom2.jpg') bottom 20% left 50% no-repeat #46B6AC;
-  background-size: 285px
+  background-size: 285px;
 }
-#ryan {
-  background: url('images/ryan.jpg') top 10% left 50% no-repeat #46B6AC;
-  background-size: 290px
-}
-#jennifer {
+.jennifer {
   background: url('images/jennifer.jpg') bottom left 40% no-repeat #46B6AC;
-  background-size: 430px
+  background-size: 430px;
 }
-#eric {
-  background: url('images/eric.jpg') bottom left 80% no-repeat #46B6AC;
-  background-size: 300px
+.eric {
+  background: url('images/eric2.jpg') bottom left 80% no-repeat #46B6AC;
+  background-size: 300px;
 }
-#wes {
+.wes {
   background: url('images/wes.jpg') top 20% left 1% no-repeat #46B6AC;
-  background-size: 420px
+  background-size: 420px;
 }
-#adam {
-  background: url('images/adam.jpg') bottom 90% left 50% no-repeat #46B6AC;
-  background-size: 320px
-}
-#darren {
-  background: url('images/darren.jpg') bottom 50% left 50% no-repeat #46B6AC;
-  background-size: 420px
-}
-#weylan {
+.weylan {
   background: url('images/weylan.jpg') bottom 70% left 40% no-repeat #46B6AC;
   background-size: 290px;
 }
-#christopher {
-  background: url('images/christopher.jpg') bottom 50% left 30% no-repeat #46B6AC;
-  background-size: 420px
-}
-#george {
-  background: url('images/george.jpg') no-repeat #46B6AC;
-  background-size: 285px;
-}
-#lucas {
+.lucas {
   background: url('images/lucas.jpg') top 20% left 40% no-repeat #46B6AC;
   background-size: 350px;
 }
-#austin{
+.austin{
   background: url('images/austin.jpg') top left 20% no-repeat #46B6AC;
   background-size: 300px;
 }
-#imon {
+.imon {
   background: url('images/imon.jpg') no-repeat #46B6AC;
   background-size: 275px;
 }
-#soohyun {
+.soohyun {
   background: url('images/soohyun.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-#rahul {
-  background: url('images/rahul.jpg') no-repeat #46B6AC;
-  background-size: 275px;
-}
-#mert {
+.mert {
   background: url('images/mert.jpg') top left 25% no-repeat #46B6AC;
   background-size: 340px;
 }
-#sean {
+.sean {
   background: url('images/sean.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-#jireh {
-  background: url('images/jireh.jpg') no-repeat #46B6AC;
+.robert {
+  background: url('images/robert.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-#jared {
-  background: url('images/jared.jpg') no-repeat #46B6AC;
+.alexchan {
+  background: url('images/alexchan.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.zhihan {
+  background: url('images/zhihan.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.brian {
+  background: url('images/brian.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.alex {
+  background: url('images/alex.jpeg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.vera {
+  background: url('images/vera.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.dalton {
+  background: url('images/dalton.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+.matthew {
+  background: url('images/matthew.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
 
