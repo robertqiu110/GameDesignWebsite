@@ -101,9 +101,8 @@ img.lab-image{
   background-size: 430px;
 }
 #eric {
-  background: url('images/eric2.png') no-repeat #46B6AC;
+  background: url('images/eric3.jpg') no-repeat #46B6AC;
   background-size: 300px;
-  filter: brightness(80%);
 }
 #weylan {
   background: url('images/weylan.jpg') bottom 70% left 40% no-repeat #46B6AC;
