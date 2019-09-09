@@ -62,9 +62,9 @@ img.lab-image{
   
 }
 
-/*.demo-card-square > .mdl-card__title.show-info {
+.demo-card-square > .mdl-card__title.show-info {
   filter: brightness(50%);
-}*/
+}
 
 .mdl-card__title-text{
   position: absolute;
