@@ -55,24 +55,6 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
-                            <h2 class="mdl-card__title-text name">Weylan Wang</h2>
-                            <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Lead Facilitator
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="eric"></div>
-                            <h2 class="mdl-card__title-text name">Eric McCormick</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Lead Mentor
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="matthew"></div>
                             <h2 class="mdl-card__title-text name">Matthew Guo</h2>
                             <h2 class="mdl-card__title-text description">"You know the sound that a fork makes in the garbage disposal? That's the sound my brain makes all the time."</h2>
@@ -206,20 +188,20 @@
                     <h1 class="section-title" id="facilitators">DECAL</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
-                            <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
+                            <h2 class="mdl-card__title-text name">Weylan Wang</h2>
+                            <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Lead Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
-                            <h2 class="mdl-card__title-text name">Weylan Wang</h2>
-                            <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
+                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
+                            <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Lead Facilitator
+                                Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
