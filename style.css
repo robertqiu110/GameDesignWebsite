@@ -105,7 +105,7 @@ img.lab-image{
   background-size: 300px;
 }
 #wes {
-  background: url('images/wes.jpg') top 20% left 1% no-repeat #46B6AC;
+  background: url('images/wes.png') top 20% left 1% no-repeat #46B6AC;
   background-size: 420px;
 }
 #weylan {
@@ -137,20 +137,20 @@ img.lab-image{
   background-size: 300px;
 }
 #robert {
-  background: url('images/robert.jpg') no-repeat #46B6AC;
+  background: url('images/robert.jpg') top 50% left 15% no-repeat #46B6AC;
   background-size: 300px;
 }
 #alexchan {
-  background: url('images/alexchan.jpg') no-repeat #46B6AC;
-  background-size: 300px;
+  background: url(images/alexchan.jpg) top 0 left 100% no-repeat #46B6AC;
+  background-size: 450px;
 }
 #zhihan {
   background: url('images/zhihan.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
 #brian {
-  background: url('images/brian.jpg') no-repeat #46B6AC;
-  background-size: 300px;
+  background: url(images/brian.jpg) top 0 left 100% no-repeat #46B6AC;
+  background-size: 510px;
 }
 #alexle {
   background: url('images/alex.jpeg') no-repeat #46B6AC;
