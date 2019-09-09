@@ -62,9 +62,9 @@ img.lab-image{
   
 }
 
-.demo-card-square > .mdl-card__title.show-info {
+/*.demo-card-square > .mdl-card__title.show-info {
   filter: brightness(50%);
-}
+}*/
 
 .mdl-card__title-text{
   position: absolute;
@@ -103,6 +103,7 @@ img.lab-image{
 #eric {
   background: url('images/eric2.png') no-repeat #46B6AC;
   background-size: 300px;
+  filter: brightness(80%);
 }
 #weylan {
   background: url('images/weylan.jpg') bottom 70% left 40% no-repeat #46B6AC;
