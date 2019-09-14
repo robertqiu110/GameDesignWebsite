@@ -29,7 +29,7 @@
     <!-- Always shows a header, even in smaller screens. -->
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <?php
-            $title="DesInv 198-4: Video Game Design and Development, Spring 2019";
+            $title="DesInv 198-4: Video Game Design and Development, Fall 2019";
             include 'header.php';
         ?>
         <div class="background decal"></div>
@@ -90,7 +90,7 @@
                 <h1 class="section-title" id="office-hours">OFFICE HOURS</h1>
                 <div>
                     <p>
-                        <strong>Time:</strong> TBD
+                        <strong>Time:</strong> Mondays 12:00pm-1:00pm, Wednesdays 1:00pm-2:00pm
                     </p>
                     <p>
                         <strong>Location:</strong> TBD
