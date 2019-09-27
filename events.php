@@ -73,6 +73,7 @@
               <img src="images/showcase.png" style="width: 100%; height: auto"></img>
               <h1 class="section-title" id="schedule">VIDEO GAME SHOWCASE SPRING 2019</h1>
               <p>If you've been working on a game, now's your time to shine! Everyone's welcome to come and play the games made by both the club and DeCal!</p>
+              <br><br>
               <img src="images/bossdes.png" style="width: 100%; height: auto"></img>
               <h1 class="section-title" id="schedule">BOSS DESIGN COMPETITION 2019</h1>
               <p>If you're ready to create gaming's next big-baddie, then you're in the right place!</p>
