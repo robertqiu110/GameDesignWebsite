@@ -149,7 +149,7 @@
                             <td class="weeknum" rowspan="2">2</td>
                             <td>M 09/09</td>
                             <td>4</td>
-                            <td class="td-left">Intro to Unity- Programming</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1-OSanFW2zaXcSgo8OceXDc66grAfRUPjhdmWUhGqBPQ/edit?usp=sharing">Intro to Unity- Programming</a></td>
                             <td class="weeknum" rowspan="2"><a href="https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe">Good Graphics vs Aesthetics in Video Games</a><br>Read by 09/11</td>
                             <td></td>
                             <td class="proj1">
@@ -159,8 +159,8 @@
                         <tr class="white-bg">
                             <td>W 09/11</td>
                             <td>5</td>
-                            <td class="td-left">Intro to Unity - The art pipeline
-                            </td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1kIScIeyV0neeKOvoq3UblLcFJLNROom4N2HfeKm8HyY/edit?usp=sharing">Intro to Unity - The art pipeline
+                            </a></td>
                             <td></td>
                             <td class="proj1">Project 1 Part 1 due</td>
                             <td>Location: TBD</td>
@@ -170,7 +170,8 @@
                             <td class="weeknum" rowspan="2">3</td>
                             <td>M 09/16</td>
                             <td>6</td>
-                            <td class="td-left">Intro to Unity- Advanced Topics</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1X9VDxkpanT9LETJp0l4MmnilVA6-hAhRR9_c37eifLw/edit?usp=sharing">Intro to Unity- Advanced Topics: Art</a><br>
+                                <a href="https://docs.google.com/presentation/d/17XOdfcTw3n7HkCUdGsxsxSVWgeD9YgHfO4EUCTEFf-s/edit?usp=sharing">Intro to Unity- Advanced Topics: Programming</a></td>
                             <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2">Basic Principles of Game Design</a><br>Read by 09/18</td>
                             <td></td>
                             <td class="proj1"></td>
@@ -179,8 +180,8 @@
                         <tr class="gray-bg">
                             <td>W 09/18</td>
                             <td>7</td>
-                            <td class="td-left">Basics of Game design</td>
-                            <td>Lab: Colliders/Spriting</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1jXtt_ZfqCrM3I9CMS5OWGOjRz-4I0R1u61pBw0XqkxA/edit?usp=sharing">Basics of Game design</a></td>
+                            <td>Lab: <a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a>/<a href="https://github.com/berkeleyGamedev/SpritingLab">Spriting</a></td>
                             <td class="proj2"></td>
                             </td>
                             <td>Location: TBD</td>
@@ -190,18 +191,18 @@
                             <td class="weeknum" rowspan="2">4</td>
                             <td>M 09/23</td>
                             <td>8</td>
-                            <td class="td-left">Game Loops/Design Docs</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1L9EtcDJdKYgirxSnE0YMFhdRZbH_nb6dzsNdXz6abkY/edit?usp=sharing">Game Loops/Design Docs</a></td>
                             <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a><br>Read by 09/25</td>
-                            <td>Lab: Rigidbodies/Animations</td>
+                            <td>Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a>/<a href="https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
                             <td class="proj2">Project 1 Part 2 due/<br>Project 2 Assigned</td>
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="white-bg">
                             <td>W 09/25</td>
                             <td>9</td>
-                            <td class="td-left">Group dynamics, Pitch day explanation,
-                                tools and assets</td>
-                            <td>Lab: Coroutines/Animator</td>
+                            <td class="td-left"><a href="https://docs.google.com/presentation/d/1BO-l5LyWqG4oPmX9_NqWRuP-eouvtKDItZj9v3-NtR4/edit?usp=sharing">Group dynamics, Pitch day explanation,
+                                tools and assets</a></td>
+                            <td>Lab: <a href="https://github.com/berkeleyGamedev/Coroutines">Coroutines</a>/<a href="https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">Animator</a></td>
                             <td class="proj2"></td>
                             <td>Location: TBD</td>
                         </tr>
