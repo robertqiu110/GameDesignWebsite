@@ -36,11 +36,13 @@
     </div>
 </header>
 <div class="mdl-layout__drawer mdl-layout--small-screen-only">
-    <span class="mdl-layout-title" id="titlefont">GDD: Spring 2019</span>
+    <span class="mdl-layout-title" id="titlefont">GDD: Fall 2019</span>
     <nav class="mdl-navigation">
         <a class="mdl-navigation__link" id="navfont" href="decal.php">Decal</a>
         <a class="mdl-navigation__link" id="navfont" href="labs.php">Labs</a>
         <a class="mdl-navigation__link" id="navfont" href="club.php">Club</a>
-        <a class="mdl-navigation__link" id="navfont" href="gamejams.php">Game Jams</a>
+        <a class="mdl-navigation__link" id="navfont" href="events.php">Events</a>
+        <a class="mdl-navigation__link" id="navfont" href="games.php">Games</a>
+        <a class="mdl-navigation__link" id="navfont" href="staff.php">Staff</a>
     </nav>
 </div>
