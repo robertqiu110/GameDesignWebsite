@@ -401,13 +401,13 @@
                         <!-- Week 15 -->
                         <tr class="white-bg">
                             <td class="weeknum" rowspan="2">15</td>
-                            <td>M 12/9</td>
+                            <td>W 12/11</td>
                             <td>30</td>
-                            <td class="td-left"><strong>Showcase</strong></td>
+                            <td class="td-left"><strong>Showcase 6:30 PM - 8:30 PM @ Jacobs 310</strong></td>
                             <td></td>
                             <td></td>
                             <td class="proj3"></td>
-                            <td>Location: TBD</td>
+                            <td>Location: Jacobs 310</td>
                         </tr>
                     </tbody>
                 </table>
