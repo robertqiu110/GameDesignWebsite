@@ -111,7 +111,7 @@
                         </tr>
                         <!-- Week 0 -->
                         <tr class="gray-bg">
-                            <td class="weeknum" rowspan="1">0</td>
+                            <td class="weeknum" rowspan="2">0</td>
                             <td>Tu 01/21</td>
                             <td>1</td>
                             <td class="td-left">NONE</td>
