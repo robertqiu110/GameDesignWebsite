@@ -49,7 +49,7 @@
                     also learn about the different roles that exist within the industry, how to apply their skills
                     to them, and form an understanding about how to best prepare themselves to find their
                     way into these roles. This will be a rigorous class, one that will require a lot of time and
-                    dedication. Students will be selected via the application due Friday, August 30th at
+                    dedication. Students will be selected via the application due Friday, January 24th at
                     11:59 PM, to ensure that the class composition reflects a diverse range of skills,
                     backgrounds, and proficiency levels.
                 </p>

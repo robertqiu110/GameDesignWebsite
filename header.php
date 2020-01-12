@@ -16,7 +16,7 @@
             <div class="dropdown">
                 <a class="mdl-navigation__link dropbtn" id="navfont" href="decal.php">&ensp;Decal &ensp;<i class="fas fa-caret-down"></i></a>
                 <div class="dropdown-content">
-                    <a target="_blank" href="https://decal.berkeley.edu/courses/4961">Apply
+                    <a target="_blank" href="https://decal.berkeley.edu/courses/5113">Apply
                         &ensp;<i class="fas fa-external-link-alt"></i></a>
                     <a href="decal.php">Syllabus</a>
                     <a href="labs.php">Labs</a>
