@@ -36,40 +36,25 @@
             <div class="page-content">
                 <!-- Your content goes here -->
                 <br /><br /><br />
-                <h1 class="section-title" id="course-description">LABS</h1>
+                <h1 class="section-title" id="course-description">PROGRAMMING LABS</h1>
                 <ul class='mdl-list'>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/UnityBasics">
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/RigidbodyAdvanced">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Basics.PNG">
+                            <img class="lab-image" src="images/labs/Rigidbody Advanced.png">
                             <span class="mdl-list__item-primary-content">
-                                <span>Unity Basics</span>
+                                <span>Advanced Movement</span>
                                 <span class="mdl-list__item-text-body">
-                                    Most basic introduction to all things Unity. This lab goes over the format, object
-                                    structure and most general information of Unity. This does not require any
-                                    knowledge of Unity, coding or art. By the end of the lab, you’ll have made a simple
-                                    space game moving around to get collectibles.
+                                    Dive into the finer details of movement. In this lab you’ll be learning more about
+                                    advanced movement mechanics and how your design choices in game might impact your
+                                    movement decisions. Also learn about aerial movement, friction, and bounciness
+                                    levels. Finally, you’ll be learning about some design philosophy regarding aerial
+                                    movement and jumping.
                                 </span>
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/BasicScriptingLab">
-                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Basic Scripting.png">
-                            <span class="mdl-list__item-primary-content">
-                                <span>Basic Scripting</span>
-                                <span class="mdl-list__item-text-body">
-                                    By jove, this is it. This is your first lab in Unity which will implement various
-                                    gameplay mechanics with using public variables and the inspector. Enemy attacks and
-                                    player health are affected using code and the inspector in this lab. Coding will
-                                    not be covered in this lab, but programmers should read the additional passages for
-                                    more information on the code itself. Prefabs, a base for various kinds of
-                                    GameObjects, are covered in this lab from their creation as well as their use.
-                                    Enemies will be derived from a base prefab called Enemy, and students will create a
-                                    new enemy based off of the Prefab.
-                                </span>
-                            </span>
-                        </li>
-                    </a>
+                    
+                    
                     <a class="no-hover" href="https://github.com/berkeleyGamedev/Advanced-Scripting">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
                             <img class="lab-image" src="images/labs/Advanced Scripting.PNG">
@@ -84,17 +69,37 @@
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/Rigidbody-Basics">
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AudioLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Rigidbody and Movement Basics.png">
+                            <img class="lab-image" src="images/labs/Audio Lab.png">
                             <span class="mdl-list__item-primary-content">
-                                <span>Rigidbody Basics</span>
+                                <span>Audio</span>
                                 <span class="mdl-list__item-text-body">
-                                    In this basic lab, you’ll be learning all about Rigidbodies, the component that
-                                    controls an object’s position through physics simulation. Through Rigidbodies,
-                                    you’ll learn about all the components necessary to achieve basic smooth movement.
-                                    There will also be an introduction to input settings! Extremely important unless
-                                    you plan on making a text based adventure game.
+                                    Ready to have your collective brains blown out by awesome audio? Good. This lab
+                                    covers the built in Unity tools for audio mixing and effects. The lab covers an
+                                    audio manager script for managing various audio sources, and the lab will also
+                                    cover audio mixers. Audio mixers allow for different effects and sounds to have
+                                    different output volumes and various adjustments such as lowpass, reverb, and more.
+                                    This lab does not cover spatial audio, audio editing, or music composition.
+                                </span>
+                            </span>
+                        </li>
+                    </a>
+                    
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/BasicScriptingLab">
+                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
+                            <img class="lab-image" src="images/labs/Basic Scripting.png">
+                            <span class="mdl-list__item-primary-content">
+                                <span>Basic Scripting</span>
+                                <span class="mdl-list__item-text-body">
+                                    By jove, this is it. This is your first lab in Unity which will implement various
+                                    gameplay mechanics with using public variables and the inspector. Enemy attacks and
+                                    player health are affected using code and the inspector in this lab. Coding will
+                                    not be covered in this lab, but programmers should read the additional passages for
+                                    more information on the code itself. Prefabs, a base for various kinds of
+                                    GameObjects, are covered in this lab from their creation as well as their use.
+                                    Enemies will be derived from a base prefab called Enemy, and students will create a
+                                    new enemy based off of the Prefab.
                                 </span>
                             </span>
                         </li>
@@ -130,67 +135,6 @@
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AnimationLab">
-                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Animation.png">
-                            <span class="mdl-list__item-primary-content">
-                                <span>Sprite Animations</span>
-                                <span class="mdl-list__item-text-body">
-                                    In this lab, you will be getting a preview of the game animation pipeline, from a
-                                    Photoshop sprite to a finished Unity animation. Along with introducing the basics
-                                    of animation principles, we will be introducing two methods of creating animations:
-                                    a sprite-based method, and a puppet-based method that uses many of the tools that
-                                    3D animations use.
-                                </span>
-                            </span>
-                        </li>
-                    </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">
-                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Blend Trees.png">
-                            <span class="mdl-list__item-primary-content">
-                                <span>Animator/Blend Tree</span>
-                                <span class="mdl-list__item-text-body">
-                                    In this lab, you’ll create smooth transitions between 2D animations using Blend
-                                    Trees. Blend trees are a must for organizing complicated animation transitions in
-                                    Animator. They’re used to quickly handle transitions between animations when the
-                                    player provides new input. In 3D games, they actually interpolate between the two
-                                    animations, creating a smooth transition. We will only be going over the 2D
-                                    version, but all the concepts apply to 3D animations.
-                                </span>
-                            </span>
-                        </li>
-                    </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/SpritingLab">
-                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Spriting.png">
-                            <span class="mdl-list__item-primary-content">
-                                <span>Pixel Art Spriting</span>
-                                <span class="mdl-list__item-text-body">
-                                    In this lab, you will cover the basics of pixel spriting. It will teach you some of
-                                    the technical ideas such as jaggies and dithering so that you are able to create
-                                    your own game ready sprites and assets. It also covers the basic workflow as well
-                                    as useful resources in learning even more. This lab is in Photoshop; however you
-                                    can use any other pixel sprinting software. Unity is not required for this lab.
-                                </span>
-                            </span>
-                        </li>
-                    </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/UILab">
-                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/UI_Lab.png">
-                            <span class="mdl-list__item-primary-content">
-                                <span>User Interface (UI)</span>
-                                <span class="mdl-list__item-text-body">
-                                    This is a lab to get you acquainted with UI in Unity. You will create a basic shop
-                                    using all UI elements. It will cover everything step by step from what a canvas is
-                                    to implementing masks. This first half of this lab goes over the Unity components
-                                    you need and the second half is split, where programmers learn the scripting
-                                    required for events and artists learn about the design behind UI.
-                                </span>
-                            </span>
-                        </li>
-                    </a>
                     <a class="no-hover" href="https://github.com/berkeleyGamedev/DelegatesAndEventsLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
                             <img class="lab-image" src="images/labs/Delegates And Events.PNG">
@@ -219,18 +163,32 @@
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AudioLab">
+                    
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/RaycastingLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Audio Lab.png">
+                            <img class="lab-image" src="images/labs/Raycasting.PNG">
                             <span class="mdl-list__item-primary-content">
-                                <span>Audio</span>
+                                <span>Raycasting</span>
                                 <span class="mdl-list__item-text-body">
-                                    Ready to have your collective brains blown out by awesome audio? Good. This lab
-                                    covers the built in Unity tools for audio mixing and effects. The lab covers an
-                                    audio manager script for managing various audio sources, and the lab will also
-                                    cover audio mixers. Audio mixers allow for different effects and sounds to have
-                                    different output volumes and various adjustments such as lowpass, reverb, and more.
-                                    This lab does not cover spatial audio, audio editing, or music composition.
+                                    Here we explain the basics of raycasting in 2D. We go over how to use a few
+                                    different types of shapes and how exactly they work in comparison to the default
+                                    ray. At the end, you will have completed a very small and basic game all about
+                                    shooting down circles with your lasers.
+                                </span>
+                            </span>
+                        </li>
+                    </a>
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/Rigidbody-Basics">
+                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
+                            <img class="lab-image" src="images/labs/Rigidbody and Movement Basics.png">
+                            <span class="mdl-list__item-primary-content">
+                                <span>Rigidbody Basics</span>
+                                <span class="mdl-list__item-text-body">
+                                    In this basic lab, you’ll be learning all about Rigidbodies, the component that
+                                    controls an object’s position through physics simulation. Through Rigidbodies,
+                                    you’ll learn about all the components necessary to achieve basic smooth movement.
+                                    There will also be an introduction to input settings! Extremely important unless
+                                    you plan on making a text based adventure game.
                                 </span>
                             </span>
                         </li>
@@ -244,6 +202,41 @@
                                     In this lab we introduce you to transitioning from one scene to a new scene, saving
                                     data so that it persists both between scenes and between game sessions, and
                                     building an executable to test everything.
+                                </span>
+                            </span>
+                        </li>
+                    </a>
+                    
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/UnityBasics">
+                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
+                            <img class="lab-image" src="images/labs/Basics.PNG">
+                            <span class="mdl-list__item-primary-content">
+                                <span>Unity Basics</span>
+                                <span class="mdl-list__item-text-body">
+                                    Most basic introduction to all things Unity. This lab goes over the format, object
+                                    structure and most general information of Unity. This does not require any
+                                    knowledge of Unity, coding or art. By the end of the lab, you’ll have made a simple
+                                    space game moving around to get collectibles.
+                                </span>
+                            </span>
+                        </li>
+                    </a>
+                    
+                </ul>
+                <h1 class="section-title" id="course-description">ART LABS</h1>
+                <ul class="mdl-list">
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">
+                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
+                            <img class="lab-image" src="images/labs/Blend Trees.png">
+                            <span class="mdl-list__item-primary-content">
+                                <span>Animator/Blend Tree</span>
+                                <span class="mdl-list__item-text-body">
+                                    In this lab, you’ll create smooth transitions between 2D animations using Blend
+                                    Trees. Blend trees are a must for organizing complicated animation transitions in
+                                    Animator. They’re used to quickly handle transitions between animations when the
+                                    player provides new input. In 3D games, they actually interpolate between the two
+                                    animations, creating a smooth transition. We will only be going over the 2D
+                                    version, but all the concepts apply to 3D animations.
                                 </span>
                             </span>
                         </li>
@@ -263,35 +256,39 @@
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/3DRiggingSkinnnigAndAnimatingLab">
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/SpritingLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/3DRigSkinAnim.PNG">
+                            <img class="lab-image" src="images/labs/Spriting.png">
                             <span class="mdl-list__item-primary-content">
-                                <span>3D Rigging, Skinning, and Animating</span>
+                                <span>Pixel Art Spriting</span>
                                 <span class="mdl-list__item-text-body">
-                                    This lab covers how to rig, skin, and animate in Maya. Rigging is the act of
-                                    deciding where the various joints and bones of a model will be placed, skinning
-                                    means to merge the bones and joints with the actual model so that the model can be
-                                    manipulated, and animating is the actual animation of the model using the joints
-                                    and bones.
+                                    In this lab, you will cover the basics of pixel spriting. It will teach you some of
+                                    the technical ideas such as jaggies and dithering so that you are able to create
+                                    your own game ready sprites and assets. It also covers the basic workflow as well
+                                    as useful resources in learning even more. This lab is in Photoshop; however you
+                                    can use any other pixel sprinting software. Unity is not required for this lab.
                                 </span>
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/RaycastingLab">
+                    
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/AnimationLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Raycasting.PNG">
+                            <img class="lab-image" src="images/labs/Animation.png">
                             <span class="mdl-list__item-primary-content">
-                                <span>Raycasting</span>
+                                <span>Sprite Animations</span>
                                 <span class="mdl-list__item-text-body">
-                                    Here we explain the basics of raycasting in 2D. We go over how to use a few
-                                    different types of shapes and how exactly they work in comparison to the default
-                                    ray. At the end, you will have completed a very small and basic game all about
-                                    shooting down circles with your lasers.
+                                    In this lab, you will be getting a preview of the game animation pipeline, from a
+                                    Photoshop sprite to a finished Unity animation. Along with introducing the basics
+                                    of animation principles, we will be introducing two methods of creating animations:
+                                    a sprite-based method, and a puppet-based method that uses many of the tools that
+                                    3D animations use.
                                 </span>
                             </span>
                         </li>
                     </a>
+                    
+                    
                     <a class="no-hover" href="https://github.com/berkeleyGamedev/TilemapLab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
                             <img class="lab-image" src="images/labs/Tilemaps.png">
@@ -310,17 +307,32 @@
                             </span>
                         </li>
                     </a>
-                    <a class="no-hover" href="https://github.com/berkeleyGamedev/RigidbodyAdvanced">
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/UILab">
                         <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
-                            <img class="lab-image" src="images/labs/Rigidbody Advanced.png">
+                            <img class="lab-image" src="images/labs/UI_Lab.png">
                             <span class="mdl-list__item-primary-content">
-                                <span>Advanced Movement</span>
+                                <span>User Interface (UI)</span>
                                 <span class="mdl-list__item-text-body">
-                                    Dive into the finer details of movement. In this lab you’ll be learning more about
-                                    advanced movement mechanics and how your design choices in game might impact your
-                                    movement decisions. Also learn about aerial movement, friction, and bounciness
-                                    levels. Finally, you’ll be learning about some design philosophy regarding aerial
-                                    movement and jumping.
+                                    This is a lab to get you acquainted with UI in Unity. You will create a basic shop
+                                    using all UI elements. It will cover everything step by step from what a canvas is
+                                    to implementing masks. This first half of this lab goes over the Unity components
+                                    you need and the second half is split, where programmers learn the scripting
+                                    required for events and artists learn about the design behind UI.
+                                </span>
+                            </span>
+                        </li>
+                    </a>
+                    <a class="no-hover" href="https://github.com/berkeleyGamedev/3DRiggingSkinnnigAndAnimatingLab">
+                        <li class="mdl-list__item mdl-list__item--three-line mdl-shadow--2dp" id="lab-list">
+                            <img class="lab-image" src="images/labs/3DRigSkinAnim.PNG">
+                            <span class="mdl-list__item-primary-content">
+                                <span>3D Rigging, Skinning, and Animating</span>
+                                <span class="mdl-list__item-text-body">
+                                    This lab covers how to rig, skin, and animate in Maya. Rigging is the act of
+                                    deciding where the various joints and bones of a model will be placed, skinning
+                                    means to merge the bones and joints with the actual model so that the model can be
+                                    manipulated, and animating is the actual animation of the model using the joints
+                                    and bones.
                                 </span>
                             </span>
                         </li>
