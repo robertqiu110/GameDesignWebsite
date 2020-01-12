@@ -303,17 +303,19 @@
                         </tr>
                         <tr class="white-bg">
                         <td class="weeknum" rowspan="2">9</td>
-                            <td></td>
+                            <td>Tu 03/24</td>
                             <td>19</td>
                             <td class="td-left">Spring Break</td>
+                            <td></td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="white-bg">
-                            <td></td>
+                            <td>Th 03/26</td>
                             <td>20</td>
                             <td class="td-left">Spring Break</td>
+                            <td></td>
                             <td></td>
                             <td class="proj3"></td>
                             <td>Location: TBD</td>
@@ -350,7 +352,7 @@
                             <td class="weeknum" rowspan="2">11</td>
                             <td>Th 4/09</td>
                             <td>24</td>
-                            <td class="td-left">Veteran's Day</td>
+                            <td class="td-left">Lecture TBD, Project work meeting</td>
                             <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a><br>Read by 11/13</td>
                             <td></td>
                             <td class="proj3"></td>
