@@ -326,6 +326,7 @@
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="gray-bg">
+                        <td class="weeknum" rowspan="2">10</td>
                             <td>Tu 3/31</td>
                             <td>21</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
@@ -336,7 +337,6 @@
                         </tr>
                         <!-- Week 10 -->
                         <tr class="white-bg">
-                            <td class="weeknum" rowspan="2">10</td>
                             <td>Th 4/02</td>
                             <td>22</td>
                             <td class="td-left"><strong>Milestone 2 Delivery: Demo and Feedback</strong></td>
@@ -346,7 +346,8 @@
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="gray-bg">
-                            <td>Th 4/07</td>
+                        <td class="weeknum" rowspan="2">11</td>
+                            <td>Tu 4/07</td>
                             <td>23</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
                             <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a></td>
@@ -356,7 +357,6 @@
                         </tr>
                         <!-- Week 11 -->
                         <tr class="white-bg">
-                            <td class="weeknum" rowspan="2">11</td>
                             <td>Th 4/09</td>
                             <td>24</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
@@ -366,6 +366,7 @@
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="gray-bg">
+                        <td class="weeknum" rowspan="2">12</td>
                             <td>Tu 4/14</td>
                             <td>25</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
@@ -376,7 +377,6 @@
                         </tr>
                         <!-- Week 12 -->
                         <tr class="white-bg">
-                            <td class="weeknum" rowspan="2">12</td>
                             <td>Th 4/16</td>
                             <td>26</td>
                             <td class="td-left"><strong>Milestone 3 Delivery: Demo and Feedback</strong></td>
@@ -386,6 +386,7 @@
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="gray-bg">
+                        <td class="weeknum" rowspan="2">13</td>
                             <td>Tu 4/21</td>
                             <td>27</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
@@ -396,7 +397,6 @@
                         </tr>
                         <!-- Week 13 -->
                         <tr class="white-bg">
-                            <td class="weeknum" rowspan="2">13</td>
                             <td>Th 4/23</td>
                             <td>28</td>
                             <td class="td-left">Lecture TBD, Project work meeting</td>
