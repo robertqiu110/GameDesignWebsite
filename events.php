@@ -35,6 +35,11 @@
         <main class="mdl-layout__content">
             <img src="images/bearjams_fa2019.png" style="width: 100%; height: auto"></img>
             <div class="page-content">
+              
+              
+            </div>
+            <div class="page-content">
+              <h1 class="section-title">PAST EVENTS:</h1>
               <h1 class="section-title" id="schedule">BEAR JAMES FALL 2019</h1>
               <h2 class="section-title" id="schedule">RULES AND GUIDELINES</h2>
 
@@ -66,10 +71,6 @@
 
 
                 </p>
-              
-            </div>
-            <div class="page-content">
-              <h1 class="section-title">PAST EVENTS:</h1>
               <img src="images/showcase.png" style="width: 100%; height: auto"></img>
               <h1 class="section-title" id="schedule">VIDEO GAME SHOWCASE SPRING 2019</h1>
               <p>If you've been working on a game, now's your time to shine! Everyone's welcome to come and play the games made by both the club and DeCal!</p>
