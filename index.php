@@ -49,8 +49,8 @@
                     <p class="event event-sub">9/19: Second General Meeting @ Wheeler 108 [8PM - 9:30PM]</p>
                     <p class="event event-main">9/27 - 9/29: Bear Jams @ Cory 293</p>
                     <a href="https://www.facebook.com/events/1112199975652802/?active_tab=about" class="no-hover"><p class="event event-main">10/1: Activision Tech Talk & Company Info Session @ Evans 60 [6PM - 9PM]</p></a>
-                    </br>
                     <p class="event event-main">2/5: Infosession @ Barrows 60 [8PM - 10PM]</p>
+                    </br>
                 <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
                 <iframe src="https://discordapp.com/widget?id=433080296057864192&theme=dark" width="350" height="500"
                     allowtransparency="true" frameborder="0"></iframe>

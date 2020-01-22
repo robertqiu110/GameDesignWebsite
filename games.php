@@ -35,7 +35,7 @@
         <main class="mdl-layout__content">
             <div class="page-content">
                 <!-- Your content goes here -->
-                <h1 class="section-title" id="course-description">Projects: Fall 2020</h1>
+                <h1 class="section-title" id="course-description">Projects: Fall 2019</h1>
                 <div class="mdl-grid">
                     <iframe class="mdl-cell mdl-cell--6-col mdl-shadow--2dp" src="https://itch.io/embed/533543" height="167" 
                         width="552" frameborder="0"></iframe>
