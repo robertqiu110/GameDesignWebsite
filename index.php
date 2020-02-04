@@ -42,7 +42,7 @@
             </div>
             <div class="page-content">
                 <h1 class="section-title" style="text-align: center; text-decoration: underline">UPCOMING EVENTS<h1>
-                    <a href="events.php"><img src="images/bearjams_fa2019.png" style="width:100%; height: auto"></img></a>
+                    <a href="events.php"><img src="images/infosession_sp2020.png" style="width:100%; height: auto"></img></a>
                     </br>
                     </br>
                     <a href="https://www.facebook.com/events/605914039936996/" class="no-hover"><p class="event event-main">9/10: First General Meeting @ Hearst Field Annex, Room B5 [8PM - 9PM]</p></a>
@@ -56,7 +56,7 @@
                     allowtransparency="true" frameborder="0"></iframe>
                 <br><br>
                 <h2 class="section-title">BEAR JAMS FALL 2018: WINNER</h2>
-                <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/308180" height="167" width="552"
+                <iframe style="padding-left:0%; width: 80%" src="https://itch.io/embed/489882" height="167" width="552"
                     frameborder="0"></iframe>
                 <br><br>
                 <h2 class="section-title">EVENT CALENDAR</h2>

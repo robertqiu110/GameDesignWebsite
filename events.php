@@ -35,10 +35,6 @@
         <main class="mdl-layout__content">
             <img src="images/bearjams_fa2019.png" style="width: 100%; height: auto"></img>
             <div class="page-content">
-              <h1 class="section-title" id="schedule">SPRING 2020 INFOSESSION</h1>
-              <p>2/5: Infosession @ Barrows 60 [8PM - 10PM]</p>
-            </div>
-            <div class="page-content">
               <h1 class="section-title">PAST EVENTS:</h1>
               <h1 class="section-title" id="schedule">BEAR JAMES FALL 2019</h1>
               <h2 class="section-title" id="schedule">RULES AND GUIDELINES</h2>
