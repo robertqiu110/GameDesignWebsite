@@ -120,7 +120,7 @@ img.lab-image{
   background: url('images/imon.jpg') no-repeat #46B6AC;
   background-size: 275px;
 }
-.noone {
+#noone {
   background: url('images/eric2.png') no-repeat #46B6AC;
   filter: brightness(0.5);
   -webkit-filter: brightness(0.5);
