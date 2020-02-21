@@ -120,13 +120,17 @@ img.lab-image{
   background: url('images/imon.jpg') no-repeat #46B6AC;
   background-size: 275px;
 }
-#soohyun {
-  background: url('images/soohyun.jpg') no-repeat #46B6AC;
+.noone {
+  background: url('images/eric2.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
+#celine {
+  background: url('images/celine.png') top 0 left 100% no-repeat #46B6AC;
+  background-size: 450px;
+}
 #mert {
-  background: url('images/mert.jpg') top left 25% no-repeat #46B6AC;
-  background-size: 340px;
+  background: url('images/kponce.jpg') no-repeat #46B6AC;
+  background-size: 300px;
 }
 #sean {
   background: url('images/sean.jpg') no-repeat #46B6AC;
@@ -565,3 +569,17 @@ a > .event:hover{
 .info-button:active {
   filter: brightness(70%);
 }*/
+
+#smlinks {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  order: 3;
+  display: flex;
+  justify-content: center;
+}
+
+#smlinks li {
+  display: inline-block;
+  margin: 10 10px;
+}

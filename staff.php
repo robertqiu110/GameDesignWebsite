@@ -37,20 +37,11 @@
                 <h1 class="section-title" id="facilitators">OFFICERS</h1>
                     <div class="mdl-grid">
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
-                            <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
-                            <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                President
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="imon"></div>
                             <h2 class="mdl-card__title-text name">Imon Husain</h2>
                             <h2 class="mdl-card__title-text description">"Don't screw with me! I have the power of god and anime on my side!"</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Vice President
+                                President
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
@@ -59,7 +50,7 @@
                             <h2 class="mdl-card__title-text name">Matthew Guo</h2>
                             <h2 class="mdl-card__title-text description">"You know the sound that a fork makes in the garbage disposal? That's the sound my brain makes all the time."</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Industry Outreach
+                                Vice President
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
@@ -77,14 +68,14 @@
                             <h2 class="mdl-card__title-text name">Alex Le</h2>
                             <h2 class="mdl-card__title-text description">"Okay, that's all the time I've got. I gotta get back to playing Animal Crossing: New Leaf on my Nintendo 3DS."</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Community Manager
+                                Industry Outreach
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="mert"></div>
-                            <h2 class="mdl-card__title-text name">Mert Arslan</h2>
-                            <h2 class="mdl-card__title-text description"><i>"This info panel is shrouded by a mysterious darkness..."</i></h2>
+                            <div class="mdl-card__title mdl-card--expand" id="kponce"></div>
+                            <h2 class="mdl-card__title-text name">Kevin Ponce</h2>
+                            <h2 class="mdl-card__title-text description"><i>Best teeth in the game.</i></h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Event Coordinator
                                 <button class="info-button" onclick="info(this)">INFO</button>
@@ -109,11 +100,11 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="soohyun"></div>
-                            <h2 class="mdl-card__title-text name">Soohyun Cho</h2>
-                            <h2 class="mdl-card__title-text description">"Final Fantasy X is best Final Fantasy."</h2>
+                            <div class="mdl-card__title mdl-card--expand" id="celine"></div>
+                            <h2 class="mdl-card__title-text name">Celine Tang</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Public Relations
+                                Graphic Designer
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
@@ -131,24 +122,6 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="mert"></div>
-                            <h2 class="mdl-card__title-text name">Mert Arslan</h2>
-                            <h2 class="mdl-card__title-text description"><i>"This info panel is shrouded by a mysterious darkness..."</i></h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Mentor
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
-                            <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
-                            <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Mentor
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
                             <h2 class="mdl-card__title-text name">Weylan Wang</h2>
                             <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
@@ -158,8 +131,8 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
-                            <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
+                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <h2 class="mdl-card__title-text name">William Xie</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Mentor
@@ -197,20 +170,11 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="jennifer"></div>
-                            <h2 class="mdl-card__title-text name">Jennifer Kim</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <div class="mdl-card__title mdl-card--expand" id="austin"></div>
+                            <h2 class="mdl-card__title-text name">Austin Wangyu</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
                             <div class="mdl-card__actions mdl-card--border">
-                                Facilitator
-                                <button class="info-button" onclick="info(this)">INFO</button>
-                            </div>
-                        </div>
-                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="tom"></div>
-                            <h2 class="mdl-card__title-text name">Tom Barezer Ayalon</h2>
-                            <h2 class="mdl-card__title-text description">"If your game doesn't have VFX and particle systems, it is not a game."</h2>
-                            <div class="mdl-card__actions mdl-card--border">
-                                Facilitator
+                                Lead Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
@@ -224,8 +188,8 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="austin"></div>
-                            <h2 class="mdl-card__title-text name">Austin Wangyu</h2>
+                            <div class="mdl-card__title mdl-card--expand" id="celine"></div>
+                            <h2 class="mdl-card__title-text name">Celine Tang</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
@@ -233,18 +197,27 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="vera"></div>
-                            <h2 class="mdl-card__title-text name">Vera Wang</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
+                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <h2 class="mdl-card__title-text name">Katherine Pan</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="dalton"></div>
-                            <h2 class="mdl-card__title-text name">Dalton Do</h2>
-                            <h2 class="mdl-card__title-text description">"If there was ever an ideal model for a facilitator, it would be Dalton."</h2>
+                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <h2 class="mdl-card__title-text name">Jasmine Zhang</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <div class="mdl-card__actions mdl-card--border">
+                                Facilitator
+                                <button class="info-button" onclick="info(this)">INFO</button>
+                            </div>
+                        </div>
+                        <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <h2 class="mdl-card__title-text name">Lauren Koch</h2>
+                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>

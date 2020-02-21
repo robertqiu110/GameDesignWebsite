@@ -12,4 +12,15 @@
                 </a></li>
         </ul>
     </div>
+    <ul id="smlinks">
+        <li><a href="mailto:calgamedesign@gmail.com">
+                    <p style="border: 0; display: block;">Email</p>
+                </a></li>
+            <li><a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583">
+                    <p style="border: 0; display: block;">Facebook</p>
+                </a></li>
+            <li><a href="https://twitter.com/GDDatBerkeley">
+                    <p style="border: 0; display: block;">Twitter</p>
+                </a></li>
+    </ul>
 </footer>

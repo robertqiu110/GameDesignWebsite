@@ -183,7 +183,7 @@
                             <td>Tu 02/11</td>
                             <td>7</td>
                             <td class="td-left"><a href="https://docs.google.com/presentation/d/1jXtt_ZfqCrM3I9CMS5OWGOjRz-4I0R1u61pBw0XqkxA/edit?usp=sharing">Basics of Game design</a></td>
-                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a><br>Read by 09/25</td>
+                            <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
                             <td>Lab: <a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a>/<a href="https://github.com/berkeleyGamedev/SpritingLab">Spriting</a></td>
                             <td></td>
                             <td>Location: TBD</td>
