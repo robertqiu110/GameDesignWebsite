@@ -131,7 +131,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
                             <h2 class="mdl-card__title-text name">William Xie</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -197,7 +197,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
                             <h2 class="mdl-card__title-text name">Katherine Pan</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -206,7 +206,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
                             <h2 class="mdl-card__title-text name">Jasmine Zhang</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -215,7 +215,7 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" class="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
                             <h2 class="mdl-card__title-text name">Lauren Koch</h2>
                             <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                             <div class="mdl-card__actions mdl-card--border">
@@ -234,6 +234,7 @@
                         </div>
                     </div>
             </div>
+            <br/><br/><br/><br/><br/>
             <!-- fixes a bug for some reason -->
             <div class="mdl-button__container">
             </div>

@@ -121,14 +121,16 @@ img.lab-image{
   background-size: 275px;
 }
 .noone {
-  background: url('images/eric2.jpg') no-repeat #46B6AC;
+  background: url('images/eric2.png') no-repeat #46B6AC;
+  filter: brightness(0.5);
+  -webkit-filter: brightness(0.5);
   background-size: 300px;
 }
 #celine {
-  background: url('images/celine.png') top 0 left 100% no-repeat #46B6AC;
+  background: url('images/celine.png') top 50% left 50% no-repeat #46B6AC;
   background-size: 450px;
 }
-#mert {
+#kponce {
   background: url('images/kponce.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
@@ -577,9 +579,10 @@ a > .event:hover{
   order: 3;
   display: flex;
   justify-content: center;
+  margin-top: 80px;
 }
 
 #smlinks li {
   display: inline-block;
-  margin: 10 10px;
+  margin: 10px 10px;
 }
