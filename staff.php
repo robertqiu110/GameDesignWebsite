@@ -131,9 +131,9 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="willx"></div>
                             <h2 class="mdl-card__title-text name">William Xie</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <h2 class="mdl-card__title-text description">super mario bros. 2 baby!</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Mentor
                                 <button class="info-button" onclick="info(this)">INFO</button>
@@ -197,27 +197,27 @@
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="katpan"></div>
                             <h2 class="mdl-card__title-text name">Katherine Pan</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <h2 class="mdl-card__title-text description">Boba is a meal don’t @ me</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="jasmine"></div>
                             <h2 class="mdl-card__title-text name">Jasmine Zhang</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <h2 class="mdl-card__title-text description">berkeley is soup and i am fork</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
                             </div>
                         </div>
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                            <div class="mdl-card__title mdl-card--expand" id="noone"></div>
+                            <div class="mdl-card__title mdl-card--expand" id="lauren"></div>
                             <h2 class="mdl-card__title-text name">Lauren Koch</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <h2 class="mdl-card__title-text description">god has cursed me for my hubris and my work is never finished</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>

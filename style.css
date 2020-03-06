@@ -130,6 +130,22 @@ img.lab-image{
   background: url('images/celine.png') top 50% left 50% no-repeat #46B6AC;
   background-size: 450px;
 }
+#katpan {
+  background: url('images/katherinepan.jpg') top 50% left 50% no-repeat #46B6AC;
+  background-size: 450px;
+}
+#lauren {
+  background: url('images/laurenkoch.png') top 50% left 50% no-repeat #46B6AC;
+  background-size: 450px;
+}
+#jasmine {
+  background: url('images/jasminezhang.png') top 50% left 50% no-repeat #46B6AC;
+  background-size: 450px;
+}
+#willx {
+  background: url('images/williamx.jpg') top 50% left 50% no-repeat #46B6AC;
+  background-size: 450px;
+}
 #kponce {
   background: url('images/kponce.jpg') no-repeat #46B6AC;
   background-size: 300px;

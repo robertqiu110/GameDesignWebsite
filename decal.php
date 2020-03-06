@@ -196,7 +196,7 @@
                             <td class="td-left"><a href="https://docs.google.com/presentation/d/1L9EtcDJdKYgirxSnE0YMFhdRZbH_nb6dzsNdXz6abkY/edit?usp=sharing">Game Loops/Design Docs</a></td>
                             
                             <td>Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a>/<a href="https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
-                            <td class="proj2">Project 1 Part 2 due/<br>Project 2 Assigned</td>
+                            <td class="proj2">Project 1 Part 2 due</td>
                             <td>Location: TBD</td>
                         </tr>
                         <tr class="gray-bg">
@@ -207,7 +207,7 @@
                                 tools and assets</a></td>
                             <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a></td>
                             <td>Lab: <a href="https://github.com/berkeleyGamedev/Coroutines">Coroutines</a>/<a href="https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">Animator</a></td>
-                            <td></td>
+                            <td><a href="https://docs.google.com/document/d/1PvcvLqMfvjgIgoCUMl5Yh5GBRb2WXL1RzGbhoRsxgf0/edit?usp=sharing">Project 2 Assigned (Due 2/25)</a></td>
                             <td>Location: TBD</td>
                         </tr>
                         <!-- Week 5 -->
@@ -215,7 +215,7 @@
                             
                             <td>Th 02/20</td>
                             <td>10</td>
-                            <td class="td-left">Showcase game jam projects, project 3 explained, project work meetings, small group pitch discussions
+                            <td class="td-left"><a href="https://drive.google.com/open?id=1s2XjCWD0GVxvoVOmUGzST1-0F1qg4lEsXeS4vD5JVtU">Showcase game jam projects, project 3 explained, project work meetings, small group pitch discussions</a>
                             </td>
                             
                             <td></td>
