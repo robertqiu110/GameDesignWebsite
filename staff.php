@@ -102,7 +102,7 @@
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="celine"></div>
                             <h2 class="mdl-card__title-text name">Celine Tang</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                            <h2 class="mdl-card__title-text description">big uwu energy</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Graphic Designer
                                 <button class="info-button" onclick="info(this)">INFO</button>
