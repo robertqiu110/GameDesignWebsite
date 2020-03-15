@@ -57,7 +57,7 @@
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="robert"></div>
                             <h2 class="mdl-card__title-text name">Robert Qiu</h2>
-                            <h2 class="mdl-card__title-text description">"All we want as a child is to grow up. Now that we're here, all we want is to be a child again."</h2>
+                            <h2 class="mdl-card__title-text description">"As a child, all we want is to grow up. Now that we're here, we just want to be kids again."</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Webmaster
                                 <button class="info-button" onclick="info(this)">INFO</button>
@@ -190,7 +190,7 @@
                         <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                             <div class="mdl-card__title mdl-card--expand" id="celine"></div>
                             <h2 class="mdl-card__title-text name">Celine Tang</h2>
-                            <h2 class="mdl-card__title-text description">Best teeth in the game</h2>
+                            <h2 class="mdl-card__title-text description">big uwu energy</h2>
                             <div class="mdl-card__actions mdl-card--border">
                                 Facilitator
                                 <button class="info-button" onclick="info(this)">INFO</button>
