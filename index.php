@@ -112,7 +112,7 @@
                         $service = new Google_Service_Calendar($client);
 
                         // Print the next 10 events on the user's calendar.
-                        $calendarId = 'primary';
+                        $calendarId = '6kfb8nisut8k5u07e6d5591kjs@group.calendar.google.com';
                         $optParams = array(
                           'maxResults' => 6,
                           'orderBy' => 'startTime',
@@ -135,12 +135,12 @@
                                     if (!empty($event->end->dateTime)) {
                                         $startTime = date('g:iA', strtotime($start));
                                         $endTime = date('g:iA', strtotime($event->end->dateTime));
-                                        $timeStuff = ' [' + $startTime + ' - ' + $endTime + ']';
+                                        $timeStuff = ' [' . $startTime . ' - ' . $endTime . ']';
                                     }
                                 }
                                 //printf("%s (%s)\n", $event->getSummary(), $start);
                                 $finalDate = date('m/d', strtotime($start));
-                                echo '<p class="event event-main">' + $finalDate + ': ' + $event->getSummary() + ' @ ' + $event->getLocation() + $timeStuff + '</p>';
+                                echo '<p class="event event-main">' . $finalDate . ': ' . $event->getSummary() . ' @ ' . $event->getLocation() . $timeStuff . '</p>';
                             }
                         }
                     ?>
