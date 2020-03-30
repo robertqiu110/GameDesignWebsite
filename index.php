@@ -42,7 +42,7 @@
             </div>
             <div class="page-content">
                 <h1 class="section-title" style="text-align: center; text-decoration: underline">UPCOMING EVENTS<h1>
-                    <a href="events.php"><img src="images/infosession_sp2020.png" style="width:100%; height: auto"></img></a>
+                    <a href="events.php"><img src="images/GDDModdingEvent.jpg" style="width:100%; height: auto"></img></a>
                     </br>
                     </br>
                     <!--<a href="https://www.facebook.com/events/605914039936996/" class="no-hover"><p class="event event-main">9/10: First General Meeting @ Hearst Field Annex, Room B5 [8PM - 9PM]</p></a>
