@@ -41,17 +41,7 @@
                 </div>
                 <h1 class="section-title" id="course-description">COURSE DESCRIPTION</h1>
                 <p>
-                    This course is a deep dive into the creation of games, from beginning to end.
-                    Over the course of the semester, students will pitch a game, form small teams, and
-                    build a project from start to finish with help from the instructors. Students are not
-                    required to have any prior game development experience but it is required that a
-                    student taking the course either has basic art, music or programming abilities. They will
-                    also learn about the different roles that exist within the industry, how to apply their skills
-                    to them, and form an understanding about how to best prepare themselves to find their
-                    way into these roles. This will be a rigorous class, one that will require a lot of time and
-                    dedication. Students will be selected via the application due Friday, January 24th at
-                    11:59 PM, to ensure that the class composition reflects a diverse range of skills,
-                    backgrounds, and proficiency levels.
+                    This course is a deep dive into the creation of games, from beginning to end. Over the course of the semester, students will pitch a game, form small teams, and build a project from start to finish with help from the instructors. Students are not required to have any prior game development experience but it is required that a student taking the course either has basic art, music or programming abilities. They will also learn about the different roles that exist within the industry, how to apply their skills to them, and form an understanding about how to best prepare themselves to find their way into these roles. This will be a rigorous class, one that will require a lot of time and dedication. Students will be selected via the application due Friday, August 28th at 11:59 PM, to ensure that the class composition reflects a diverse range of skills, backgrounds, and proficiency levels.
                 </p>
                 <ul class="toc">
                     <h6 class="section-title">Contents</h6>
@@ -75,10 +65,10 @@
                         <strong>Time:</strong> Tu/Th 7:00-8:30pm
                     </p>
                     <p>
-                        <strong>Location:</strong> Jacobs 210
+                        <strong>Location:</strong> Zoom
                     </p>
                     <p>
-                        <strong>Lead Facilitators:</strong> Austin Wangyu, Weylan Wang
+                        <strong>Lead Facilitators:</strong> Jasmine Zhang, Katherine Pan
                     </p>
                     <p>
                         <strong>Faculty of Record:</strong> Ren Ng
@@ -90,7 +80,7 @@
                 <h1 class="section-title" id="office-hours">OFFICE HOURS</h1>
                 <div>
                     <p>
-                        <strong>Time:</strong> Mondays 12:00pm-1:00pm, Wednesdays 1:00pm-2:00pm
+                        <strong>Time:</strong> TBD
                     </p>
                     <p>
                         <strong>Location:</strong> TBD
