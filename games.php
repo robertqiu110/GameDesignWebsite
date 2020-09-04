@@ -250,6 +250,7 @@
                         <p>Zosar</p>
                     </div></a>
                 </div>
+                <a href="https://gddberkeley.itch.io/" id="joindisc">Our itch.io Page</a>
             </div>
             <!-- fixes a bug for some reason -->
             <div class="mdl-button__container">
