@@ -44,7 +44,7 @@
                 </div>
                 <div id="aboutPage">
                     <div class="page-main">
-                        <div style="height: 350px"></div>
+                        <div style="height: 350px; background-image: url('images/club_fa19.jfif')"></div>
                         <p>
                             The Game Design and Development Club is a great way to become a part of Cal's game development
                             community. Regardless of if you have taken the decal or if you are student or alumni, you can join

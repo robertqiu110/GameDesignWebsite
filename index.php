@@ -59,7 +59,7 @@
             </div>
             <div class="section-main" style="background-color: #08396e; margin-top: 100px;">
             	<div class="page-content">
-            		<h2 class="section-title">Join the Community!</h2>
+            		<h2 class="section-title" style="text-align: center;">Join the Community!</h2>
             		<div class="page-main">
                         <div style="background-image: url('images/grouppic.JPG')"></div>
                         <p>
