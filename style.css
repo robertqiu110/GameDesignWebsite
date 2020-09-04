@@ -33,7 +33,7 @@ html, body {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.5;
   color: #F4ECDB;
 }
@@ -369,12 +369,12 @@ h4 {
 }
 
 a {
-  text-decoration: none;
+	color: rgb(178,255,89);
+  	text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
-
+  	text-decoration: underline;
 }
 
 strong {
@@ -674,6 +674,16 @@ a > .event:hover{
 .page-main p a:hover {
   text-decoration: none;
   background-color: #FFD894;
+}
+
+#bearjams_p {
+	font-size: 20px;
+}
+
+#bearjams_p span {
+	font-size: 24px;
+	font-weight: 600;
+	color: #F5C35B;
 }
 
 .tabs-picker {

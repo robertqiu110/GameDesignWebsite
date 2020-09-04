@@ -45,7 +45,7 @@
                 </div>
                 <div id="syllabusPage">
                     <div class="page-main">
-                        <div style="background-image: url('images/decal_fa19.jpg')"></div>
+                        <div style="background-image: url('images/decal_fa19.jpg'); width: 700px;"></div>
                         <p>
                             This course is a deep dive into the creation of games, from beginning to end. Over the course of the semester, students will pitch a game, form small teams, and build a project from start to finish with help from the instructors. Students are not required to have any prior game development experience but it is required that a student taking the course either has basic art, music or programming abilities. 
                             <br><br>

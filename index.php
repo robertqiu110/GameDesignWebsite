@@ -61,15 +61,9 @@
             	<div class="page-content">
             		<h2 class="section-title" style="text-align: center;">Join the Community!</h2>
             		<div class="page-main">
-                        <div style="background-image: url('images/grouppic.JPG')"></div>
-                        <p>
-                            The Game Design and Development Club is a great way to become a part of Cal's game development
-                            community. Regardless of if you have taken the decal or if you are student or alumni, you can join
-                            the club and apply for an approprite role based on your skills, and if you'd like, form a game
-                            development team and be mentored by (or mentor!) fellow students as you work toward making your
-                            game. In the real world, we plan to host events including hackathons and guest speakers. Otherwise,
-                            the club is a somewhere to discuss and play all things game related. We'd love to have you! To get
-                            involved, simply join our Discord server and it will walk you through the rest of the process.
+                        <div style="background-image: url('images/grouppic.JPG'); width: 650px;"></div>
+                        <p style="width: 630px;">
+                            We host many fun events throughout the semester, such as field trips to events such as GDC (Game Developers Conference—the largest game developer conference in the world!) and Day of the Devs, board game nights, playtests, and a showcase at the end of every semester! We also have text and voice channels in Discord dedicated to connecting people together based on common interests such as gaming or developing games as well, so we stay connected whether online or offline, it doesn't matter. Every semester we bring passionate devs together through our party system: club members get to join a team for the semester and work with others on the team to complete a game. This is a great opportunity to both gain game development experience as well as meet new people! And if you have no prior experience, dont worry—each party has an assigned mentor to help you learn and grow as a game developer. Jump in!
                             <br><br>
                             <a href="https://tinyurl.com/GDDatBerkeley" style="margin-right: 10px">Discord</a>
                             <a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583">Facebook</a>

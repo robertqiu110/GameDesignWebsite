@@ -119,55 +119,6 @@
                     <div id="facilitatorPage">
                         <div class="mdl-grid">
                             <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                                <div class="mdl-card__title mdl-card--expand" id="eric"></div>
-                                <h2 class="mdl-card__title-text name">Eric McCormick</h2>
-                                <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
-                                <div class="mdl-card__actions mdl-card--border">
-                                    Lead Mentor
-                                    <button class="info-button" onclick="info(this)">Quote</button>
-                                </div>
-                            </div>
-                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                                <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
-                                <h2 class="mdl-card__title-text name">Weylan Wang</h2>
-                                <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
-                                <div class="mdl-card__actions mdl-card--border">
-                                    Mentor
-                                    <button class="info-button" onclick="info(this)">Quote</button>
-                                </div>
-                            </div>
-                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                                <div class="mdl-card__title mdl-card--expand" id="willx"></div>
-                                <h2 class="mdl-card__title-text name">William Xie</h2>
-                                <h2 class="mdl-card__title-text description">super mario bros. 2 baby!</h2>
-                                <div class="mdl-card__actions mdl-card--border">
-                                    Mentor
-                                    <button class="info-button" onclick="info(this)">Quote</button>
-                                </div>
-                            </div>
-                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                                <div class="mdl-card__title mdl-card--expand" id="brian"></div>
-                                <h2 class="mdl-card__title-text name">Brian Stone</h2>
-                                <h2 class="mdl-card__title-text description">"If you put a waterfall in your video game and there's nothing behind it, you should go to jail."</h2>
-                                <div class="mdl-card__actions mdl-card--border">
-                                    Mentor
-                                    <button class="info-button" onclick="info(this)">Quote</button>
-                                </div>
-                            </div>
-                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
-                                <div class="mdl-card__title mdl-card--expand" id="alexchan"></div>
-                                <h2 class="mdl-card__title-text name">Alex Chan</h2>
-                                <h2 class="mdl-card__title-text description">"Had to send this photo in to Tom by Friday."</h2>
-                                <div class="mdl-card__actions mdl-card--border">
-                                    Mentor
-                                    <button class="info-button" onclick="info(this)">Quote</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="mentorPage">
-                        <div class="mdl-grid">
-                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
                                 <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
                                 <h2 class="mdl-card__title-text name">Weylan Wang</h2>
                                 <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
@@ -236,6 +187,55 @@
                                 <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
                                 <div class="mdl-card__actions mdl-card--border">
                                     Facilitator
+                                    <button class="info-button" onclick="info(this)">Quote</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="mentorPage">
+                        <div class="mdl-grid">
+                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                                <div class="mdl-card__title mdl-card--expand" id="eric"></div>
+                                <h2 class="mdl-card__title-text name">Eric McCormick</h2>
+                                <h2 class="mdl-card__title-text description">Best teeth in the game.</h2>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    Lead Mentor
+                                    <button class="info-button" onclick="info(this)">Quote</button>
+                                </div>
+                            </div>
+                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                                <div class="mdl-card__title mdl-card--expand" id="weylan"></div>
+                                <h2 class="mdl-card__title-text name">Weylan Wang</h2>
+                                <h2 class="mdl-card__title-text description">"Who thought it was a smart idea to put me in charge."</h2>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    Mentor
+                                    <button class="info-button" onclick="info(this)">Quote</button>
+                                </div>
+                            </div>
+                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                                <div class="mdl-card__title mdl-card--expand" id="willx"></div>
+                                <h2 class="mdl-card__title-text name">William Xie</h2>
+                                <h2 class="mdl-card__title-text description">super mario bros. 2 baby!</h2>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    Mentor
+                                    <button class="info-button" onclick="info(this)">Quote</button>
+                                </div>
+                            </div>
+                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                                <div class="mdl-card__title mdl-card--expand" id="brian"></div>
+                                <h2 class="mdl-card__title-text name">Brian Stone</h2>
+                                <h2 class="mdl-card__title-text description">"If you put a waterfall in your video game and there's nothing behind it, you should go to jail."</h2>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    Mentor
+                                    <button class="info-button" onclick="info(this)">Quote</button>
+                                </div>
+                            </div>
+                            <div class="demo-card-square mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col">
+                                <div class="mdl-card__title mdl-card--expand" id="alexchan"></div>
+                                <h2 class="mdl-card__title-text name">Alex Chan</h2>
+                                <h2 class="mdl-card__title-text description">"Had to send this photo in to Tom by Friday."</h2>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    Mentor
                                     <button class="info-button" onclick="info(this)">Quote</button>
                                 </div>
                             </div>
