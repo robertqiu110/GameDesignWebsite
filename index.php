@@ -79,8 +79,8 @@
             </div>
             <div class="section-main">
             	<div class="page-content">
-            		<h2 class="section-title">Featured Event <a href="bearjams.php">Find Out More</a></h2>
-            		<a href="bearjams.php"><img src="images/bearjams_fa2019.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
+            		<h2 class="section-title">Featured Event <a href="club.php?tab=events">Find Out More</a></h2>
+            		<a href="https://www.facebook.com/events/326014645246782/"><img src="images/fa20-infosession.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
             	</div>
             </div>
             <div class="section-main">

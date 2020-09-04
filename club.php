@@ -59,10 +59,10 @@
                     </div>
                 </div>
                 <div id="partiesPage">
-                    <div style="height: 350px"></div>
+                    <p style="text-align: center; font-size: 50px; line-height: 300px; color: #F5C35B">In Construction</p>
                 </div>
                 <div id="eventsPage">
-                    <div style="height: 350px"></div>
+                    <p style="text-align: center; font-size: 50px; line-height: 300px; color: #F5C35B">In Construction</p>
                 </div>
                 <!--
                 <h1 class="section-title" id="course-description">Projects: Spring 2019 Club</h1>
