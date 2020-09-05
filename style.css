@@ -373,6 +373,10 @@ a {
   	text-decoration: none;
 }
 
+table a {
+    color: rgb(255,64,129);
+}
+
 a:hover {
   	text-decoration: underline;
 }

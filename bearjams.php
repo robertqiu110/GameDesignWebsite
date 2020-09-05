@@ -55,9 +55,10 @@
                     Join Game Design and Development at Berkeley for Bear Jams! Bear Jams is a 45-hr game jam open to everyone, not just UC Berkeley students! 
                     <br><br>
                     The event starts at 6:00PM where we give an introduction, followed by the theme reveal @ 6:30 PM. There will be time to get to know other participants and form teams. 
-                    For those
                     <br><br>
                     After the theme is announced, our Discord will have a voice and chat channel for participants to hang-out. Between 10 AM and 8 PM every day during the jam, we will have at least one GDD staff member online in the server. Participants can ask both questions about the events and for help with their game and we will try our best to answer.
+                    <br><br>
+                    This jam is hosted on the GDD itch.io at <a href="https://itch.io/jam/bear-jams-fall-2020">itch.io/jam/bear-jams-fall-2020</a>. Make sure you join and submit there!
                     <br><br>
                     Submissions will be due at 3 PM PST on Sunday (we will have a 10 minute grace period BUT DON'T ABUSE IT). Winners will be announced during the showcase from 6 - 8 PM PST on Sunday.  
                     <br><br>
