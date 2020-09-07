@@ -42,10 +42,15 @@
                         <span>Time (Jam):</span> Fri, October 23 6PM - Sun, October 25 3PM<br>
                         <span>Time (Showcase):</span> Sun, October 25 6PM - 8PM<br>
                         We'd appreciate it if anyone who is interested in participating would fill out a RSVP form!
-                        <br><br>
-                        <a href="https://tinyurl.com/BearJamsFa20Zoom">Zoom Link</a><br>
+                        <br>
                         <br>
                         <a href="https://tinyurl.com/BearJamsFa20">RSVP Here</a>
+                        <br>
+                        <br>
+                        <a href="https://www.facebook.com/events/686883735371185">Facebook Event</a>
+                        <br>
+                        <br>
+                        <a href="https://tinyurl.com/BearJamsFa20Zoom">Zoom Link</a>
                     </p>
                 </div>
                 <h1 class="section-title">Event Info</h1>
