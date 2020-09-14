@@ -338,11 +338,10 @@
                             <!-- Week 0 -->
                             <tr class="gray-bg">
                                 <td class="weeknum" rowspan="2">0</td>
-                                <td>Tu 01/21</td>
+                                <td> Tu 08/25</td>
                                 <td>1</td>
                                 <td class="td-left">NONE</td>
-                                <td class="weeknum" rowspan="2"><a href="https://www.gamedesigning.org/learn/game-design-principles/
-                                ">Game Design Principles</a></td>
+                                <td class="weeknum" rowspan="2"><a href = "https://www.gamedesigning.org/learn/game-design-principles/">Game Design Principles </a></td> 
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
@@ -350,9 +349,9 @@
                             <!-- Week 1 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 01/23</td>
+                                <td>Th 08/27</td>
                                 <td>2</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1I866uQHaL0vBliy_igkWeap-wC68pgq23wUpjnJ50jc/edit#slide=id.g610d872829_0_27">
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1XnE1p-jA1bh8wQsROIGwY0KnBrcUCwwyj-cGK6RMkcg/edit?usp=sharing">
                                     Course Overview and Info Session</a><br> Past semester game showcase</td>
                                 <td></td>
                                 <td></td>
@@ -360,12 +359,12 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">1</td>
-                                <td>Tu 01/28</td>
+                                <td>Tu 09/01</td>
                                 <td>3</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1wsEt-IGlbJ9_25YskrOpu-U6jw_MFqFo9j1Txz5Frig/edit#slide=id.g4dee30998c_0_0">
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1kp4aZAzZWOLNQI8HU08U1M3wVhnF9Rx4tUo78cfacHw/edit?usp=sharing">
                                     Intro to Unity- Basics</a></td>
-                                <td class="weeknum" rowspan="2"><a href="https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe">Good Graphics vs Aesthetics in Video Games</a></td>
-                                <td></td>
+                                <td class="weeknum" rowspan="2"><a href = "https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe ">Good Graphics V.S Good Aesthetics</a></td>
+                                <td class = "weeknum" rowspam = "2" ><a href="https://github.com/berkeleyGamedev/UnityBasics"> Intro to Unity Lab</a></td>
                                 <td class="proj1"><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
                                     <a href="https://tinyurl.com/MusicFa19">Music/Programmer Hybrid</a><br><a href="https://tinyurl.com/ProgrammerFa19">Programmers</a></td>
                                 <td>Location: TBD</td>
@@ -373,40 +372,43 @@
                             <!-- Week 2 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 01/30</td>
+                                <td>Th 09/03</td>
                                 <td>4</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1-OSanFW2zaXcSgo8OceXDc66grAfRUPjhdmWUhGqBPQ/edit?usp=sharing">Intro to Unity- Programming</a></td>
-                                <td></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1vn0CjAxSOMe_EGZlh65eZ95nOf51EAh5V8Zs6Yy_WgY/edit?usp=sharing
+">SplitDay- Character Design</a></td>
+                                <td >Programers Lab:<a href=" https://github.com/berkeleyGamedev/BasicScriptingLab"> Basic Scripting</a><br> Artist Lab:
+                                    <a href = "https://github.com/berkeleyGamedev/PixelArtAndSpritingLab">PixelArt and Spriting</a> </td>
                                 <td>
                                 </td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">2</td>
-                                <td>Tu 02/04</td>
+                                <td>Tu 09/08</td>
                                 <td>5</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1kIScIeyV0neeKOvoq3UblLcFJLNROom4N2HfeKm8HyY/edit?usp=sharing">Intro to Unity - The art pipeline
-                                </a></td>
-                                <td></td>
-                                <td></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1zsLk6aBDv4qHUGeemrSzcU7QaQIiOAm2MS7p2iTZT1U/edit?usp=sharing">Dimension and Style, Color Slides
+                                </a><br><a href = "https://docs.google.com/presentation/d/1ua33FQ-kKbdb68cHZ7wRN2nLInBTizuWnRIliFqL3gs/edit?usp=sharing">Shape Slides</a></td>
+                                <td class= "weeknum" rowspan = "2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 ">Basic Principles of Gameplay Design</a></td>
+                                <td>Artist Lab:<a href = " https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
                                 <td>Project 1 Part 1 due</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- week 3 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 02/06</td>
+                                <td>Th 09/10</td>
                                 <td>6</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1X9VDxkpanT9LETJp0l4MmnilVA6-hAhRR9_c37eifLw/edit?usp=sharing">Intro to Unity- Advanced Topics: Art</a><br>
-                                    <a href="https://docs.google.com/presentation/d/17XOdfcTw3n7HkCUdGsxsxSVWgeD9YgHfO4EUCTEFf-s/edit?usp=sharing">Intro to Unity- Advanced Topics: Programming</a></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td class="td-left"><a ></a><br>
+                                    <a ></a></td>
+                                <td>Programmer Lab:<a href= "https://github.com/berkeleyGamedev/Advanced-Scripting">Advanced Scripting </a><br>
+                                Artist Lab:<a href = "https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab"> Animators and Blend Trees </a></td>
+                                <td>Project 1 Part 2<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
+                                <a href= " http://tiny.cc/proj1arthybrid">Programmer Artist Hybrid </a> <br><a href = "http://tiny.cc/proj1artist">Artist</a> </td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">3</td>
-                                <td>Tu 02/11</td>
+                                <td>Tu 9/15</td>
                                 <td>7</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1jXtt_ZfqCrM3I9CMS5OWGOjRz-4I0R1u61pBw0XqkxA/edit?usp=sharing">Basics of Game design</a></td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
@@ -417,7 +419,7 @@
                             <!-- week 4 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 02/13</td>
+                                <td>Th 9/17</td>
                                 <td>8</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1L9EtcDJdKYgirxSnE0YMFhdRZbH_nb6dzsNdXz6abkY/edit?usp=sharing">Game Loops/Design Docs</a></td>
                                 
@@ -427,7 +429,7 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">4</td>
-                                <td>Tu 02/18</td>
+                                <td>Tu 09/22</td>
                                 <td>9</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1BO-l5LyWqG4oPmX9_NqWRuP-eouvtKDItZj9v3-NtR4/edit?usp=sharing">Group dynamics, Pitch day explanation,
                                     tools and assets</a></td>
@@ -439,7 +441,7 @@
                             <!-- Week 5 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 02/20</td>
+                                <td>Th 09/24</td>
                                 <td>10</td>
                                 <td class="td-left"><a href="https://drive.google.com/open?id=1s2XjCWD0GVxvoVOmUGzST1-0F1qg4lEsXeS4vD5JVtU">Showcase game jam projects, project 3 explained, project work meetings, small group pitch discussions</a>
                                 </td>
@@ -450,7 +452,7 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">5</td>
-                                <td>Tu 02/25</td>
+                                <td>Tu 09/29</td>
                                 <td>11</td>
                                 <td class="td-left"><strong>Pitch Day</strong></td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
@@ -461,7 +463,7 @@
                             <!-- Week 6 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 02/27</td>
+                                <td>Th 10/01</td>
                                 <td>12</td>
                                 <td class="td-left">MVP, Teams are assembled + brainstorming session</td>
                                 
@@ -471,7 +473,7 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">6</td>
-                                <td>Tu 03/03</td>
+                                <td>Tu 10/06</td>
                                 <td>13</td>
                                 <td class="td-left">Project work meeting</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a></td>
@@ -482,7 +484,7 @@
                             <!-- Week 7 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 03/05</td>
+                                <td>Th 10/08</td>
                                 <td>14</td>
                                 <td class="td-left">Lecture TBD</td>
                                 
@@ -492,7 +494,7 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">7</td>
-                                <td>Tu 03/10</td>
+                                <td>Tu 10/13</td>
                                 <td>15</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php">Insightful Playtest Questions</a></td>
@@ -503,7 +505,7 @@
                             <!-- Week 8 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 03/12</td>
+                                <td>Th 10/15</td>
                                 <td>16</td>
                                 <td class="td-left">Milestone 1 Delivery: Demo and Feedback</td>
                                 
@@ -513,7 +515,7 @@
                             </tr>
                             <tr  class="gray-bg">
                             <td class="weeknum" rowspan="2">8</td>
-                                <td>Tu 03/17</td>
+                                <td>Tu 10/20</td>
                                 <td>17</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/ThomasGrip/20140429/216467/4Layers_A_Narrative_Design_Approach.php">4 Layers, A Narrative Design Approach</a></td>
@@ -524,7 +526,7 @@
                             <!-- Week 9 -->
                             <tr class="white-bg">
                                 
-                                <td>Th 03/19</td>
+                                <td>Th 10/22</td>
                                 <td>18</td>
                                 <td class="td-left">Potential Guest Lecture TBD</td>
                                 
@@ -534,18 +536,18 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">9</td>
-                                <td>Tu 03/24</td>
+                                <td>Tu 10/27</td>
                                 <td>19</td>
-                                <td class="td-left">Spring Break</td>
-                                <td></td>
+                                <td class="td-left"></td>
+                                <td class="weeknum" rowspan="2"><a href="https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/">Xbox Adaptive Controller</a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="white-bg">
-                                <td>Th 03/26</td>
+                                <td>Th 10/29</td>
                                 <td>20</td>
-                                <td class="td-left">Spring Break</td>
+                                <td class="td-left"></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
@@ -553,17 +555,17 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">10</td>
-                                <td>Tu 3/31</td>
+                                <td>Tu 11/03</td>
                                 <td>21</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
-                                <td class="weeknum" rowspan="2"><a href="https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/">Xbox Adaptive Controller</a></td>
+                                <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 10 -->
                             <tr class="white-bg">
-                                <td>Th 4/02</td>
+                                <td>Th 11/05</td>
                                 <td>22</td>
                                 <td class="td-left"><strong>Milestone 2 Delivery: Demo and Feedback</strong></td>
                                 
@@ -573,17 +575,17 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">11</td>
-                                <td>Tu 4/07</td>
+                                <td>Tu 11/10</td>
                                 <td>23</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
-                                <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a></td>
+                                <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400">The Many Ways to Show the Player how it's Done with In-Game Tutorials</a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 11 -->
                             <tr class="white-bg">
-                                <td>Th 4/09</td>
+                                <td>Th 11/12</td>
                                 <td>24</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
                                 
@@ -593,17 +595,17 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">12</td>
-                                <td>Tu 4/14</td>
+                                <td>Tu 11/17</td>
                                 <td>25</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
-                                <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400">The Many Ways to Show the Player how it's Done with In-Game Tutorials</a></td>
+                                <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php">Game Design in Real Life: Gamification</a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 12 -->
                             <tr class="white-bg">
-                                <td>Th 4/16</td>
+                                <td>Th 11/19</td>
                                 <td>26</td>
                                 <td class="td-left"><strong>Milestone 3 Delivery: Demo and Feedback</strong></td>
                                 
@@ -613,17 +615,17 @@
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">13</td>
-                                <td>Tu 4/21</td>
+                                <td>Tu 11/24</td>
                                 <td>27</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
-                                <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/blogs/CalebCompton/20180618/320219/Game_Design_in_Real_Life_Gamification.php">Game Design in Real Life: Gamification</a></td>
+                                <td ><a></a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 13 -->
                             <tr class="white-bg">
-                                <td>Th 4/23</td>
+                                <td>Th 11/26</td>
                                 <td>28</td>
                                 <td class="td-left">Lecture TBD, Project work meeting</td>
                                 
@@ -634,7 +636,7 @@
                             <!-- Week 14 -->
                             <tr class="gray-bg">
                                 <td class="weeknum" rowspan="2">14</td>
-                                <td>Tu 4/28</td>
+                                <td>Tu 12/01</td>
                                 <td>29</td>
                                 <td class="td-left">Building and Publishing, Project work meeting</td>
                                 <td></td>
@@ -643,7 +645,7 @@
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="white-bg">
-                                <td>Th 4/30</td>
+                                <td>Th 12/03</td>
                                 <td>30</td>
                                 <td class="td-left"><strong>Game/course postmortem writeup due</strong></td>
                                 <td></td>
@@ -654,7 +656,7 @@
                             <!-- Week 15 -->
                             <tr class="gray-bg">
                                 <td class="weeknum" rowspan="2">15</td>
-                                <td>Tu 05/05</td>
+                                <td>Tu 13/08</td>
                                 <td>31</td>
                                 <td class="td-left"><strong>Showcase</strong></td>
                                 <td></td>
