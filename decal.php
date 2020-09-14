@@ -549,7 +549,7 @@
                                 <td>20</td>
                                 <td class="td-left"></td>
                                 <td></td>
-                                <td></td>
+                                
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -656,7 +656,7 @@
                             <!-- Week 15 -->
                             <tr class="gray-bg">
                                 <td class="weeknum" rowspan="2">15</td>
-                                <td>Tu 13/08</td>
+                                <td>Tu 12/08</td>
                                 <td>31</td>
                                 <td class="td-left"><strong>Showcase</strong></td>
                                 <td></td>
