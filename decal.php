@@ -410,9 +410,9 @@
                             <td class="weeknum" rowspan="2">3</td>
                                 <td>Tu 9/15</td>
                                 <td>7</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1jXtt_ZfqCrM3I9CMS5OWGOjRz-4I0R1u61pBw0XqkxA/edit?usp=sharing">Basics of Game design</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1twFQPvbr33NX5J8hJwdG94jc52iU56foO3ZwchNFVAs/edit?usp=sharing">Intro to Game design</a></td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
-                                <td>Lab: <a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a>/<a href="https://github.com/berkeleyGamedev/SpritingLab">Spriting</a></td>
+                                <td> Programmer Lab:<a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab:<a href=" https://github.com/berkeleyGamedev/TilesetLab">Tilesets</a></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
