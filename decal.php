@@ -421,9 +421,9 @@
                                 
                                 <td>Th 9/17</td>
                                 <td>8</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1L9EtcDJdKYgirxSnE0YMFhdRZbH_nb6dzsNdXz6abkY/edit?usp=sharing">Game Loops/Design Docs</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1AGtClAl8tPQl-rEJTLsZ_Yhl63V34fwcfgEs3qnHRcg/edit?usp=sharing">Game Loops/Design Docs</a></td>
                                 
-                                <td>Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a>/<a href="https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
+                                <td>Programmer Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a><br> Artist Lab:<a href="https://drive.google.com/file/d/1cBfg9m7tj9m3-LS2czlhcj_FXNMqjIk0/view?usp=sharing">Enviroment design</a></td>
                                 <td class="proj2">Project 1 Part 2 due</td>
                                 <td>Location: TBD</td>
                             </tr>
