@@ -11,7 +11,7 @@
         </a>
     </div>
     <ul id="smlinks">
-        <li><a href="mailto:calgamedesign@gmail.com">
+        <li><a href="mailto:contact@gamedev.berkeley.edu">
                 <p style="border: 0; display: block;">Email</p>
             </a></li>
         <li><a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583" target="_blank">
