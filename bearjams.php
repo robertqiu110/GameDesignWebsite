@@ -69,6 +69,14 @@
                     <br><br>
                     Participation is open to everyone, not just Berkeley students! There is no difference between teams with and without students! We are excited to see all of the wonderful games you guys will create!
                     <br><br>
+                    This year, Cal Esports will be co-hosting Bear Jams with us! Thanks to their help, this year, we will also be providing the following prizes for the highest ranked teams after staff judging:
+                    <br><br>
+                    1st: $50 Steam gift cards<br>
+                    2nd: $25 Amazon gift cards<br>
+                    3rd: Under Armour Swag
+                    <br><br>
+                    These prizes will be distributed on a per-member basis for each winning team (for example, a four-person 1st-place team will win four $50 Steam gift cards).
+                    <br><br>
                     Our full Rules and Guidelines can be found here: <a href="https://tinyurl.com/BearJams-Rules">tinyurl.com/BearJams-Rules</a><br>
                     All participants MUST follow the Code of Conduct: <a href="https://tinyurl.com/BearJams-CodeOfConduct">tinyurl.com/BearJams-CodeOfConduct</a>
                 </p>
