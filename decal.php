@@ -421,7 +421,7 @@
                                 
                                 <td>Th 9/17</td>
                                 <td>8</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1AGtClAl8tPQl-rEJTLsZ_Yhl63V34fwcfgEs3qnHRcg/edit?usp=sharing">Game Loops/Design Docs</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1AGtClAl8tPQl-rEJTLsZ_Yhl63V34fwcfgEs3qnHRcg/edit?usp=sharing">Accessibility</a></td>
                                 
                                 <td>Programmer Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a><br> Artist Lab:<a href="https://drive.google.com/file/d/1cBfg9m7tj9m3-LS2czlhcj_FXNMqjIk0/view?usp=sharing">Enviroment design</a></td>
                                 <td class="proj2">Project 1 Part 2 due</td>
@@ -431,11 +431,10 @@
                             <td class="weeknum" rowspan="2">4</td>
                                 <td>Tu 09/22</td>
                                 <td>9</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1BO-l5LyWqG4oPmX9_NqWRuP-eouvtKDItZj9v3-NtR4/edit?usp=sharing">Group dynamics, Pitch day explanation,
-                                    tools and assets</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1-f93pmJliycqWKW_C0qUbI9NDggpEJFEQUpoRBSs6CI/edit?usp=sharing">UI design</a></td>
                                 <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a></td>
-                                <td>Lab: <a href="https://github.com/berkeleyGamedev/Coroutines">Coroutines</a>/<a href="https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">Animator</a></td>
-                                <td><a href="https://docs.google.com/document/d/1PvcvLqMfvjgIgoCUMl5Yh5GBRb2WXL1RzGbhoRsxgf0/edit?usp=sharing">Project 2 Assigned (Due 2/25)</a></td>
+                                <td>Prgrammer Lab: <a href="https://github.com/berkeleyGamedev/UILab">UILab</a><b> Artist Lab:<a href="https://github.com/berkeleyGamedev/UI-Asset-Creation">UI Asset Creation</a></td>
+                                <td><a ></a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 5 -->
@@ -443,20 +442,20 @@
                                 
                                 <td>Th 09/24</td>
                                 <td>10</td>
-                                <td class="td-left"><a href="https://drive.google.com/open?id=1s2XjCWD0GVxvoVOmUGzST1-0F1qg4lEsXeS4vD5JVtU">Showcase game jam projects, project 3 explained, project work meetings, small group pitch discussions</a>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1ec57RCXxdg5t12T-h-_rZUjei5QJdk0_LeFUqpGlix0/edit?usp=sharing">Game Loops and Game Design Doc</a>
                                 </td>
                                 
                                 <td></td>
-                                <td>Game Jam due</td>
+                                <td><a href = "http://tiny.cc/Fa20Proj2Spec"> Project2 Assigned</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">5</td>
                                 <td>Tu 09/29</td>
                                 <td>11</td>
-                                <td class="td-left"><strong>Pitch Day</strong></td>
+                                <td class="td-left"><strong><a href = "https://docs.google.com/presentation/d/1a-KrM4WE6KKjTu_KJion9lshQcVlF4M1Q6ISwjGy-Ns/edit?usp=sharing"> group Dynamics Pitch day explination</a></strong></td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
-                                <td></td>
+                                <td>Progammer Lab:<a href = "https://github.com/berkeleyGamedev/Coroutines"> Coroutines </a><b> <a></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -465,17 +464,17 @@
                                 
                                 <td>Th 10/01</td>
                                 <td>12</td>
-                                <td class="td-left">MVP, Teams are assembled + brainstorming session</td>
+                                <td class="td-left"><a href = " https://docs.google.com/presentation/d/13n4E29RpOPtggn99NHSchZ_2w8vb_Iy1R15pwqjvomA/edit?usp=sharing">MVP, + proj3 announced</a></td>
                                 
                                 <td></td>
-                                <td></td>
+                                <td><a>Proj2 due</a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">6</td>
                                 <td>Tu 10/06</td>
                                 <td>13</td>
-                                <td class="td-left">Project work meeting</td>
+                                <td class="td-left"> <a href = "https://docs.google.com/presentation/d/1m1jF9XkjN35RClMZ6wVZrYLoHdaTY72csSo7xj1CwLs/edit?usp=sharing"></a>Pitch Day</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a></td>
                                 <td></td>
                                 <td></td>
@@ -486,10 +485,10 @@
                                 
                                 <td>Th 10/08</td>
                                 <td>14</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left"><a href = "https://docs.google.com/presentation/d/15YCTVVDn5isJ_iD_x9EN7lQjjlRknXElaHNLdQN7vCs/edit?usp=sharing"> Proj3 groups announced </a></td>
                                 
                                 <td></td>
-                                <td class="proj3">Milestone 0: Game Design Doc Due</td>
+                                <td class="proj3"> assigned</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
