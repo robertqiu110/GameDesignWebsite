@@ -44,6 +44,9 @@
                         We'd appreciate it if anyone who is interested in participating would fill out a RSVP form!
                         <br>
                         <br>
+                        <a href="https://itch.io/jam/bear-jams-fall-2020">itch.io</a>
+                        <br>
+                        <br>
                         <a href="https://tinyurl.com/BearJamsFa20">RSVP Here</a>
                         <br>
                         <br>
