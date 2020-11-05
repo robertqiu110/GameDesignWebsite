@@ -194,7 +194,7 @@
             <div class="section-main" style="margin-bottom: -100px;">
             	<div class="page-content">
             		<h2 class="section-title">Featured Game: Bear Jams Fall 2020 Third Place Winner <a href="games.php">More Games</a></h2>
-            		<a href="https://celinetang.itch.io/absorb"><img src="https://img.itch.zone/aW1nLzQ0NzgwMjMucG5n/315x250%23c/EloMZB.png" style="width:350px; height: auto; border-radius: 4px; margin: 0 auto;"></img></a>
+            		<a href="https://celinetang.itch.io/absorb" style="width:350px; display: block; margin: 0 auto;"><img src="https://img.itch.zone/aW1nLzQ0NzgwMjMucG5n/315x250%23c/EloMZB.png" style="width:350px; height: auto; border-radius: 4px;"></img></a>
             	</div>
             </div>
             <!-- fixes a bug for some reason -->
