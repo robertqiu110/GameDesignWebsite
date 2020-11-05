@@ -173,9 +173,9 @@
             		        	        $finalDate = date('m/d', strtotime($start));
             		        	        echo '<p class="event event-main">' . $finalDate . ': ' . $event->getSummary() . ' @ ' . $event->getLocation() . $timeStuff . '</p>';
             		        	    }
-            		        	} catch (Exception $e) {
-
             		        	}
+            		        } catch (Exception $e) {
+
             		        }
             		    ?>
             		<!-- <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
