@@ -137,41 +137,45 @@
             		        }
 
 
-            		        // Get the API client and construct the service object.
-            		        $client = getClient();
-            		        $service = new Google_Service_Calendar($client);
+            		        try {
+            		        	// Get the API client and construct the service object.
+            		        	$client = getClient();
+            		        	$service = new Google_Service_Calendar($client);
 
-            		        // Print the next 10 events on the user's calendar.
-            		        $calendarId = '6kfb8nisut8k5u07e6d5591kjs@group.calendar.google.com';
-            		        $optParams = array(
-            		          'maxResults' => 6,
-            		          'orderBy' => 'startTime',
-            		          'singleEvents' => true,
-            		          'timeMin' => date('c', strtotime("-1 days")),
-            		        );
-            		        $results = $service->events->listEvents($calendarId, $optParams);
-            		        $events = $results->getItems();
+            		        	// Print the next 10 events on the user's calendar.
+            		        	$calendarId = '6kfb8nisut8k5u07e6d5591kjs@group.calendar.google.com';
+            		        	$optParams = array(
+            		        	  'maxResults' => 6,
+            		        	  'orderBy' => 'startTime',
+            		        	  'singleEvents' => true,
+            		        	  'timeMin' => date('c', strtotime("-1 days")),
+            		        	);
+            		        	$results = $service->events->listEvents($calendarId, $optParams);
+            		        	$events = $results->getItems();
 
-            		        if (empty($events)) {
-            		            //print "No upcoming events found.\n";
-            		        } else {
-            		            //print "Upcoming events:\n";
-            		            foreach ($events as $event) {
-            		                $start = $event->start->dateTime;
-            		                $timeStuff = '';
-            		                if (empty($start)) {
-            		                    $start = $event->start->date;
-            		                } else {
-            		                    if (!empty($event->end->dateTime)) {
-            		                        $startTime = date('g:iA', strtotime($start));
-            		                        $endTime = date('g:iA', strtotime($event->end->dateTime));
-            		                        $timeStuff = ' [' . $startTime . ' - ' . $endTime . ']';
-            		                    }
-            		                }
-            		                //printf("%s (%s)\n", $event->getSummary(), $start);
-            		                $finalDate = date('m/d', strtotime($start));
-            		                echo '<p class="event event-main">' . $finalDate . ': ' . $event->getSummary() . ' @ ' . $event->getLocation() . $timeStuff . '</p>';
-            		            }
+            		        	if (empty($events)) {
+            		        	    //print "No upcoming events found.\n";
+            		        	} else {
+            		        	    //print "Upcoming events:\n";
+            		        	    foreach ($events as $event) {
+            		        	        $start = $event->start->dateTime;
+            		        	        $timeStuff = '';
+            		        	        if (empty($start)) {
+            		        	            $start = $event->start->date;
+            		        	        } else {
+            		        	            if (!empty($event->end->dateTime)) {
+            		        	                $startTime = date('g:iA', strtotime($start));
+            		        	                $endTime = date('g:iA', strtotime($event->end->dateTime));
+            		        	                $timeStuff = ' [' . $startTime . ' - ' . $endTime . ']';
+            		        	            }
+            		        	        }
+            		        	        //printf("%s (%s)\n", $event->getSummary(), $start);
+            		        	        $finalDate = date('m/d', strtotime($start));
+            		        	        echo '<p class="event event-main">' . $finalDate . ': ' . $event->getSummary() . ' @ ' . $event->getLocation() . $timeStuff . '</p>';
+            		        	    }
+            		        	} catch (Exception $e) {
+
+            		        	}
             		        }
             		    ?>
             		<!-- <h2 class="section-title">CONNECT TO OUR DISCORD!</h2>
@@ -189,8 +193,8 @@
             </div>
             <div class="section-main" style="margin-bottom: -100px;">
             	<div class="page-content">
-            		<h2 class="section-title">Featured Game <a href="games.php">More Games</a></h2>
-            		<a href="https://ericzeno.itch.io/steal-the-spotlight"><img src="https://img.itch.zone/aW1nLzMzOTQxOTMucG5n/original/sIsLf1.png" style="width:100%; height: auto; border-radius: 4px"></img></a>
+            		<h2 class="section-title">Featured Game: Bear Jams Fall 2020 Third Place Winner <a href="games.php">More Games</a></h2>
+            		<a href="https://celinetang.itch.io/absorb"><img src="https://img.itch.zone/aW1nLzQ0NzgwMjMucG5n/315x250%23c/EloMZB.png" style="width:100%; height: auto; border-radius: 4px"></img></a>
             	</div>
             </div>
             <!-- fixes a bug for some reason -->
