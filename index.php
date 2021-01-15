@@ -73,8 +73,10 @@
             </div>
             <div class="section-main">
             	<div class="page-content">
-            		<h2 class="section-title">Featured Event <a href="club.php?tab=events">Find Out More</a></h2>
-            		<a href="https://www.facebook.com/events/326014645246782/"><img src="images/fa20-infosession.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
+            		<h2 class="section-title">Featured Events <a href="club.php?tab=events">Find Out More</a></h2>
+            		<a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583/events/"><img src="images/infosesssionsp2021.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
+            		<br/><br/><br/><br/>
+            		<a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583/events/"><img src="images/Decalinfosesssionsp2021.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
             	</div>
             </div>
             <div class="section-main">

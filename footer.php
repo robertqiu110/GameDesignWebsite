@@ -17,9 +17,9 @@
         <li><a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583" target="_blank">
                 <p style="border: 0; display: block;">Facebook</p>
             </a></li>
-        <li><a href="https://twitter.com/GDDatBerkeley" target="_blank">
+        <!--<li><a href="https://twitter.com/GDDatBerkeley" target="_blank">
                 <p style="border: 0; display: block;">Twitter</p>
-            </a></li>
+            </a></li>-->
         <li><a href="https://tinyurl.com/GDDatBerkeley" target="_blank">
                 <p style="border: 0; display: block;">Discord</p>
             </a></li>
