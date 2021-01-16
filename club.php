@@ -27,7 +27,7 @@
 
 <body>
     <!-- Always shows a header, even in smaller screens. -->
-    <div class="mdl-layout mdl-js-layout mdl-layout__header--scroll">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <?php 
             $title="Club";
             include 'header.php';
@@ -46,23 +46,42 @@
                     <div class="page-main">
                         <div style="height: 350px; background-image: url('images/club_fa19.jfif')"></div>
                         <p>
-                            The Game Design and Development Club is a great way to become a part of Cal's game development
-                            community. Regardless of if you have taken the decal or if you are student or alumni, you can join
-                            the club and apply for an approprite role based on your skills, and if you'd like, form a game
-                            development team and be mentored by (or mentor!) fellow students as you work toward making your
-                            game. In the real world, we plan to host events including hackathons and guest speakers. Otherwise,
-                            the club is a somewhere to discuss and play all things game related. We'd love to have you! To get
-                            involved, simply join our Discord server and it will walk you through the rest of the process.
+                            <span style="font-size: 26px; font-weight: bold; color: #F5C35B; margin-bottom: 10px; display: block;">Join Cal’s game dev community!</span>
+                            The Game Design and Development Club is a great way to become a part of Cal's game development community. Regardless of whether or not you have prior experience, you’re welcome to come join us! For those who want to learn, either try out our Decal or join a Party. If you don’t want to commit that hard, you’re welcome to all of our semesterly events. 
+                            <br/><br/>
+                            Above all, the club is a place to hang out and discuss all things game-related. To get involved, simply join our Discord server and you officially be a GDD member!
                             <br><br>
                             <a href="https://tinyurl.com/GDDatBerkeley">Join Our Discord</a>
                         </p>
                     </div>
                 </div>
                 <div id="partiesPage">
-                    <p style="text-align: center; font-size: 50px; line-height: 300px; color: #F5C35B">In Construction</p>
+                    <div class="page-main">
+                        <div style="height: 350px; background-image: url('images/parties.JPG')"></div>
+                        <p>
+                            <span style="font-size: 26px; font-weight: bold; color: #F5C35B; margin-bottom: 10px; display: block;">Learn by doing and make a game!</span>
+                            If you’re looking to learn how to make games outside of class, joining a Party is the way to go! Parties are groups of students led by a staff Mentor. Together, you’ll make a game, start to finish, in one semester! 
+                            <br/><br/>
+                            All levels of experiences are welcome. Beginners will learn game dev basics hands on by working on the game under their Mentor’s guidance. It’s also a great chance to get to know your fellow club members and make some friends!
+                            <br><br>
+                            <a href="https://tinyurl.com/GDDatBerkeley">Check Discord For More Info</a>
+                        </p>
+                    </div>
                 </div>
                 <div id="eventsPage">
-                    <p style="text-align: center; font-size: 50px; line-height: 300px; color: #F5C35B">In Construction</p>
+                    <!--<p style="text-align: center; font-size: 50px; line-height: 300px; color: #F5C35B">In Construction</p>-->
+                    <div class="page-main">
+                        <div style="height: 350px; background-image: url('images/events.JPG')"></div>
+                        <p>
+                            <span style="font-size: 26px; font-weight: bold; color: #F5C35B; margin-bottom: 10px; display: block;">Hear it straight from the pros!</span>
+                            GDD hosts a number of large events every semester. One of these is our Industry Speaker events, where you’ll get to hear from professionals already working in the industry!
+                            <br/><br/>
+                            We also have Bear Jams, our semesterly game jam. Participants have 45 hours to make a game from scratch. And, of course, we have our Semester Showcase, where you’ll get to see the incredible games the Decal teams and Parties have whipped up this semester!
+                            <br><br>
+                            <a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583">Facebook</a>
+                            <a href="https://tinyurl.com/GDDCalendar" style="margin-left: 15px">Google Calendar</a>
+                        </p>
+                    </div>
                 </div>
                 <!--
                 <h1 class="section-title" id="course-description">Projects: Spring 2019 Club</h1>

@@ -75,7 +75,7 @@
             	<div class="page-content">
             		<h2 class="section-title">Featured Events <a href="club.php?tab=events">Find Out More</a></h2>
             		<a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583/events/"><img src="images/infosesssionsp2021.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
-            		<br/><br/><br/><br/>
+            		<br/><br/>
             		<a href="https://www.facebook.com/Game-Design-Development-at-Berkeley-1191501494351583/events/"><img src="images/Decalinfosesssionsp2021.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
             	</div>
             </div>
@@ -195,8 +195,22 @@
             </div>
             <div class="section-main" style="margin-bottom: -100px;">
             	<div class="page-content">
-            		<h2 class="section-title">Featured Game: Bear Jams Fall 2020 Third Place Winner <a href="games.php">More Games</a></h2>
-            		<a href="https://celinetang.itch.io/absorb" style="width:350px; display: block; margin: 0 auto;"><img src="https://img.itch.zone/aW1nLzQ0NzgwMjMucG5n/315x250%23c/EloMZB.png" style="width:350px; height: auto; border-radius: 4px;"></img></a>
+            		<h2 class="section-title">Try out some random GDD games! <a href="games.php">More Games</a></h2>
+            		<div class="mdl-grid">
+            		    <?php 
+            		        $file = file_get_contents("games.json");
+            		        $json = (array)json_decode($file, true);
+            		        $rand_keys = array_rand($json, 3);
+            		        foreach($rand_keys as $key) {
+            		        	$item = $json[$key];
+            		            echo 
+            		                '<a target="_blank" href="'.$item["link"].'"><div>
+            		                    <div style="background-image: url(\''.$item["image"].'\')"></div>
+            		                    <p>'.$item["name"].'</p>
+            		                </div></a>';
+            		        }
+            		    ?>
+            		</div>
             	</div>
             </div>
             <!-- fixes a bug for some reason -->

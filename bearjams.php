@@ -26,7 +26,7 @@
 
 <body>
     <!-- Always shows a header, even in smaller screens. -->
-    <div class="mdl-layout mdl-js-layout mdl-layout__header--scroll">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <?php 
             $title="Bear Jams";
             include 'header.php';
