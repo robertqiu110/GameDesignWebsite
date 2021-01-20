@@ -51,7 +51,7 @@
                             <br><br>
                             They will also learn about the different roles that exist within the industry, how to apply their skills to them, and form an understanding about how to best prepare themselves to find their way into these roles. This will be a rigorous class, one that will require a lot of time and dedication. Students will be selected via the application due Friday, August 28th at 11:59 PM, to ensure that the class composition reflects a diverse range of skills, backgrounds, and proficiency levels.
                             <br><br>
-                            <a href="https://decal.berkeley.edu/courses/5314">Apply Here</a>
+                            <a href="https://decal.berkeley.edu/courses/5455">Apply Here</a>
                         </p>
                     </div>
                     <!--<ul class="toc">
@@ -75,7 +75,7 @@
                             <h1 class="section-title" id="course-info">Course Info</h1>
                             <div>
                                 <p>
-                                    <strong>Time:</strong> Tu/Th 7:00-8:30pm
+                                    <strong>Time:</strong> We/Fr 7:00-8:30pm
                                 </p>
                                 <p>
                                     <strong>Location:</strong> Zoom
@@ -105,6 +105,10 @@
                     </div>
                     <h1 class="section-title" id="past-projects">Past Projects</h1>
                     <ul>
+                        <li style="font-size: 1.5rem"><a class="mdl-list__item-primary-content" href="https://itch.io/c/1295230/gdd-fall-2020-showcase">Fall
+                               2020</a></li>
+                        <li style="font-size: 1.5rem"><a class="mdl-list__item-primary-content" href="https://itch.io/c/850031/gdd-spring-2020-showcase">Spring
+                                2020</a></li>
                         <li style="font-size: 1.5rem"><a class="mdl-list__item-primary-content" href="https://itch.io/c/675428/gdd-fall-2019-showcase">Fall
                                 2019</a></li>
                         <li style="font-size: 1.5rem"><a class="mdl-list__item-primary-content" href="https://itch.io/c/527416/gdd-spring-2019-final-showcase">Spring
