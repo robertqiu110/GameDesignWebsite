@@ -49,7 +49,7 @@
                         <p>
                             This course is a deep dive into the creation of games, from beginning to end. Over the course of the semester, students will pitch a game, form small teams, and build a project from start to finish with help from the instructors. Students are not required to have any prior game development experience but it is required that a student taking the course either has basic art, music or programming abilities. 
                             <br><br>
-                            They will also learn about the different roles that exist within the industry, how to apply their skills to them, and form an understanding about how to best prepare themselves to find their way into these roles. This will be a rigorous class, one that will require a lot of time and dedication. Students will be selected via the application due Friday, August 28th at 11:59 PM, to ensure that the class composition reflects a diverse range of skills, backgrounds, and proficiency levels.
+                            They will also learn about the different roles that exist within the industry, how to apply their skills to them, and form an understanding about how to best prepare themselves to find their way into these roles. This will be a rigorous class, one that will require a lot of time and dedication. Students will be selected via the application due Sunday, January 24th at 11:59 PM, to ensure that the class composition reflects a diverse range of skills, backgrounds, and proficiency levels.
                             <br><br>
                             <a href="https://decal.berkeley.edu/courses/5455">Apply Here</a>
                         </p>
@@ -75,7 +75,7 @@
                             <h1 class="section-title" id="course-info">Course Info</h1>
                             <div>
                                 <p>
-                                    <strong>Time:</strong> We/Fr 7:00-8:30pm
+                                    <strong>Time:</strong> Wed/Fri 7:00-8:30pm
                                 </p>
                                 <p>
                                     <strong>Location:</strong> Zoom
@@ -87,7 +87,7 @@
                                     <strong>Faculty of Record:</strong> Ren Ng
                                 </p>
                                 <p>
-                                    <strong>Course Email:</strong> berkeley.gamedev@gmail.com
+                                    <strong>Course Email:</strong> decal@gamedev.berkeley.edu
                                 </p>
                             </div>
                         </div>
