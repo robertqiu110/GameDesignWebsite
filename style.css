@@ -130,11 +130,31 @@ img.lab-image{
   background-size: 300px;
 }
 #celine {
-  background: url('images/updated/celine.jpg') no-repeat #46B6AC;
+  background: url('images/celine2.png') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#jane {
+  background: url('images/jane.png') no-repeat #46B6AC;
+  background-size: 280px;
+}
+#alston {
+  background: url('images/alston.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
 #katpan {
   background: url('images/updated/kat.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#ritchy {
+  background: url('images/ritchy.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#aaron {
+  background: url('images/aaron.jpg') no-repeat #46B6AC;
+  background-size: 300px;
+}
+#laura {
+  background: url('images/laura.png') no-repeat #46B6AC;
   background-size: 300px;
 }
 #lauren {
@@ -153,9 +173,13 @@ img.lab-image{
   background: url('images/updated/kevin.jpg') no-repeat #46B6AC;
   background-size: 300px;
 }
-#sean {
-  background: url('images/sean.jpg') no-repeat #46B6AC;
+#ansa {
+  background: url('images/ansa.jpg') no-repeat #46B6AC;
   background-size: 300px;
+}
+#vivian {
+  background: url('images/vivian.jpg') no-repeat #46B6AC;
+  background-size: 280px;
 }
 #robert {
   background: url('images/updated/robert.jpg') no-repeat #46B6AC;
