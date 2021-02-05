@@ -95,10 +95,10 @@
                             <h1 class="section-title" id="office-hours">Office Hours</h1>
                             <div>
                                 <p>
-                                    <strong>Time:</strong> TBD
+                                    <strong>Time:</strong> Mon 4-5pm, Fri 12-1pm PT
                                 </p>
                                 <p>
-                                    <strong>Location:</strong> TBD
+                                    <strong>Location:</strong> Discord
                                 </p>
                             </div>
                         </div>
