@@ -344,7 +344,9 @@
                                 <td class="weeknum" rowspan="2">0</td>
                                 <td>We 1/27</td>
                                 <td>1</td>
-                                <td class="td-left">NONE</td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1kp4aZAzZWOLNQI8HU08U1M3wVhnF9Rx4tUo78cfacHw/edit?usp=sharing">
+                                    Intro to Unity- Basics</a><br><a href="https://docs.google.com/presentation/d/1XnE1p-jA1bh8wQsROIGwY0KnBrcUCwwyj-cGK6RMkcg/edit?usp=sharing">
+                                    Course Overview and Info Session</a></td>
                                 <td class="weeknum" rowspan="2"><a href = "https://www.gamedesigning.org/learn/game-design-principles/">Game Design Principles </a></td> 
                                 <td></td>
                                 <td></td>
@@ -355,8 +357,7 @@
                                 
                                 <td>Fr 1/29</td>
                                 <td>2</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1XnE1p-jA1bh8wQsROIGwY0KnBrcUCwwyj-cGK6RMkcg/edit?usp=sharing">
-                                    Course Overview and Info Session</a><br> Past semester game showcase</td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1twFQPvbr33NX5J8hJwdG94jc52iU56foO3ZwchNFVAs/edit?usp=sharing">Intro to Game design</a></td>
                                 <td></td>
                                 <td></td>
                                 <td>Location: TBD</td>
@@ -365,8 +366,8 @@
                             <td class="weeknum" rowspan="2">1</td>
                                 <td>We 2/3</td>
                                 <td>3</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1kp4aZAzZWOLNQI8HU08U1M3wVhnF9Rx4tUo78cfacHw/edit?usp=sharing">
-                                    Intro to Unity- Basics</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1v0Mn8L6bcns6wOqbL1k14nXMlLEKZIIuelkD8zhwsrU/edit?usp=sharing">Intro to the Art Pipeline
+                                </a></td>
                                 <td class="weeknum" rowspan="2"><a href = "https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe ">Good Graphics V.S Good Aesthetics</a></td>
                                 <td class = "weeknum" rowspam = "2" ><a href="https://github.com/berkeleyGamedev/UnityBasics"> Intro to Unity Lab</a></td>
                                 <td class="proj1"><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
@@ -378,8 +379,7 @@
                                 
                                 <td>Fr 2/5</td>
                                 <td>4</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1vn0CjAxSOMe_EGZlh65eZ95nOf51EAh5V8Zs6Yy_WgY/edit?usp=sharing
-">SplitDay- Character Design</a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1TRRwG4IOPl3pGnW1dz3YHurMaj7fc4WQ_jlzkFPrkrc/edit?usp=sharing">Animation Lecture</a></td>
                                 <td >Programers Lab:<a href=" https://github.com/berkeleyGamedev/BasicScriptingLab"> Basic Scripting</a><br> Artist Lab:
                                     <a href = "https://github.com/berkeleyGamedev/PixelArtAndSpritingLab">PixelArt and Spriting</a> </td>
                                 <td>
@@ -390,8 +390,7 @@
                             <td class="weeknum" rowspan="2">2</td>
                                 <td>We 2/10</td>
                                 <td>5</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1zsLk6aBDv4qHUGeemrSzcU7QaQIiOAm2MS7p2iTZT1U/edit?usp=sharing">Dimension and Style, Color Slides
-                                </a><br><a href = "https://docs.google.com/presentation/d/1ua33FQ-kKbdb68cHZ7wRN2nLInBTizuWnRIliFqL3gs/edit?usp=sharing">Shape Slides</a></td>
+                                <td class="td-left">Lecture TBD</td>
                                 <td class= "weeknum" rowspan = "2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 ">Basic Principles of Gameplay Design</a></td>
                                 <td>Artist Lab:<a href = " https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
                                 <td>Project 1 Part 1 due</td>
@@ -402,8 +401,7 @@
                                 
                                 <td>Fr 2/12</td>
                                 <td>6</td>
-                                <td class="td-left"><a ></a><br>
-                                    <a ></a></td>
+                                <td class="td-left"><a>Lecture TBD</a></td>
                                 <td>Programmer Lab:<a href= "https://github.com/berkeleyGamedev/Advanced-Scripting">Advanced Scripting </a><br>
                                 Artist Lab:<a href = "https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab"> Animators and Blend Trees </a></td>
                                 <td>Project 1 Part 2<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
@@ -414,7 +412,7 @@
                             <td class="weeknum" rowspan="2">3</td>
                                 <td>We 2/17</td>
                                 <td>7</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1twFQPvbr33NX5J8hJwdG94jc52iU56foO3ZwchNFVAs/edit?usp=sharing">Intro to Game design</a></td>
+                                <td class="td-left">Lecture TBD</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
                                 <td> Programmer Lab:<a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab:<a href=" https://github.com/berkeleyGamedev/TilesetLab">Tilesets</a></td>
                                 <td></td>
@@ -425,7 +423,7 @@
                                 
                                 <td>Fr 2/19</td>
                                 <td>8</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1AGtClAl8tPQl-rEJTLsZ_Yhl63V34fwcfgEs3qnHRcg/edit?usp=sharing">Accessibility</a></td>
+                                <td class="td-left">Lecture TBD</td>
                                 
                                 <td>Programmer Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a><br> Artist Lab:<a href="https://drive.google.com/file/d/1cBfg9m7tj9m3-LS2czlhcj_FXNMqjIk0/view?usp=sharing">Enviroment design</a></td>
                                 <td class="proj2">Project 1 Part 2 due</td>
@@ -435,7 +433,7 @@
                             <td class="weeknum" rowspan="2">4</td>
                                 <td>We 2/24</td>
                                 <td>9</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1-f93pmJliycqWKW_C0qUbI9NDggpEJFEQUpoRBSs6CI/edit?usp=sharing">UI design</a></td>
+                                <td class="td-left">Lecture TBD</td>
                                 <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a></td>
                                 <td>Prgrammer Lab: <a href="https://github.com/berkeleyGamedev/UILab">UILab</a><b> Artist Lab:<a href="https://github.com/berkeleyGamedev/UI-Asset-Creation">UI Asset Creation</a></td>
                                 <td><a ></a></td>
@@ -446,8 +444,7 @@
                                 
                                 <td>Fr 2/26</td>
                                 <td>10</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1ec57RCXxdg5t12T-h-_rZUjei5QJdk0_LeFUqpGlix0/edit?usp=sharing">Game Loops and Game Design Doc</a>
-                                </td>
+                                <td class="td-left">Lecture TBD</td>
                                 
                                 <td></td>
                                 <td><a href = "http://tiny.cc/Fa20Proj2Spec"> Project2 Assigned</td>
@@ -457,7 +454,7 @@
                             <td class="weeknum" rowspan="2">5</td>
                                 <td>We 3/3</td>
                                 <td>11</td>
-                                <td class="td-left"><strong><a href = "https://docs.google.com/presentation/d/1a-KrM4WE6KKjTu_KJion9lshQcVlF4M1Q6ISwjGy-Ns/edit?usp=sharing"> group Dynamics Pitch day explination</a></strong></td>
+                                <td class="td-left">Lecture TBD</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
                                 <td>Progammer Lab:<a href = "https://github.com/berkeleyGamedev/Coroutines"> Coroutines </a><b> <a></td>
                                 <td></td>
@@ -468,7 +465,7 @@
                                 
                                 <td>Fr 3/5</td>
                                 <td>12</td>
-                                <td class="td-left"><a href = " https://docs.google.com/presentation/d/13n4E29RpOPtggn99NHSchZ_2w8vb_Iy1R15pwqjvomA/edit?usp=sharing">MVP, + proj3 announced</a></td>
+                                <td class="td-left">Lecture TBD</td>
                                 
                                 <td></td>
                                 <td><a>Proj2 due</a></td>
@@ -478,7 +475,7 @@
                             <td class="weeknum" rowspan="2">6</td>
                                 <td>We 3/10</td>
                                 <td>13</td>
-                                <td class="td-left"> <a href = "https://docs.google.com/presentation/d/1m1jF9XkjN35RClMZ6wVZrYLoHdaTY72csSo7xj1CwLs/edit?usp=sharing"></a>Pitch Day</td>
+                                <td class="td-left"> <a></a>Pitch Day</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a></td>
                                 <td></td>
                                 <td></td>
@@ -489,7 +486,7 @@
                                 
                                 <td>Fr 3/12</td>
                                 <td>14</td>
-                                <td class="td-left"><a href = "https://docs.google.com/presentation/d/15YCTVVDn5isJ_iD_x9EN7lQjjlRknXElaHNLdQN7vCs/edit?usp=sharing"> Proj3 groups announced </a></td>
+                                <td class="td-left"><a href = ""></a> Proj3 groups announced </td>
                                 
                                 <td></td>
                                 <td class="proj3"> assigned</td>
