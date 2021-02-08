@@ -360,7 +360,7 @@
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1twFQPvbr33NX5J8hJwdG94jc52iU56foO3ZwchNFVAs/edit?usp=sharing">Intro to Game design</a></td>
                                 <td>Programers Lab:<a href=" https://github.com/berkeleyGamedev/BasicScriptingLab"> Intro to Programming</a><br> Artist Lab:
                                     <a href = "https://github.com/berkeleyGamedev/PixelArtAndSpritingLab">Spriting</a> </td>
-                                <td class='proj1'><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
+                                <td class='proj1'>Project 1 Part 1: <a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
                                     <a href="https://tinyurl.com/MusicFa19">Music/Programmer Hybrid</a><br><a href="https://tinyurl.com/ProgrammerFa19">Programmers</a></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -384,7 +384,7 @@
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1TRRwG4IOPl3pGnW1dz3YHurMaj7fc4WQ_jlzkFPrkrc/edit?usp=sharing">Animation Lecture</a></td>
                                 <td >Programers Lab: <a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab: 
                                     <a href = "https://github.com/berkeleyGamedev/TilemapLab">Tile Map</a></td>
-                                <td>Project 1 Part 1 due <br>Project 1 Part 2:<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
+                                <td class='proj1'>Project 1 Part 1 due <br>Project 1 Part 2:<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
                                 <a href= " http://tiny.cc/proj1arthybrid">Programmer Artist Hybrid </a> <br><a href = "http://tiny.cc/proj1artist">Artist</a> </td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -403,9 +403,9 @@
                                 
                                 <td>Fr 2/12</td>
                                 <td>6</td>
-                                <td class="td-left"><a href="">UI Lecture</a></td>
+                                <td class="td-left"><a href=""></a>UI Lecture</td>
                                 <td>Programmer Lab: <a href="">Unity UI</a><br>Artist Lab: <a href="">UI Asset Creation</a></td>
-                                <td class="proj2">Project 1 Part 2 due <br><a href = "http://tiny.cc/Fa20Proj2Spec">Project 2 Assigned</a></td>
+                                <td class="proj1">Project 1 Part 2 due <br><a href = "http://tiny.cc/Fa20Proj2Spec">Project 2 Assigned</a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
@@ -446,17 +446,17 @@
                                 <td class="td-left">Project 2 Showcase</td>
                                 
                                 <td></td>
-                                <td>Project 3 Teams are Assembled</td>
+                                <td class='proj3'>Project 3 Teams are Assembled</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">5</td>
                                 <td>We 3/3</td>
                                 <td>11</td>
-                                <td class="td-left">NONE</td>
+                                <td class="td-left"></td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
-                                <td>Project Work Meeting</td>
                                 <td></td>
+                                <td>Project Work Meeting</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 6 -->
@@ -466,7 +466,7 @@
                                 <td>12</td>
                                 <td class="td-left">AI Design</td>
                                 <td></td>
-                                <td><a>Milestone 0: Game Design Doc Due</a></td>
+                                <td class='proj3'>Milestone 0: Game Design Doc Due</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
@@ -484,7 +484,7 @@
                                 
                                 <td>Fr 3/12</td>
                                 <td>14</td>
-                                <td class="td-left">NONE</td>
+                                <td class="td-left"></td>
                                 <td></td>
                                 <td class="proj3">Milestone 1 Delivery: Demo and Feedback</td>
                                 <td>Location: TBD</td>
@@ -493,10 +493,10 @@
                             <td class="weeknum" rowspan="2">7</td>
                                 <td>We 3/17</td>
                                 <td>15</td>
-                                <td class="td-left">Lecture: Music and SFX, Project work meeting</td>
+                                <td class="td-left">Lecture: Music and SFX</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/blogs/WesleyRockholz/20140418/215819/10_Insightful_Playtest_Questions.php">Insightful Playtest Questions</a></td>
                                 <td></td>
-                                <td></td>
+                                <td>Project work meeting</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 8 -->
@@ -506,7 +506,7 @@
                                 <td>16</td>
                                 <td class="td-left">Lecture: Potential Guest Lecture (TBD)</td>
                                 <td></td>
-                                <td class="proj3"></td>
+                                <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr  class="gray-bg">
@@ -534,10 +534,10 @@
                             <td class="weeknum" rowspan="2">9</td>
                                 <td>We 3/31</td>
                                 <td>19</td>
-                                <td class="td-left">Lecture: Tutorials / Project Work Meeting</td>
+                                <td class="td-left">Lecture: Tutorials</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.cnet.com/news/microsofts-new-xbox-adaptive-controller-puts-disabled-players-back-in-the-game/">Xbox Adaptive Controller</a></td>
                                 <td></td>
-                                <td></td>
+                                <td>Project Work Meeting</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="white-bg">
@@ -552,10 +552,10 @@
                             <td class="weeknum" rowspan="2">10</td>
                                 <td>We 4/7</td>
                                 <td>21</td>
-                                <td class="td-left">Lecture TBD, Project work meeting</td>
+                                <td class="td-left">Lecture TBD</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamestudies.org/0101/juul-gts/">A Brief Note on Games and Narratives</a></td>
                                 <td></td>
-                                <td></td>
+                                <td>Project work meeting</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 10 -->
@@ -564,17 +564,17 @@
                                 <td>22</td>
                                 <td class="td-left">Potential Guest Lecture, TBD</td>
                                 <td></td>
-                                <td>Milestone 2</td>
+                                <td class='proj3'>Milestone 2</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">11</td>
                                 <td>We 4/14</td>
                                 <td>23</td>
-                                <td class="td-left">Accessibility Lecture, Project work meeting</td>
+                                <td class="td-left">Accessibility Lecture</td>
                                 <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/tutorials/the-many-ways-to-show-the-player-how-its-done-with-in-game-tutorials--gamedev-400">The Many Ways to Show the Player how it's Done with In-Game Tutorials</a></td>
                                 <td></td>
-                                <td></td>
+                                <td>Project work meeting</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 11 -->
@@ -620,6 +620,7 @@
                                 <td>Fr 4/30</td>
                                 <td>28</td>
                                 <td class="td-left"><strong>Game/course postmortem writeup due</strong></td>
+                                <td></td>
                                 <td></td>
                                 <td>Course Postmortem writeup due</td>
                                 <td>Location: TBD</td>
