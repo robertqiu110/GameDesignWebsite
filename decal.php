@@ -382,18 +382,19 @@
                                 <td>Fr 2/5</td>
                                 <td>4</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1TRRwG4IOPl3pGnW1dz3YHurMaj7fc4WQ_jlzkFPrkrc/edit?usp=sharing">Animation Lecture</a></td>
-                                <td >Programers Lab:<a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab:
+                                <td >Programers Lab: <a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab: 
                                     <a href = "https://github.com/berkeleyGamedev/TilemapLab">Tile Map</a></td>
-                                <td>Project 1 Part 1 due</td>
+                                <td>Project 1 Part 1 due <br>Project 1 Part 2:<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
+                                <a href= " http://tiny.cc/proj1arthybrid">Programmer Artist Hybrid </a> <br><a href = "http://tiny.cc/proj1artist">Artist</a> </td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">2</td>
                                 <td>We 2/10</td>
                                 <td>5</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left">Game Loops</td>
                                 <td class= "weeknum" rowspan = "2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 ">Basic Principles of Gameplay Design</a></td>
-                                <td>Lab: TBD</td>
+                                <td>Programmer Lab: <a href="">Rigidbodies</a><br> Artist Lab: <a href="">Animator</a></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -402,19 +403,18 @@
                                 
                                 <td>Fr 2/12</td>
                                 <td>6</td>
-                                <td class="td-left"><a>Lecture TBD</a></td>
-                                <td>Lab: TBD</td>
-                                <td>Project 1 Part 2<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
-                                <a href= " http://tiny.cc/proj1arthybrid">Programmer Artist Hybrid </a> <br><a href = "http://tiny.cc/proj1artist">Artist</a> </td>
+                                <td class="td-left"><a href="">UI Lecture</a></td>
+                                <td>Programmer Lab: <a href="">Unity UI</a><br>Artist Lab: <a href="">UI Asset Creation</a></td>
+                                <td class="proj2">Project 1 Part 2 due <br><a href = "http://tiny.cc/Fa20Proj2Spec">Project 2 Assigned</a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">3</td>
                                 <td>We 2/17</td>
                                 <td>7</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left">Group Dynamics and Design Docs</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
-                                <td> Lab: TBD</td>
+                                <td>Programmer Lab: <a href="">Coroutines</a><br>Artist Lab: <a href="">Environment Design</a></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -423,20 +423,19 @@
                                 
                                 <td>Fr 2/19</td>
                                 <td>8</td>
-                                <td class="td-left">Lecture TBD</td>
-                                
-                                <td>Programmer Lab: <a href="https://github.com/berkeleyGamedev/RigidbodyBasics">Rigidbodies</a><br> Artist Lab:<a href="https://drive.google.com/file/d/1cBfg9m7tj9m3-LS2czlhcj_FXNMqjIk0/view?usp=sharing">Enviroment design</a></td>
-                                <td class="proj2">Project 1 Part 2 due</td>
+                                <td class="td-left">MVP Lecture</td>
+                                <td></td>
+                                <td class="proj2">Project 2 Due</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">4</td>
                                 <td>We 2/24</td>
                                 <td>9</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left">Pitch Day</td>
                                 <td class="weeknum" rowspan="2"><a href="https://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545">How and Why to Write a Great Game Design Document</a></td>
-                                <td>Prgrammer Lab: <a href="https://github.com/berkeleyGamedev/UILab">UILab</a><b> Artist Lab:<a href="https://github.com/berkeleyGamedev/UI-Asset-Creation">UI Asset Creation</a></td>
-                                <td><a ></a></td>
+                                <td></td>
+                                <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 5 -->
@@ -444,19 +443,19 @@
                                 
                                 <td>Fr 2/26</td>
                                 <td>10</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left">Project 2 Showcase</td>
                                 
                                 <td></td>
-                                <td><a href = "http://tiny.cc/Fa20Proj2Spec"> Project2 Assigned</td>
+                                <td>Project 3 Teams are Assembled</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">5</td>
                                 <td>We 3/3</td>
                                 <td>11</td>
-                                <td class="td-left">Lecture TBD</td>
+                                <td class="td-left">NONE</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/185258/best_practices_five_tips_for_.php?print=1">5 Tips for Better Playtesting</a></td>
-                                <td>Progammer Lab:<a href = "https://github.com/berkeleyGamedev/Coroutines"> Coroutines </a><b> <a></td>
+                                <td>Project Work Meeting</td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -465,17 +464,16 @@
                                 
                                 <td>Fr 3/5</td>
                                 <td>12</td>
-                                <td class="td-left">Lecture TBD</td>
-                                
+                                <td class="td-left">AI Design</td>
                                 <td></td>
-                                <td><a>Proj2 due</a></td>
+                                <td><a>Milestone 0: Game Design Doc Due</a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">6</td>
                                 <td>We 3/10</td>
                                 <td>13</td>
-                                <td class="td-left"> <a></a>Pitch Day</td>
+                                <td class="td-left">NONE</td>
                                 <td class="weeknum" rowspan="2"><a href="https://www.gamasutra.com/view/feature/130989/team__corporate_structure_is_the_.php">Team and Corporate Structure</a></td>
                                 <td></td>
                                 <td></td>
