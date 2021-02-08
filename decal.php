@@ -348,7 +348,7 @@
                                     Intro to Unity- Basics</a><br><a href="https://docs.google.com/presentation/d/1XnE1p-jA1bh8wQsROIGwY0KnBrcUCwwyj-cGK6RMkcg/edit?usp=sharing">
                                     Course Overview and Info Session</a></td>
                                 <td class="weeknum" rowspan="2"><a href = "https://www.gamedesigning.org/learn/game-design-principles/">Game Design Principles </a></td> 
-                                <td></td>
+                                <td><a href="https://github.com/berkeleyGamedev/UnityBasics"> Intro to Unity Lab</a></td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
@@ -358,20 +358,22 @@
                                 <td>Fr 1/29</td>
                                 <td>2</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1twFQPvbr33NX5J8hJwdG94jc52iU56foO3ZwchNFVAs/edit?usp=sharing">Intro to Game design</a></td>
-                                <td></td>
-                                <td></td>
+                                <td>Programers Lab:<a href=" https://github.com/berkeleyGamedev/BasicScriptingLab"> Intro to Programming</a><br> Artist Lab:
+                                    <a href = "https://github.com/berkeleyGamedev/PixelArtAndSpritingLab">Spriting</a> </td>
+                                <td class='proj1'><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
+                                    <a href="https://tinyurl.com/MusicFa19">Music/Programmer Hybrid</a><br><a href="https://tinyurl.com/ProgrammerFa19">Programmers</a></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
                             <td class="weeknum" rowspan="2">1</td>
                                 <td>We 2/3</td>
                                 <td>3</td>
-                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1v0Mn8L6bcns6wOqbL1k14nXMlLEKZIIuelkD8zhwsrU/edit?usp=sharing">Intro to the Art Pipeline
-                                </a></td>
+                                <td class="td-left"><a href="https://docs.google.com/presentation/d/1v0Mn8L6bcns6wOqbL1k14nXMlLEKZIIuelkD8zhwsrU/edit?usp=sharing">Intro to the Art Pipeline</a><br>
+                                <a href="https://docs.google.com/presentation/d/1cqfFVIt-sQnva0OJzowyKR9utmwiLEQJDVCOB-RUchI/edit?usp=sharing">Character Design</a></td>
                                 <td class="weeknum" rowspan="2"><a href = "https://gamedevlibrary.com/the-difference-between-good-graphics-and-good-aesthetics-in-video-games-eb012c2e3cbe ">Good Graphics V.S Good Aesthetics</a></td>
-                                <td class = "weeknum" rowspam = "2" ><a href="https://github.com/berkeleyGamedev/UnityBasics"> Intro to Unity Lab</a></td>
-                                <td class="proj1"><a href="https://tinyurl.com/ArtFa19">Artists</a><br><a href="https://tinyurl.com/ArtHybridFa19">Art/Programmer Hybrid</a><br>
-                                    <a href="https://tinyurl.com/MusicFa19">Music/Programmer Hybrid</a><br><a href="https://tinyurl.com/ProgrammerFa19">Programmers</a></td>
+                                <td class = "weeknum" rowspam = "2" >Programers Lab:<a href="https://github.com/berkeleyGamedev/Advanced-Scripting">Advanced Unity Programming</a><br> Artist Lab:
+                                    <a href = "https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab">Animations</a></td>
+                                <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- Week 2 -->
@@ -380,10 +382,9 @@
                                 <td>Fr 2/5</td>
                                 <td>4</td>
                                 <td class="td-left"><a href="https://docs.google.com/presentation/d/1TRRwG4IOPl3pGnW1dz3YHurMaj7fc4WQ_jlzkFPrkrc/edit?usp=sharing">Animation Lecture</a></td>
-                                <td >Programers Lab:<a href=" https://github.com/berkeleyGamedev/BasicScriptingLab"> Basic Scripting</a><br> Artist Lab:
-                                    <a href = "https://github.com/berkeleyGamedev/PixelArtAndSpritingLab">PixelArt and Spriting</a> </td>
-                                <td>
-                                </td>
+                                <td >Programers Lab:<a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab:
+                                    <a href = "https://github.com/berkeleyGamedev/TilemapLab">Tile Map</a></td>
+                                <td>Project 1 Part 1 due</td>
                                 <td>Location: TBD</td>
                             </tr>
                             <tr class="gray-bg">
@@ -392,8 +393,8 @@
                                 <td>5</td>
                                 <td class="td-left">Lecture TBD</td>
                                 <td class= "weeknum" rowspan = "2"><a href="https://www.gamasutra.com/view/feature/132341/the_13_basic_principles_of_.php?page=2 ">Basic Principles of Gameplay Design</a></td>
-                                <td>Artist Lab:<a href = " https://github.com/berkeleyGamedev/AnimationLab">Animations</a></td>
-                                <td>Project 1 Part 1 due</td>
+                                <td>Lab: TBD</td>
+                                <td></td>
                                 <td>Location: TBD</td>
                             </tr>
                             <!-- week 3 -->
@@ -402,8 +403,7 @@
                                 <td>Fr 2/12</td>
                                 <td>6</td>
                                 <td class="td-left"><a>Lecture TBD</a></td>
-                                <td>Programmer Lab:<a href= "https://github.com/berkeleyGamedev/Advanced-Scripting">Advanced Scripting </a><br>
-                                Artist Lab:<a href = "https://github.com/berkeleyGamedev/AnimatorAndBlendTreesLab"> Animators and Blend Trees </a></td>
+                                <td>Lab: TBD</td>
                                 <td>Project 1 Part 2<br><a href = " http://tiny.cc/proj1programmer"> Programmer</a><br><a href=" http://tiny.cc/proj1musichybrid"> Progrmmaer Musician Hybrid</a><br>
                                 <a href= " http://tiny.cc/proj1arthybrid">Programmer Artist Hybrid </a> <br><a href = "http://tiny.cc/proj1artist">Artist</a> </td>
                                 <td>Location: TBD</td>
@@ -414,7 +414,7 @@
                                 <td>7</td>
                                 <td class="td-left">Lecture TBD</td>
                                 <td class="weeknum" rowspan="2"><a href="http://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php">How to Pitch your Project to Publishers</a></td>
-                                <td> Programmer Lab:<a href="https://github.com/berkeleyGamedev/ColliderLab">Colliders</a><br> Artist Lab:<a href=" https://github.com/berkeleyGamedev/TilesetLab">Tilesets</a></td>
+                                <td> Lab: TBD</td>
                                 <td></td>
                                 <td>Location: TBD</td>
                             </tr>
