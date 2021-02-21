@@ -34,26 +34,25 @@
         <div class="background games"></div>
         <main class="mdl-layout__content">
             <div class="page-content">
-                <h1 class="page-title" style="margin-bottom: 50px">Bear Jams Fall 2020</h1>
+                <h1 class="page-title" style="margin-bottom: 50px">Bear Jams Spring 2021</h1>
                 <div class="page-main">
-                    <div style="height: 350px; width: 700px; background-image: url('images/bearjams_fa20.png')"></div>
+                    <div style="height: 350px; width: 700px; background-image: url('images/bear_jams_sp21.png')"></div>
                     <p id="bearjams_p">
                         <span>Location:</span> <a href="https://tinyurl.com/GDDAtBerkeley" style="background: none; padding: 0; color: rgb(178,255,89);">GDD Discord</a><br>
-                        <span>Time (Jam):</span> Fri, October 23 6PM - Sun, October 25 3PM<br>
-                        <span>Time (Showcase):</span> Sun, October 25 6PM - 8PM<br>
-                        We'd appreciate it if anyone who is interested in participating would fill out a RSVP form!
+                        <span>Time (Jam):</span> Fri, March 5, 6PM - Sun, March 7, 3PM<br>
+                        <span>Time (Showcase):</span> Sun, March 7, 7PM - 8:30PM
                         <br>
                         <br>
-                        <a href="https://itch.io/jam/bear-jams-fall-2020">itch.io</a>
+                        <a href="https://itch.io/jam/bear-jams-spring-2021">itch.io</a>
                         <br>
                         <br>
-                        <a href="https://tinyurl.com/BearJamsFa20">RSVP Here</a>
+                        <!--<a href="https://tinyurl.com/BearJamsFa20">RSVP Here</a>
+                        <br>
+                        <br>-->
+                        <a href="https://tinyurl.com/BearJamsSp21Zoom">Zoom Link</a>
                         <br>
                         <br>
-                        <a href="https://www.facebook.com/events/686883735371185">Facebook Event</a>
-                        <br>
-                        <br>
-                        <a href="https://tinyurl.com/BearJamsFa20Zoom">Zoom Link</a>
+                        <a href="https://www.facebook.com/events/711240509560902/">Facebook Event</a>
                     </p>
                 </div>
                 <h1 class="section-title">Event Info</h1>
@@ -62,13 +61,13 @@
                     <br><br>
                     Join Game Design and Development at Berkeley for Bear Jams! Bear Jams is a 45-hr game jam open to everyone, not just UC Berkeley students! 
                     <br><br>
-                    The event starts at 6:00PM where we give an introduction, followed by the theme reveal @ 6:30 PM. There will be time to get to know other participants and form teams. 
+                    The event starts at 6:00PM where we give an introduction, followed by the theme reveal @ 6:30 PM. There will be time to get to know other participants and form teams in the Zoom call afterward.
                     <br><br>
-                    After the theme is announced, our Discord will have a voice and chat channel for participants to hang-out. Between 10 AM and 8 PM every day during the jam, we will have at least one GDD staff member online in the server. Participants can ask both questions about the events and for help with their game and we will try our best to answer.
+                    After the theme is announced, our Discord will have voice and chat channels open for participants to hang-out, make teams, and contact staff. Participants are welcome to @ any of the staff at any time and are more than welcome to ask both questions about the event and for help with their game.
                     <br><br>
-                    This jam is hosted on the GDD itch.io at <a href="https://itch.io/jam/bear-jams-fall-2020">itch.io/jam/bear-jams-fall-2020</a>. Make sure you join and submit there!
+                    This jam is hosted on the GDD itch.io at <a href="https://itch.io/jam/bear-jams-spring-2021">itch.io/jam/bear-jams-fall-2020</a>. <strong>Make sure you join and submit there!</strong>
                     <br><br>
-                    Submissions will be due at 3 PM PST on Sunday (we will have a 10 minute grace period BUT DON'T ABUSE IT). Winners will be announced during the showcase from 6 - 8 PM PST on Sunday.  
+                    Submissions will be due at 3 PM PST on Sunday (we will have a 10 minute grace period BUT DON'T ABUSE IT). Winners will be announced during the showcase from 7 - 8:30 PM PST on Sunday.  
                     <br><br>
                     Participation is open to everyone, not just Berkeley students! There is no difference between teams with and without students! We are excited to see all of the wonderful games you guys will create!
                     <br><br>
@@ -76,7 +75,7 @@
                     <br><br>
                     1st: $50 Steam gift cards<br>
                     2nd: $25 Amazon gift cards<br>
-                    3rd: Under Armour Swag
+                    3rd: [to be determined, merchandise]
                     <br><br>
                     These prizes will be distributed on a per-member basis for each winning team (for example, a four-person 1st-place team will win four $50 Steam gift cards).
                     <br><br>
@@ -85,13 +84,15 @@
                 </p>
                 <h1 class="section-title">Submission Details</h1>
                 <p>
-                    <strong>Submission Deadline: Sunday, 8/25 @ 3 PM PST</strong>
+                    <strong>Submission Deadline: Sunday, 3/7 @ 3 PM PST</strong>
                     <br><br>
-                    Submissions MUST include EITHER:
+                    Any ONE of the follow submission formats are acceptable, and, while not necessary, we’d appreciate it if you submit for multiple platforms:
                     <br><br>
                     1) A WebGL Build (or any build that can be played online on the itch page)
                     <br><br>
-                    2) A Windows AND Mac Build
+                    2) A Windows Build
+                    <br><br>
+                    3) A Mac Build
                 </p>
             </div>
             <!-- fixes a bug for some reason -->
