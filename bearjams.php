@@ -75,7 +75,7 @@
                     <br><br>
                     1st: $50 Steam gift cards<br>
                     2nd: $25 Amazon gift cards<br>
-                    3rd: [to be determined, merchandise]
+                    3rd: Under Armour Swag
                     <br><br>
                     These prizes will be distributed on a per-member basis for each winning team (for example, a four-person 1st-place team will win four $50 Steam gift cards).
                     <br><br>
