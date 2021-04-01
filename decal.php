@@ -71,7 +71,7 @@
                         <a href="#general-policy">General Policy</a>
                         <a href="#facilitators">Facilitators</a>
                     </ul>-->
-                    <div style="display: flex">
+                    <div id="decal-course-info" style="display: flex">
                         <div>
                             <h1 class="section-title" id="course-info">Course Info</h1>
                             <div>
