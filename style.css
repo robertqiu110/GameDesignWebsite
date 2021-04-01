@@ -932,3 +932,26 @@ li {
   transition: background-color 0.2s;
   background-color: #ffe0a1;
 }
+
+@media (max-width: 800px) {
+  #index-intro {
+    display: block;
+  }
+
+  #index-intro > div {
+    width: 100%;
+    margin-bottom: 80px;
+  }
+
+  .page-main {
+    display: block;
+  }
+
+  .page-main > div, p {
+    width: 100% !important;
+  }
+
+  .page-main > div {
+    margin-bottom: 30px;
+  }
+}
