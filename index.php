@@ -75,7 +75,7 @@
             <div class="section-main">
             	<div class="page-content">
             		<h2 class="section-title">Featured Events <a href="club.php?tab=events">Find Out More</a></h2>
-            		<a href="bearjams.php"><img src="images/bear_jams_sp21.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
+            		<a href="https://fb.me/e/ueQNVryh"><img src="images/Spring2021Showcase.png" style="width:100%; height: auto; border-radius: 4px;"></img></a>
             	</div>
             </div>
             <div class="section-main">
